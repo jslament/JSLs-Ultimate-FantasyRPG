@@ -1,0 +1,608 @@
+{
+	"3vnlvm3zhtwyhbca": {
+		"definition": "spell_power+0.02",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"35eq7e244ljjsn94": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"39u3kniqyk4mzq5q": {
+		"definition": "spell_resist+0.01",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"fqx0p6b8ntrz93ag": {
+		"definition": "max_mana+5",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"5oo3bnx62bdgdq1h": {
+		"definition": "spell_power+0.02",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"gabm6hc6mqc1l27b": {
+		"definition": "cooldown_reduction+0.02",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"uzg9c2uhc4x8jgcd": {
+		"definition": "spell_resist+0.02",
+		"x": 0,
+		"y": 192,
+		"root": false
+	},
+	"f28h0xm5mtg28q1a": {
+		"definition": "max_mana+10",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"ltdj0l6e4ogu0ycd": {
+		"definition": "spell_power+0.01",
+		"x": 0,
+		"y": -256,
+		"root": false
+	},
+	"r5lbho8nt34c21h4": {
+		"definition": "spell_power+0.01",
+		"x": -64,
+		"y": -320,
+		"root": false
+	},
+	"lj2609gsja1bb8ol": {
+		"definition": "spell_power+0.01",
+		"x": 64,
+		"y": -320,
+		"root": false
+	},
+	"qyqrf6psj1m79t8n": {
+		"definition": "spell_resist+0.01",
+		"x": 0,
+		"y": 256,
+		"root": false
+	},
+	"zf6kbu04b59rodfk": {
+		"definition": "spell_resist+0.01",
+		"x": 64,
+		"y": 320,
+		"root": false
+	},
+	"yz6w2e3ueuzl06xf": {
+		"definition": "spell_resist+0.01",
+		"x": -64,
+		"y": 320,
+		"root": false
+	},
+	"f1gwms59ty86klt9": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 256,
+		"y": 0,
+		"root": false
+	},
+	"l93s3k9qg9sbu32i": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 320,
+		"y": -64,
+		"root": false
+	},
+	"fj2agupwjq6w85d6": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 320,
+		"y": 64,
+		"root": false
+	},
+	"5y43my7j6uspzz5g": {
+		"definition": "max_mana+5",
+		"x": -256,
+		"y": 0,
+		"root": false
+	},
+	"6a93l75vah7trbb3": {
+		"definition": "max_mana+5",
+		"x": -320,
+		"y": 64,
+		"root": false
+	},
+	"cqke1gapbtyazuet": {
+		"definition": "max_mana+5",
+		"x": -320,
+		"y": -64,
+		"root": false
+	},
+	"5ut2alvgarj7ayqs": {
+		"definition": "max_mana+10",
+		"x": -320,
+		"y": 0,
+		"root": false
+	},
+	"bob8bd0wyac2xzyc": {
+		"definition": "spell_resist+0.02",
+		"x": 0,
+		"y": 320,
+		"root": false
+	},
+	"dhsq1rca9c3zj90q": {
+		"definition": "cooldown_reduction+0.02",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"apwrvl7zo6oyotzr": {
+		"definition": "spell_power+0.02",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"0qa2ysqmqyxv4n9z": {
+		"definition": "max_mana+5",
+		"x": -384,
+		"y": -96,
+		"root": false
+	},
+	"ns40nft9wgxrxza8": {
+		"definition": "spell_power+0.02",
+		"x": 96,
+		"y": -384,
+		"root": false
+	},
+	"3l881igcik983xku": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 384,
+		"y": 96,
+		"root": false
+	},
+	"3ocpt1qgq8wcrvf1": {
+		"definition": "spell_resist+0.01",
+		"x": -96,
+		"y": 384,
+		"root": false
+	},
+	"16x8aihtfka6w6ij": {
+		"definition": "spell_resist+0.01",
+		"x": 96,
+		"y": 384,
+		"root": false
+	},
+	"5719wnypw8pwoh9k": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 384,
+		"y": -96,
+		"root": false
+	},
+	"zz4ge76zxjc3xltp": {
+		"definition": "max_mana+5",
+		"x": -384,
+		"y": 96,
+		"root": false
+	},
+	"qhjc1ziwa9u31zkf": {
+		"definition": "spell_power+0.02",
+		"x": -96,
+		"y": -384,
+		"root": false
+	},
+	"z1wcepw5h96ykeob": {
+		"definition": "spell_power+0.01",
+		"x": 0,
+		"y": -416,
+		"root": true
+	},
+	"dxn83sqaj4b1p80a": {
+		"definition": "max_mana+5",
+		"x": -416,
+		"y": 0,
+		"root": true
+	},
+	"4gvup7plifntmpwy": {
+		"definition": "spell_resist+0.01",
+		"x": 0,
+		"y": 416,
+		"root": true
+	},
+	"fqmvzbfxo1b4an5z": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 416,
+		"y": 0,
+		"root": true
+	},
+	"d0ziv7l96x6nmb44": {
+		"definition": "max_mana+15",
+		"x": -64,
+		"y": 0,
+		"root": false
+	},
+	"5pygwaiy3fjdedm3": {
+		"definition": "cooldown_reduction+0.03",
+		"x": 64,
+		"y": 0,
+		"root": false
+	},
+	"mcfzrzet2n207d81": {
+		"definition": "spell_power+0.03",
+		"x": 0,
+		"y": -64,
+		"root": false
+	},
+	"uv76cj12kmokz2pz": {
+		"definition": "extra_spell_power+0.03",
+		"x": 0,
+		"y": 0,
+		"root": false
+	},
+	"h9qs0pz9bhsho9b9": {
+		"definition": "spell_resist+0.03",
+		"x": 0,
+		"y": 64,
+		"root": false
+	},
+	"2vnygzn2wqh3gtrw": {
+		"definition": "spell_power+0.01",
+		"x": -64,
+		"y": -128,
+		"root": false
+	},
+	"gqusl02zzsu5v1kq": {
+		"definition": "spell_power+0.01",
+		"x": 64,
+		"y": -128,
+		"root": false
+	},
+	"lblht3zyqivgwna9": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"s1euutq505m8zpv1": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"y8mbse0xvtspkaf1": {
+		"definition": "spell_resist+0.01",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"u8wupxwqkbgon735": {
+		"definition": "spell_resist+0.01",
+		"x": -64,
+		"y": 128,
+		"root": false
+	},
+	"qai1y4ksf5q549li": {
+		"definition": "max_mana+5",
+		"x": -128,
+		"y": 64,
+		"root": false
+	},
+	"hpkne5q490bkcmis": {
+		"definition": "max_mana+5",
+		"x": -128,
+		"y": -64,
+		"root": false
+	},
+	"qipya07kctl1feyi": {
+		"definition": "mana_regen+0.02",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"dezvg9riakmzi8v8": {
+		"definition": "mana_regen+0.02",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"rhhqr1wnpf88r62x": {
+		"definition": "mana_regen+0.02",
+		"x": 128,
+		"y": 128,
+		"root": false
+	},
+	"iksa8anlaeqxhujs": {
+		"definition": "mana_regen+0.02",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"41s4ibbvw7t8gs56": {
+		"definition": "spell_power+0.02",
+		"x": -96,
+		"y": -192,
+		"root": false
+	},
+	"p2lcj7phhi3nm5q3": {
+		"definition": "spell_power+0.02",
+		"x": 96,
+		"y": -192,
+		"root": false
+	},
+	"tlw6zu93lejrybiw": {
+		"definition": "cooldown_reduction+0.02",
+		"x": 192,
+		"y": -96,
+		"root": false
+	},
+	"hozao7v5odmnq0gh": {
+		"definition": "cooldown_reduction+0.02",
+		"x": 192,
+		"y": 96,
+		"root": false
+	},
+	"gee2wgvpntv4i2te": {
+		"definition": "spell_resist+0.02",
+		"x": 96,
+		"y": 192,
+		"root": false
+	},
+	"xnfj2q8d0vrxoxkl": {
+		"definition": "spell_resist+0.02",
+		"x": -96,
+		"y": 192,
+		"root": false
+	},
+	"r2o14csvuqbujaxm": {
+		"definition": "max_mana+10",
+		"x": -192,
+		"y": 96,
+		"root": false
+	},
+	"whl6die0ts7uel6v": {
+		"definition": "max_mana+10",
+		"x": -192,
+		"y": -96,
+		"root": false
+	},
+	"19162x04xfhf0rjj": {
+		"definition": "spell_power+0.01",
+		"x": -96,
+		"y": -256,
+		"root": false
+	},
+	"rz653yd49ml83err": {
+		"definition": "spell_power+0.01",
+		"x": -160,
+		"y": -192,
+		"root": false
+	},
+	"m2zb150dbgmke51c": {
+		"definition": "spell_power+0.01",
+		"x": 96,
+		"y": -256,
+		"root": false
+	},
+	"4660kzbkqyx9mpn6": {
+		"definition": "spell_power+0.01",
+		"x": 160,
+		"y": -192,
+		"root": false
+	},
+	"ih5fxywr8k8al4xb": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 192,
+		"y": -160,
+		"root": false
+	},
+	"04d666mjswm33ven": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 256,
+		"y": -96,
+		"root": false
+	},
+	"ebla0b8i235jx381": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 256,
+		"y": 96,
+		"root": false
+	},
+	"wxay7n48uww7zeo2": {
+		"definition": "cooldown_reduction+0.01",
+		"x": 192,
+		"y": 160,
+		"root": false
+	},
+	"2rpdecsx3nqh0klz": {
+		"definition": "spell_resist+0.01",
+		"x": 160,
+		"y": 192,
+		"root": false
+	},
+	"c4j8xn75u84ggsr5": {
+		"definition": "spell_resist+0.01",
+		"x": 96,
+		"y": 256,
+		"root": false
+	},
+	"foa5ebqsfypourq3": {
+		"definition": "spell_resist+0.01",
+		"x": -96,
+		"y": 256,
+		"root": false
+	},
+	"owzsj4ybex5mfsar": {
+		"definition": "spell_resist+0.01",
+		"x": -160,
+		"y": 192,
+		"root": false
+	},
+	"ozjdt7opwgks6g5x": {
+		"definition": "max_mana+5",
+		"x": -192,
+		"y": 160,
+		"root": false
+	},
+	"5fhx7hgcr1o11ep9": {
+		"definition": "max_mana+5",
+		"x": -256,
+		"y": 96,
+		"root": false
+	},
+	"pu4zzqm5d8qvcxbl": {
+		"definition": "max_mana+5",
+		"x": -256,
+		"y": -96,
+		"root": false
+	},
+	"r6r7qw4eao3u1qjg": {
+		"definition": "max_mana+5",
+		"x": -192,
+		"y": -160,
+		"root": false
+	},
+	"l1666kfo3q3q39j4": {
+		"definition": "spell_power+0.03",
+		"x": -192,
+		"y": -288,
+		"root": false
+	},
+	"qfcc1pnzcf611fi3": {
+		"definition": "spell_power+0.03",
+		"x": 192,
+		"y": -288,
+		"root": false
+	},
+	"2t656puxvno7blaj": {
+		"definition": "max_mana+15",
+		"x": -288,
+		"y": -192,
+		"root": false
+	},
+	"05zireof4ox7jvxs": {
+		"definition": "max_mana+15",
+		"x": -288,
+		"y": 192,
+		"root": false
+	},
+	"7qu2cqp2yb7zwo3d": {
+		"definition": "spell_resist+0.03",
+		"x": -192,
+		"y": 288,
+		"root": false
+	},
+	"wdgiv1fk7l7pb8l3": {
+		"definition": "spell_resist+0.03",
+		"x": 192,
+		"y": 288,
+		"root": false
+	},
+	"yz9p6kcp46lror2j": {
+		"definition": "cooldown_reduction+0.03",
+		"x": 288,
+		"y": 192,
+		"root": false
+	},
+	"rkardumf1pum15fr": {
+		"definition": "cooldown_reduction+0.03",
+		"x": 288,
+		"y": -192,
+		"root": false
+	},
+	"ud3izsxa0oh3zx08": {
+		"definition": "mana_regen+0.02",
+		"x": -288,
+		"y": -288,
+		"root": false
+	},
+	"y7d151yzh7hjvfia": {
+		"definition": "mana_regen+0.02",
+		"x": 288,
+		"y": -288,
+		"root": false
+	},
+	"pmg8wty0wanaaosd": {
+		"definition": "mana_regen+0.02",
+		"x": 288,
+		"y": 288,
+		"root": false
+	},
+	"rql721zsrvckvmcf": {
+		"definition": "mana_regen+0.02",
+		"x": -288,
+		"y": 288,
+		"root": false
+	},
+	"iyny7o0qfnax4sqt": {
+		"definition": "spell_power+0.03",
+		"x": -288,
+		"y": -352,
+		"root": false
+	},
+	"m5qgrnj8wbkk9c03": {
+		"definition": "spell_power+0.03",
+		"x": 288,
+		"y": -352,
+		"root": false
+	},
+	"betoy5ccq4cyj5zl": {
+		"definition": "max_mana+15",
+		"x": -352,
+		"y": -288,
+		"root": false
+	},
+	"3hw7et6blzpikmik": {
+		"definition": "max_mana+15",
+		"x": -352,
+		"y": 288,
+		"root": false
+	},
+	"x7u9mecf0spd56ro": {
+		"definition": "spell_resist+0.03",
+		"x": -288,
+		"y": 352,
+		"root": false
+	},
+	"q3jn90ppba47u0ev": {
+		"definition": "spell_resist+0.03",
+		"x": 288,
+		"y": 352,
+		"root": false
+	},
+	"jm0m1q10v5v1zlzo": {
+		"definition": "cooldown_reduction+0.03",
+		"x": 352,
+		"y": 288,
+		"root": false
+	},
+	"10q028d1kb5xpfxq": {
+		"definition": "cooldown_reduction+0.03",
+		"x": 352,
+		"y": -288,
+		"root": false
+	},
+	"ei73mox1p13emwcd": {
+		"definition": "mana_regen+0.02",
+		"x": -352,
+		"y": -352,
+		"root": false
+	},
+	"h9w2o9vb0ddpt2h9": {
+		"definition": "mana_regen+0.02",
+		"x": 352,
+		"y": -352,
+		"root": false
+	},
+	"c224i6tmsurzhfey": {
+		"definition": "mana_regen+0.02",
+		"x": 352,
+		"y": 352,
+		"root": false
+	},
+	"vrpipiha9jjmjgaf": {
+		"definition": "mana_regen+0.02",
+		"x": -352,
+		"y": 352,
+		"root": false
+	}
+}

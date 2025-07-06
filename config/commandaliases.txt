@@ -1,0 +1,6 @@
+c | gamemode creative
+s | gamemode survival
+sp | gamemode spectator
+h | kubejs hand
+n | effect give @s minecraft:night_vision infinite 0 true
+r | reload

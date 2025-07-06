@@ -1,0 +1,231 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "tips__tricks"
+	group: "30DF2C7F5C08C1E7"
+	id: "4ECD2DE8A7145508"
+	images: [
+		{
+			click: "#4C3651A7C9904DC3"
+			height: 1.0d
+			hover: ["Join the Discord!"]
+			image: "moonlight:textures/gui/sprites/media/discord.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			click: "#59FAF1970F757E58"
+			height: 1.0d
+			image: "moonlight:textures/gui/sprites/media/github.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			click: "#7D1CEF50065B43E7"
+			height: 1.0d
+			image: "moonlight:textures/gui/sprites/media/curseforge.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			click: "#50E4E3C3576F62A2"
+			height: 1.0d
+			hover: ["Known Issues"]
+			image: "azurelib:icons/warning"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:textures/particle/heart.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:luck"
+					}
+				}
+				id: "minecraft:potion"
+			}
+			id: "641BE3661AC8715D"
+			tasks: [{
+				id: "2A4979301EBF5EEC"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "75242A4F0B6475F3"
+			tasks: [{
+				id: "3745862D5214429F"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "14B0DDB84D959142"
+			tasks: [{
+				id: "664211AA7147F310"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:swords)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:player_head"
+			}
+			id: "7A392AAA7BB25F48"
+			tasks: [{
+				id: "2BA2933DD0E7E928"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:white_bed"
+			}
+			id: "160962902F685752"
+			tasks: [{
+				id: "355468EE96AF2426"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "1B005FBC082B9C81"
+			tasks: [{
+				id: "26BD1F01767D8521"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "4C3651A7C9904DC3"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "4089E5786E245A13"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			id: "59FAF1970F757E58"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "6EE4EF4535218BF9"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			id: "7D1CEF50065B43E7"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "2C327AAB0FC0F093"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			id: "50E4E3C3576F62A2"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "387654B155CD42DC"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "5194D0BA4C9EDDA7"
+			shape: "none"
+			tasks: [{
+				id: "1E49219680A29FF8"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "minecraft:villager_spawn_egg"
+			}
+			id: "481AD9F0A4FB34DC"
+			tasks: [{
+				id: "7E9705156A20BA52"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			id: "5E43A6CBE171C6F2"
+			rewards: [{
+				id: "25E9BC8F7046114E"
+				item: {
+					components: {
+						"patchouli:book": "apotheosis:apoth_chronicle"
+					}
+					count: 1
+					id: "patchouli:guide_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "apotheosis:progression/root"
+				criterion: ""
+				id: "06224C5EE54B099D"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "6E6457793C55F75E"
+			tasks: [{
+				id: "55CD698B74CBDCB8"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+	]
+}

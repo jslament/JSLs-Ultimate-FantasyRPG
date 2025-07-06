@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751649420398,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lixZg7CGrP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751546545108,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BtrXcSDGCF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751546125124,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bHaxcAAqA2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751544523039,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/btBhShbuFp"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751478651419,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/10q7eIW6sc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751478422746,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/8PLf6xXJVq"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751110012327,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OBaVZJlkoc"
+    }
+  }
+]

@@ -1,0 +1,89 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.wood_type.eternal_starlight]
+			lunar = true
+			northland = true
+			starlight_mangrove = true
+			scarlet = true
+			torreya = true
+			jinglestem = true
+
+		[types.wood_type.arts_and_crafts]
+			cork = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.hazennstuff]
+			wisewood = true
+
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			aurum = true
+			edelwood = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+		[types.wood_type.dawnoftimebuilder]
+			waxed_oak = true
+			charred_spruce = true
+
+		[types.leaves_type.eternal_starlight]
+			lunar = true
+			northland = true
+			starlight_mangrove = true
+			scarlet = true
+			torreya = true
+
+		[types.leaves_type.arts_and_crafts]
+			cork = true
+
+		[types.leaves_type.hazennstuff]
+			wisewood = true
+
+		[types.leaves_type.forbidden_arcanus]
+			aurum = true
+			nuggety_aurum = true
+
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			couch = true
+			shelf = true
+			nightstand = true
+			table = true
+			chair = true
+			drawer = true
+			cupboard = true
+			pillar_trim = true
+			dining_bench = true
+			side_table = true
+			bench = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.dawnoftimebuilder]
+			planks_edge = true
+			wall = true
+			fancy_fence = true
+			couch = true
+			planks_plate = true
+			lattice = true
+			support_beam = true
+			legless_chair = true
+			low_table = true
+			beam = true
+			support_slab = true
+			footstool = true
+			pergola = true

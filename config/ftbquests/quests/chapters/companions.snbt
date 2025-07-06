@@ -1,0 +1,38 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "companions"
+	group: "634D007CD5F05D70"
+	id: "61CDFE234D648952"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5503C8AF74411AFA"
+			tasks: [{
+				id: "43393EB25C7BE4C9"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "2D279C2D37F03B0D"
+			tasks: [{
+				id: "38897D9EECE0D10E"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "7065DAB2A951EFE9"
+			tasks: [{
+				id: "052E71C14142194B"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+}

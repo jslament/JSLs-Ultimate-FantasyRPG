@@ -1,0 +1,160 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dark_fantasy"
+	group: "30DF2C7F5C08C1E7"
+	icon: {
+		components: {
+			"relics:data": {
+				abilities: {
+					abilities: {
+						glowing_scour: {
+							extender: {
+								cooldown: 0
+								cooldownCap: 0
+								ticking: 0b
+							}
+							lock: {
+								breaks: 5
+							}
+							points: 0
+							research: {
+								links: { }
+								researched: 0b
+							}
+							stats: {
+								cooldown: {
+									initialValue: 15.81547d
+								}
+								glowing_time: {
+									initialValue: 10.29297d
+								}
+							}
+						}
+					}
+				}
+				leveling: {
+					experience: 0
+					level: 0
+					luck: 0
+					points: 0
+				}
+			}
+		}
+		id: "reliquified_lenders_cataclysm:scouring_eye"
+	}
+	id: "2BB52A3B5EAADE56"
+	images: [
+		{
+			height: 6.0d
+			image: "forbidden_arcanus:block/clibano/clibano_center_top"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "forbidden_arcanus:item/quantum_catcher/quantum_catcher_inner"
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependency_lines: true
+			icon: {
+				id: "irons_spellbooks:invisibility_ring"
+			}
+			id: "3218D888DA96F77E"
+			invisible: true
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:player"
+				icon: {
+					id: "minecraft:dragon_head"
+				}
+				id: "1654DDE307DE285D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7885296B177AE8E3"
+			rewards: [{
+				advancement: "apotheosis:progression/pinnacle"
+				criterion: ""
+				id: "3255A2AA07916C87"
+				type: "advancement"
+			}]
+			tasks: [{
+				id: "3A3C42A29167184D"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			id: "7EE83E5B59706436"
+			tasks: [{
+				entity: "fdbosses:chesed"
+				id: "4583EF8241708C01"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "69819DD6BAA56991"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				id: "091FC0A58BC2D332"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "6551BF6A37291504"
+			tasks: [{
+				entity: "cataclysm:scylla"
+				id: "3AA62C185867BF05"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			id: "6CC5370ACDCE1CD5"
+			tasks: [{
+				entity: "irons_spellbooks:fire_boss"
+				id: "5743B3C881B5CBAC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "6A2CF53DB8AB15D2"
+			tasks: [{
+				entity: "eternal_starlight:starlight_golem"
+				id: "2C1FE7DD26C90F46"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "magic_coins:add_item",
+  "conditions": [],
+  "loot_tables": [
+  ],
+  "items": [
+    {
+      "item": "magic_coins:silver_coin",
+      "chance": 0.75,
+      "min": 5,
+      "max": 10
+    },
+    {
+      "item": "magic_coins:gold_coin",
+      "chance": 0.20,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}
