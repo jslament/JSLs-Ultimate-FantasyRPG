@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis"
+	group: "32FA6FC13196390B"
+	id: "6772A857951F324A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6BAA2C5976B99534"
+			tasks: [{
+				id: "41C0DA01927DB298"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "27D1BF920FCB569C"
+			tasks: [{
+				id: "47B02B85F90F731C"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+	]
+}

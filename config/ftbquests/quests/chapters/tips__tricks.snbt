@@ -44,6 +44,7 @@
 			y: -3.0d
 		}
 		{
+			click: "#5194D0BA4C9EDDA7"
 			height: 2.0d
 			image: "minecraft:textures/particle/heart.png"
 			rotation: 0.0d
@@ -176,7 +177,7 @@
 				id: "minecraft:diamond"
 			}
 			id: "5194D0BA4C9EDDA7"
-			shape: "none"
+			invisible: true
 			tasks: [{
 				id: "1E49219680A29FF8"
 				type: "checkmark"

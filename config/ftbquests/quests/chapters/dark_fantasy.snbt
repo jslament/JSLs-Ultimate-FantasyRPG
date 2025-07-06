@@ -87,21 +87,6 @@
 			y: 0.0d
 		}
 		{
-			id: "7885296B177AE8E3"
-			rewards: [{
-				advancement: "apotheosis:progression/pinnacle"
-				criterion: ""
-				id: "3255A2AA07916C87"
-				type: "advancement"
-			}]
-			tasks: [{
-				id: "3A3C42A29167184D"
-				type: "checkmark"
-			}]
-			x: -5.0d
-			y: -7.0d
-		}
-		{
 			id: "7EE83E5B59706436"
 			tasks: [{
 				entity: "fdbosses:chesed"
@@ -132,7 +117,7 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -7.0d
+			y: -11.0d
 		}
 		{
 			id: "6CC5370ACDCE1CD5"
@@ -143,18 +128,386 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -5.0d
+			y: -7.0d
 		}
 		{
+			dependencies: ["08AA2EB27233C486"]
 			id: "6A2CF53DB8AB15D2"
+			rewards: [{
+				advancement: "apotheosis:progression/haven"
+				criterion: ""
+				id: "2A879F52CF4B3904"
+				type: "advancement"
+			}]
 			tasks: [{
 				entity: "eternal_starlight:starlight_golem"
 				id: "2C1FE7DD26C90F46"
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
+			x: -8.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["569E11D45053E869"]
+			id: "46B80CAC99C79166"
+			tasks: [{
+				id: "74354A3D29792982"
+				item: { count: 1, id: "quest_items:pharaohs_mask" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["1DD7F282420951B2"]
+			id: "569E11D45053E869"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				id: "62D27DC0182EA644"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"77A53B26AD64488F"
+				"2140D576C8E6EA3F"
+			]
+			id: "08AA2EB27233C486"
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				id: "653CAFC1B9F059EE"
+				type: "dimension"
+			}]
+			x: -6.5d
+			y: -15.0d
+		}
+		{
+			id: "77A53B26AD64488F"
+			tasks: [{
+				entity: "eternal_starlight:the_gatekeeper"
+				id: "1E029E1BCC27E0BB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.5d
+			y: -15.0d
+		}
+		{
+			id: "2140D576C8E6EA3F"
+			tasks: [{
+				id: "66CD88C6924FA499"
+				item: { count: 1, id: "quest_items:aether_essence" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -16.0d
+		}
+		{
+			id: "5CEAA6F0BBF63ABF"
+			tasks: [{
+				id: "34A97B35173F90C1"
+				item: { count: 1, id: "quest_items:ancient_king_scepter" }
+				type: "item"
+			}]
+			x: -9.0d
 			y: -6.0d
+		}
+		{
+			id: "6046BDFDF1D609DD"
+			tasks: [{
+				id: "5AD170F71D190EDC"
+				item: { count: 1, id: "quest_items:black_pearl" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -11.0d
+		}
+		{
+			id: "5C64DAB8CACC27AF"
+			tasks: [{
+				id: "567BAC3330F77670"
+				item: { count: 1, id: "quest_items:corruption_orb" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			id: "748FBA382FBB6154"
+			tasks: [{
+				id: "14CC53A311FCCD49"
+				item: { count: 1, id: "quest_items:corrupted_grail" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			id: "3607FDF9DDB2DFA3"
+			tasks: [{
+				id: "29527E68D9C1D565"
+				item: { count: 1, id: "quest_items:cursed_crown" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -15.0d
+		}
+		{
+			id: "3F7281FAC4668B39"
+			tasks: [{
+				id: "16B6A317E6E3E856"
+				item: { count: 1, id: "quest_items:deep_see_crystal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			id: "1DD7F282420951B2"
+			tasks: [{
+				id: "17E99B6C39AE66C8"
+				item: { count: 1, id: "quest_items:desert_rose" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -8.5d
+		}
+		{
+			id: "52C077C7D58CC1AC"
+			tasks: [{
+				id: "205F0DC8FABE31AD"
+				item: { count: 1, id: "quest_items:evil_codex" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -15.0d
+		}
+		{
+			id: "3B18DA9F83307D27"
+			tasks: [{
+				id: "227EE95D180BDD95"
+				item: { count: 1, id: "quest_items:frozen_grail" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "319A46A54E3320A7"
+			tasks: [{
+				id: "138FFF7EA5EAB8BE"
+				item: { count: 1, id: "quest_items:frozen_skull" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "477D25AA1661C401"
+			tasks: [{
+				id: "060765638F335D7B"
+				item: { count: 1, id: "quest_items:golden_lantern" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			id: "11B6CB2F30D664F6"
+			tasks: [{
+				id: "693E6CEA7EA23420"
+				item: { count: 1, id: "quest_items:magnificent_clam_shell" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			id: "03A75385F4F2F28E"
+			tasks: [{
+				id: "084B7BD09E8EB47E"
+				item: { count: 1, id: "quest_items:molten_tablet" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			id: "1D7833F5A05BAEC7"
+			tasks: [{
+				id: "1867FDEB6621811C"
+				item: { count: 1, id: "quest_items:mossy_tablet" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "7C9522134517479F"
+			tasks: [{
+				id: "2F6FB76A0F642E8A"
+				item: { count: 1, id: "quest_items:red_urn" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			id: "1611F7DD05FAA5E4"
+			tasks: [{
+				id: "1D100B091DC777C0"
+				item: { count: 1, id: "quest_items:rotten_heart" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -15.0d
+		}
+		{
+			id: "7EEE049D0FE2A218"
+			tasks: [{
+				id: "46F867C828788A8E"
+				item: { count: 1, id: "quest_items:sack_of_magic_dust" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			id: "2FFE9A9DD0A32530"
+			tasks: [{
+				id: "1A2C58E63605397A"
+				item: { count: 1, id: "quest_items:shackles" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -15.0d
+		}
+		{
+			id: "75F965419B3763D6"
+			tasks: [{
+				id: "23FE5620E1B0B3C5"
+				item: { count: 1, id: "quest_items:silver_feather" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			id: "47B621E33E9BBF37"
+			tasks: [{
+				id: "6969F7E00F76FD16"
+				item: { count: 1, id: "quest_items:skeletal_hand" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -15.0d
+		}
+		{
+			id: "2694F772FDC85F2D"
+			tasks: [{
+				id: "1C559E7E95B77A90"
+				item: { count: 1, id: "quest_items:stone_idol" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "0E88D4F69A512D7D"
+			tasks: [{
+				id: "5352E3BBC14DD581"
+				item: { count: 1, id: "quest_items:toxic_vial" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			id: "6EFB75E321E246A5"
+			tasks: [{
+				id: "1D99D6977BC2AD4A"
+				item: { count: 1, id: "quest_items:tribal_totem" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			id: "7BE4C85238A0F969"
+			tasks: [{
+				id: "071C092A65A195C5"
+				item: { count: 1, id: "quest_items:undead_essence" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -15.0d
+		}
+		{
+			id: "69F2090391D67528"
+			tasks: [{
+				id: "7C705081D7096FED"
+				item: { count: 1, id: "quest_items:unholy_candle" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			id: "25F28DCAAB7C099A"
+			tasks: [{
+				id: "277D263FABBA214E"
+				item: { count: 1, id: "quest_items:warden_ears" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			id: "1A3ACA4886E27C54"
+			tasks: [{
+				id: "642DF80C5E6129D5"
+				item: { count: 1, id: "quest_items:wildfire_essence" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			id: "5BA5824556E1AADA"
+			tasks: [{
+				id: "1AC9F033C21ABA70"
+				item: { count: 1, id: "quest_items:wither_ribcage" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			id: "3996C5805550D55E"
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				id: "0AA78EB628BB1AB2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["5BA5824556E1AADA"]
+			id: "77F75AD569FE73F0"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "77C752D2B50CF459"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -9.0d
 		}
 	]
 }

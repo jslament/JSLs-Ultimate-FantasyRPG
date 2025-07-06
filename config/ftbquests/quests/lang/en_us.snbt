@@ -6,6 +6,7 @@
 	chapter.5CEAAF41969C32F0.title: "Relics"
 	chapter.61CDFE234D648952.title: "Companions"
 	chapter.61D576C588C19262.title: "Storage"
+	chapter.6772A857951F324A.title: "Apotheosis"
 	chapter_group.30DF2C7F5C08C1E7.title: "FantasyRPG"
 	chapter_group.32FA6FC13196390B.title: "Magic"
 	chapter_group.634D007CD5F05D70.title: "Misc"
@@ -90,7 +91,7 @@
 	quest.278831E0A5249166.quest_desc: [
 		"Ready to test your luck?"
 		""
-		"🪙 &l&6Coins&r&r  "
+		"&l&6Coins&r&r  "
 		"You'll find coins by:  "
 		"- Opening chests  "
 		"- Completing quests  "
@@ -118,7 +119,7 @@
 		"{image:adorablehamsterpets:item/hamster_spawn_egg width:100 height:100 align:center}"
 	]
 	quest.2CCAC7673B3BE9FA.quest_subtitle: "Woohoo! Diamonds!"
-	quest.2CCAC7673B3BE9FA.title: "Shiny!"
+	quest.2CCAC7673B3BE9FA.title: "Diamonds"
 	quest.3218D888DA96F77E.title: "&kkrieusoigunsogu"
 	quest.33133FDD6E4C949B.quest_desc: [
 		"&l&6Conveyor Belts&r&r can move items automatically between machines and containers.  "

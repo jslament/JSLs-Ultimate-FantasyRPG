@@ -7,7 +7,15 @@
 	images: [
 		{
 			height: 1.0d
-			image: "emi_loot:textures/gui/pickaxe_iron.png"
+			image: "minecraft:item/stone_pickaxe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
 			x: 12.0d
@@ -15,18 +23,10 @@
 		}
 		{
 			height: 1.0d
-			image: "emi_loot:textures/gui/pickaxe_diamond.png"
+			image: "minecraft:item/diamond_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
 			x: 18.0d
-			y: -1.0d
-		}
-		{
-			height: 1.0d
-			image: "emi_loot:textures/gui/pickaxe_stone.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.0d
 			y: -1.0d
 		}
 	]
@@ -127,14 +127,14 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["79D9F19908D0573D"]
+			dependencies: ["347BD2D96FB9FEEC"]
 			id: "33133FDD6E4C949B"
 			tasks: [{
 				id: "3874FF348570A502"
 				item: { count: 1, id: "belts:belt" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 3.0d
 			y: 1.5d
 		}
 		{
@@ -360,24 +360,15 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["347BD2D96FB9FEEC"]
-			id: "6BAA2C5976B99534"
+			dependencies: ["79D9F19908D0573D"]
+			id: "64A5E3932055D904"
 			tasks: [{
-				id: "41C0DA01927DB298"
-				type: "checkmark"
+				id: "036E26F57FAEB437"
+				item: { count: 1, id: "exposure:camera" }
+				type: "item"
 			}]
-			x: 3.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["2CCAC7673B3BE9FA"]
-			id: "27D1BF920FCB569C"
-			tasks: [{
-				id: "47B02B85F90F731C"
-				type: "checkmark"
-			}]
-			x: 15.0d
-			y: 4.0d
+			x: 9.0d
+			y: 1.5d
 		}
 	]
 }
