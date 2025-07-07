@@ -228,5 +228,22 @@
 			x: 2.0d
 			y: -1.5d
 		}
+		{
+			id: "202991E315A61EC2"
+			tasks: [
+				{
+					id: "1A37E56B8FC9F39B"
+					item: { count: 1, id: "solonion:food_book" }
+					type: "item"
+				}
+				{
+					id: "7D15824845A5C15D"
+					item: { count: 1, id: "solcarrot:food_book" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
 	]
 }

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "G": {
+      "item": "hazennstuff:deus_essence"
+    }
+  },
+  "pattern": [
+    "DED",
+    "EGE",
+    "DED"
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:warp_stone"
+  }
+}

@@ -145,7 +145,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -8.5d
+			x: -6.5d
 			y: -13.5d
 		}
 		{
@@ -172,10 +172,7 @@
 			y: -8.5d
 		}
 		{
-			dependencies: [
-				"77A53B26AD64488F"
-				"2140D576C8E6EA3F"
-			]
+			dependencies: ["77A53B26AD64488F"]
 			id: "08AA2EB27233C486"
 			tasks: [{
 				dimension: "eternal_starlight:starlight"
@@ -203,8 +200,8 @@
 				item: { count: 1, id: "quest_items:aether_essence" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: -16.0d
+			x: -4.0d
+			y: -11.0d
 		}
 		{
 			id: "5CEAA6F0BBF63ABF"

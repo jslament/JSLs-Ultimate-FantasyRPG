@@ -23,30 +23,8 @@
 			aurum = true
 			edelwood = true
 
-		[types.wood_type.regions_unexplored]
-			alpha = true
-			baobab = true
-			blackwood = true
-			blue_bioshroom = true
-			brimwood = true
-			cobalt = true
-			cypress = true
-			dead = true
-			eucalyptus = true
-			green_bioshroom = true
-			joshua = true
-			kapok = true
-			larch = true
-			magnolia = true
-			maple = true
-			mauve = true
-			palm = true
-			pine = true
-			pink_bioshroom = true
-			redwood = true
-			socotra = true
-			willow = true
-			yellow_bioshroom = true
+		[types.wood_type.newworld]
+			fir = true
 
 		[types.leaves_type.eternal_starlight]
 			lunar = true
@@ -64,39 +42,6 @@
 		[types.leaves_type.forbidden_arcanus]
 			aurum = true
 			nuggety_aurum = true
-
-		[types.leaves_type.regions_unexplored]
-			bamboo = true
-			golden_larch = true
-			alpha = true
-			apple_oak = true
-			baobab = true
-			blackwood = true
-			magnolia = true
-			cypress = true
-			dead = true
-			dead_pine = true
-			eucalyptus = true
-			flowering = true
-			kapok = true
-			larch = true
-			maple = true
-			mauve = true
-			orange_maple = true
-			palm = true
-			pine = true
-			blue_magnolia = true
-			pink_magnolia = true
-			redwood = true
-			red_maple = true
-			brimwood = true
-			enchanted_birch = true
-			small_oak = true
-			silver_birch = true
-			socotra = true
-			white_magnolia = true
-			willow = true
-			ashen = true
 
 		[types.leaves_type.chipped]
 			apple_acacia = true
@@ -166,6 +111,9 @@
 			golden_apple_oak = true
 			golden_apple_spruce = true
 
+		[types.leaves_type.newworld]
+			fir = true
+
 #Disables specific entries
 [entries]
 
@@ -188,9 +136,6 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
-
-		[entries.wood_type.regions_unexplored]
-			branch = true
 
 		[entries.wood_type.chipped]
 			fine_planks = true
@@ -328,15 +273,3 @@
 			damaged_log = true
 			golden_barred_trapdoor = true
 			nailed_log = true
-
-		[entries.wood_type.another_furniture]
-			flower_box = true
-			shutter = true
-			drawer = true
-			shelf = true
-			bench = true
-			table = true
-			chair = true
-
-		[entries.leaves_type.regions_unexplored]
-			shrub = true

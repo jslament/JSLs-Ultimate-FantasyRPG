@@ -5,6 +5,32 @@
       "name": "bei2",
       "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
     },
+    "time": 1751898744170,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/R0cApzBbqG"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1751854535513,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LWvZO8S3pD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
     "time": 1751649420398,
     "type": "Profiler",
     "data": {

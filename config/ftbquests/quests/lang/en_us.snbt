@@ -283,16 +283,6 @@
 	]
 	quest.6FB2BDBD32E5F0FE.quest_subtitle: "Sound of the wind"
 	quest.75242A4F0B6475F3.quest_subtitle: "Spark and Observable"
-	quest.79444000B288F40E.quest_desc: [
-		"Add some life to your home with &l&eAnother Furniture&r&r"
-		""
-		"&oChairs, tables, lamps, curtains&r (and more) all sized to match vanilla blocks. "
-		""
-		"Place down some furniture and make it feel like home.  "
-		""
-		"{image:another_furniture:block/drawer/cherry_side width:100 height:100 align:center}"
-	]
-	quest.79444000B288F40E.quest_subtitle: "Furnished"
 	quest.79D9F19908D0573D.quest_desc: [
 		"Mine some Iron."
 		""
@@ -304,6 +294,7 @@
 	task.038757A4119895CB.title: "Pick a starter kit"
 	task.038EA7BFD270AC97.title: "Chipped"
 	task.052E71C14142194B.title: "golems"
+	task.14E060DECD15E1B7.title: "placeholder"
 	task.187A6435FFDB3124.title: "Any #minecraft:logs"
 	task.1C0D205F2083CA15.title: "Chimes"
 	task.1E49219680A29FF8.title: "Credits"

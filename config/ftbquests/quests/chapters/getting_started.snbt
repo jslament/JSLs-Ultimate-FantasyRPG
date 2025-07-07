@@ -178,7 +178,7 @@
 				item: { count: 1, id: "sleep_tight:dreamer_essence" }
 				type: "item"
 			}]
-			x: 21.0d
+			x: 22.0d
 			y: 1.5d
 		}
 		{
@@ -212,17 +212,6 @@
 			}]
 			x: 9.0d
 			y: -4.0d
-		}
-		{
-			dependencies: ["4BE47E12A8D320FF"]
-			id: "79444000B288F40E"
-			tasks: [{
-				id: "34752F7A3EADE168"
-				item: { components: { "ftbfiltersystem:filter": "mod(another_furniture)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: -3.0d
 		}
 		{
 			dependencies: ["347BD2D96FB9FEEC"]
@@ -338,15 +327,15 @@
 			y: -4.5d
 		}
 		{
-			dependencies: ["7D887C31A4B07795"]
+			dependencies: ["2CCAC7673B3BE9FA"]
 			id: "62F26884FE3427B3"
 			tasks: [{
 				id: "5D4D9FB641F9361D"
 				item: { count: 1, id: "waystones:waystone" }
 				type: "item"
 			}]
-			x: 22.0d
-			y: -2.5d
+			x: 15.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -369,6 +358,60 @@
 			}]
 			x: 9.0d
 			y: 1.5d
+		}
+		{
+			dependencies: ["347BD2D96FB9FEEC"]
+			id: "51147A831F292A8E"
+			tasks: [{
+				id: "36CC383B18094CC5"
+				item: { count: 1, id: "goated:barbaric_helmet" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["347BD2D96FB9FEEC"]
+			id: "3478C30DC0C56A8B"
+			tasks: [{
+				id: "3B6B43BA2D549476"
+				item: { count: 1, id: "goated:ram_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C0A90F5A5C631CD"]
+			id: "0DF7FFCF41D581DE"
+			tasks: [{
+				id: "1CFA4D747BA57E1B"
+				item: { components: { "minecraft:potion_contents": { potion: "longshot:longshot" } }, count: 1, id: "minecraft:potion" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D887C31A4B07795"]
+			id: "34A0D21140C37547"
+			tasks: [{
+				id: "088E059A47F97B55"
+				item: { count: 1, id: "newworld:tombstone" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4BE47E12A8D320FF"]
+			id: "1B42C830CDC0A5A4"
+			tasks: [{
+				id: "14E060DECD15E1B7"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -3.0d
 		}
 	]
 }

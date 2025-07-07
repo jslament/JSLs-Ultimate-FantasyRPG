@@ -14,6 +14,11 @@
     "modId": "adorablehamsterpets",
     "version": "2.0.0+neoforge"
   },
+  "AdvancedLootInfo-neoforge-1.21.1-1.1.8.jar": {
+    "jarName": "AdvancedLootInfo-neoforge-1.21.1-1.1.8.jar",
+    "modId": "ali",
+    "version": "1.21.1-1.1.8"
+  },
   "adventuredungeons-neoforge-1.21-1.3.1.jar": {
     "jarName": "adventuredungeons-neoforge-1.21-1.3.1.jar",
     "modId": "adventuredungeons",
@@ -49,11 +54,6 @@
     "modId": "amendments",
     "version": "1.21-1.2.24"
   },
-  "another_furniture-neoforge-4.0.0.jar": {
-    "jarName": "another_furniture-neoforge-4.0.0.jar",
-    "modId": "another_furniture",
-    "version": "4.0.0"
-  },
   "Apotheosis-1.21.1-8.3.6.jar": {
     "jarName": "Apotheosis-1.21.1-8.3.6.jar",
     "modId": "apotheosis",
@@ -88,6 +88,11 @@
     "jarName": "ApothicSpawners-1.21.1-1.3.1.jar",
     "modId": "apothic_spawners",
     "version": "1.3.1"
+  },
+  "appledog-4.0.0.jar": {
+    "jarName": "appledog-4.0.0.jar",
+    "modId": "appledog",
+    "version": "4.0.0"
   },
   "appleskin-neoforge-mc1.21-3.0.7.jar": {
     "jarName": "appleskin-neoforge-mc1.21-3.0.7.jar",
@@ -139,11 +144,6 @@
     "modId": "azurelib",
     "version": "3.0.20"
   },
-  "bagus_lib-1.21.1-13.18.0.jar": {
-    "jarName": "bagus_lib-1.21.1-13.18.0.jar",
-    "modId": "bagus_lib",
-    "version": "1.21.1-13.18.0"
-  },
   "balm-neoforge-1.21.1-21.0.46.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.46.jar",
     "modId": "balm",
@@ -173,6 +173,11 @@
     "jarName": "BetterThirdPerson-neoforge-1.9.0.jar",
     "modId": "betterthirdperson",
     "version": "1.9.0"
+  },
+  "biolith-neoforge-3.0.5.jar": {
+    "jarName": "biolith-neoforge-3.0.5.jar",
+    "modId": "biolith",
+    "version": "3.0.5"
   },
   "blueprint-1.21.1-8.0.5.jar": {
     "jarName": "blueprint-1.21.1-8.0.5.jar",
@@ -287,11 +292,6 @@
     "modId": "corgilib",
     "version": "5.0.0.4"
   },
-  "coroutil-neoforge-1.21.0-1.3.8.jar": {
-    "jarName": "coroutil-neoforge-1.21.0-1.3.8.jar",
-    "modId": "coroutil",
-    "version": "1.21.0-1.3.8"
-  },
   "crabbersdelight-1.21.1-1.1.10.jar": {
     "jarName": "crabbersdelight-1.21.1-1.1.10.jar",
     "modId": "crabbersdelight",
@@ -396,11 +396,6 @@
     "jarName": "dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar",
     "modId": "dynamic_fps",
     "version": "3.9.5"
-  },
-  "enchantwithmob-1.21.1-20.7.0.jar": {
-    "jarName": "enchantwithmob-1.21.1-20.7.0.jar",
-    "modId": "enchantwithmob",
-    "version": "1.21.1-20.7.0"
   },
   "enchdesc-neoforge-1.21.1-21.1.7.jar": {
     "jarName": "enchdesc-neoforge-1.21.1-21.1.7.jar",
@@ -507,11 +502,6 @@
     "modId": "findme",
     "version": "3.3.3"
   },
-  "fishermens_trap-Neoforge-1.21.1-3.1.0.jar": {
-    "jarName": "fishermens_trap-Neoforge-1.21.1-3.1.0.jar",
-    "modId": "fishermens_trap",
-    "version": "3.1.0"
-  },
   "flatbedrock-neoforge-87.0.0.jar": {
     "jarName": "flatbedrock-neoforge-87.0.0.jar",
     "modId": "flatbedrock",
@@ -601,11 +591,6 @@
     "jarName": "golemoverhaul-neoforge-1.21.1-1.0.1.jar",
     "modId": "golemoverhaul",
     "version": "1.0.1"
-  },
-  "gravestone-neoforge-1.21.1-1.0.31.jar": {
-    "jarName": "gravestone-neoforge-1.21.1-1.0.31.jar",
-    "modId": "gravestone",
-    "version": "1.21.1-1.0.31"
   },
   "hackersandslashers-1.1.4-beta-5.jar": {
     "jarName": "hackersandslashers-1.1.4-beta-5.jar",
@@ -762,10 +747,10 @@
     "modId": "justenoughbreeding",
     "version": "1.6.0"
   },
-  "JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar": {
-    "jarName": "JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
-    "modId": "jeresources",
-    "version": "1.6.0.12"
+  "keepcuriosinventory-1.21.1-NeoForge-1.1.0.jar": {
+    "jarName": "keepcuriosinventory-1.21.1-NeoForge-1.1.0.jar",
+    "modId": "keepcuriosinventory",
+    "version": "1.1.0"
   },
   "keymap-NeoForge-0.10.0-beta.1+1.21.1.jar": {
     "jarName": "keymap-NeoForge-0.10.0-beta.1+1.21.1.jar",
@@ -830,6 +815,11 @@
     "modId": "logbegone",
     "version": "1.0.3"
   },
+  "longshot-1.0.jar": {
+    "jarName": "longshot-1.0.jar",
+    "modId": "longshot",
+    "version": "1.0"
+  },
   "loot_journal-neoforge-1.21.1-4.0.1.jar": {
     "jarName": "loot_journal-neoforge-1.21.1-4.0.1.jar",
     "modId": "loot_journal",
@@ -885,6 +875,11 @@
     "modId": "monobank",
     "version": "1.2.0"
   },
+  "MonsterBooklet-0.1.jar": {
+    "jarName": "MonsterBooklet-0.1.jar",
+    "modId": "monsterbooklet",
+    "version": "0.1"
+  },
   "moonlight-1.21-2.19.5-neoforge.jar": {
     "jarName": "moonlight-1.21-2.19.5-neoforge.jar",
     "modId": "moonlight",
@@ -914,6 +909,11 @@
     "jarName": "Necronomicon-NeoForge-1.6.0+1.21.jar",
     "modId": "necronomicon",
     "version": "1.6.0"
+  },
+  "newworld-neoforge-1.21.1-1.7.2.jar": {
+    "jarName": "newworld-neoforge-1.21.1-1.7.2.jar",
+    "modId": "newworld",
+    "version": "1.7.2"
   },
   "nolijium-0.5.6.jar": {
     "jarName": "nolijium-0.5.6.jar",
@@ -1030,11 +1030,6 @@
     "modId": "randomium",
     "version": "1.21-1.33.2"
   },
-  "regions_unexplored-neoforge-1.21.1-0.5.6.1.jar": {
-    "jarName": "regions_unexplored-neoforge-1.21.1-0.5.6.1.jar",
-    "modId": "regions_unexplored",
-    "version": "0.5.6.1"
-  },
   "relics-1.21.1-0.10.7.5.jar": {
     "jarName": "relics-1.21.1-0.10.7.5.jar",
     "modId": "relics",
@@ -1044,11 +1039,6 @@
     "jarName": "reliquified_lenders_cataclysm-1.21.1-0.1.jar",
     "modId": "reliquified_lenders_cataclysm",
     "version": "0.1"
-  },
-  "ResistanceBalancer-(NEO)FORGE-1.0.0.jar": {
-    "jarName": "ResistanceBalancer-(NEO)FORGE-1.0.0.jar",
-    "modId": "resistance_balancer",
-    "version": "1.0.0"
   },
   "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
     "jarName": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
@@ -1135,6 +1125,11 @@
     "modId": "sodium",
     "version": "0.6.13+mc1.21.1"
   },
+  "solcarrot-1.21.1-1.16.5.jar": {
+    "jarName": "solcarrot-1.21.1-1.16.5.jar",
+    "modId": "solcarrot",
+    "version": "1.16.5"
+  },
   "sootychimneys-neoforge-1.3.3.jar": {
     "jarName": "sootychimneys-neoforge-1.3.3.jar",
     "modId": "sootychimneys",
@@ -1205,11 +1200,6 @@
     "modId": "takesapillage",
     "version": "1.0.8"
   },
-  "TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
-    "jarName": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-    "modId": "terrablender",
-    "version": "4.1.0.8"
-  },
   "thief-neoforge-1.21.1-1.1.1.jar": {
     "jarName": "thief-neoforge-1.21.1-1.1.1.jar",
     "modId": "thief",
@@ -1254,11 +1244,6 @@
     "jarName": "valhelsia_core-neoforge-1.21.1-1.1.5.jar",
     "modId": "valhelsia_core",
     "version": "1.1.5"
-  },
-  "watut-neoforge-1.21.0-1.2.7.jar": {
-    "jarName": "watut-neoforge-1.21.0-1.2.7.jar",
-    "modId": "watut",
-    "version": "1.21.0-1.2.7"
   },
   "waystones-neoforge-1.21.1-21.1.19.jar": {
     "jarName": "waystones-neoforge-1.21.1-21.1.19.jar",
