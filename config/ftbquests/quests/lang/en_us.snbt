@@ -92,12 +92,12 @@
 		"Ready to test your luck?"
 		""
 		"&l&6Coins&r&r  "
-		"You'll find coins by:  "
-		"- Opening chests  "
+		"You'll find coins through:  "
+		"- Exploration  "
 		"- Completing quests  "
 		"- Defeating bosses  "
 		""
-		"Right-click to store your pouch but dying will make you lose &c10%&r of your stored coins.  "
+		"Right-click to store coins in your pouch. "
 		"To retrieve coins, click one of the &63 coin icons&r in your inventory screen.  "
 		""
 		"&l&6Coin values&r&r"
@@ -105,11 +105,16 @@
 		"- &6Gold Coin&r = 25  "
 		"- &bCrystal Coin&r = 1500  "
 		""
-		"🛒 Daily Deals  "
+		"&6&lDaily Deals&r &r"
 		"The Daily Shop refreshes with new items every Minecraft day. Sometimes you'll find &cextremely rare&r or &dpowerful&r gear; don't miss out.  "
 	]
 	quest.278831E0A5249166.quest_subtitle: "With Daily Rotations"
 	quest.278831E0A5249166.title: "The Shop!"
+	quest.27D1BF920FCB569C.quest_desc: [
+		"This section is WIP."
+		""
+		"Read the Chronicles of Shadows if you're stuck."
+	]
 	quest.2CCAC7673B3BE9FA.quest_desc: [
 		"Find some &bDiamonds.&r"
 		""
@@ -257,6 +262,11 @@
 		"It shows your &cdamage&r and &cDPS&r when hit."
 	]
 	quest.609DBC33B5A748EB.quest_subtitle: "MmmMmmMmmMmm"
+	quest.6BAA2C5976B99534.quest_desc: [
+		"This section is WIP."
+		""
+		"Read the Chronicles of Shadows if you're stuck."
+	]
 	quest.6D30C5E0A75DDB2F.quest_desc: [
 		"warrior - idk"
 		"mage - filmsy journal with a level 1 spell"

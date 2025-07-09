@@ -34,9 +34,6 @@
 			sakura = true
 			yucca_palm = true
 
-		[types.wood_type.newworld]
-			fir = true
-
 		[types.leaves_type.eternal_starlight]
 			lunar = true
 			northland = true
@@ -135,9 +132,6 @@
 			dark_japanese_maple = true
 			japanese_maple_shrub = true
 			jungle_palm = true
-
-		[types.leaves_type.newworld]
-			fir = true
 
 #Disables specific entries
 [entries]

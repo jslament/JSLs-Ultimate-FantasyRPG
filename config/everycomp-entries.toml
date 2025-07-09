@@ -18,11 +18,6 @@
 		[types.wood_type.hazennstuff]
 			wisewood = true
 
-		[types.wood_type.forbidden_arcanus]
-			fungyss = true
-			aurum = true
-			edelwood = true
-
 		[types.wood_type.newworld]
 			fir = true
 
@@ -38,10 +33,6 @@
 
 		[types.leaves_type.hazennstuff]
 			wisewood = true
-
-		[types.leaves_type.forbidden_arcanus]
-			aurum = true
-			nuggety_aurum = true
 
 		[types.leaves_type.chipped]
 			apple_acacia = true

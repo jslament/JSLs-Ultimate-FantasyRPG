@@ -111,7 +111,10 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["2CCAC7673B3BE9FA"]
+			dependencies: [
+				"2CCAC7673B3BE9FA"
+				"5E56B5FB1A70A47B"
+			]
 			id: "4C0A90F5A5C631CD"
 			shape: "netheritetier"
 			size: 1.5d

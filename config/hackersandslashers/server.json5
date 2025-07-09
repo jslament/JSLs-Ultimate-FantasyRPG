@@ -89,7 +89,7 @@
 	*/
 	"should_mobs_patrol": true,
 	"should_mobs_listen_player": true,
-	"should_mobs_alert_others": true,
+	"should_mobs_alert_others": false,
 	"mobs_listening_radius": 0.20000000298023224,
 	"mobs_perception_radius": 0.20000000298023224,
 	"mob_sound_whitelist": [

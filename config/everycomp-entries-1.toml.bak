@@ -23,6 +23,9 @@
 			aurum = true
 			edelwood = true
 
+		[types.wood_type.newworld]
+			fir = true
+
 		[types.leaves_type.eternal_starlight]
 			lunar = true
 			northland = true
@@ -107,6 +110,9 @@
 			golden_apple_jungle = true
 			golden_apple_oak = true
 			golden_apple_spruce = true
+
+		[types.leaves_type.newworld]
+			fir = true
 
 #Disables specific entries
 [entries]

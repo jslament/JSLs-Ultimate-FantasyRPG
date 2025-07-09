@@ -44,24 +44,6 @@
 		id: "reliquified_lenders_cataclysm:scouring_eye"
 	}
 	id: "2BB52A3B5EAADE56"
-	images: [
-		{
-			height: 6.0d
-			image: "forbidden_arcanus:block/clibano/clibano_center_top"
-			rotation: 0.0d
-			width: 6.0d
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			height: 4.0d
-			image: "forbidden_arcanus:item/quantum_catcher/quantum_catcher_inner"
-			rotation: 0.0d
-			width: 4.0d
-			x: 0.0d
-			y: 0.0d
-		}
-	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [

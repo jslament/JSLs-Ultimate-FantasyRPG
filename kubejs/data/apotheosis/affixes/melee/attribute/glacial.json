@@ -18,23 +18,23 @@
     "operation": "add_value",
     "values": {
         "apotheosis:uncommon": {
-            "min": 2.0,
-            "max": 4.0,
+            "min": 1.0,
+            "max": 2.0,
             "step": 0.25
         },
         "apotheosis:rare": {
-            "min": 2.0,
-            "max": 5.0,
+            "min": 1.0,
+            "max": 2.5,
             "step": 0.25
         },
         "apotheosis:epic": {
-            "min": 4.0,
-            "max": 6.0,
+            "min": 2.0,
+            "max": 3.0,
             "step": 0.25
         },
         "apotheosis:mythic": {
-            "min": 4.0,
-            "max": 10.0,
+            "min": 2.0,
+            "max": 5.0,
             "step": 0.25
         }
     }
