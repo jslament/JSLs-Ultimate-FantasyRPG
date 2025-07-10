@@ -304,6 +304,7 @@
 	task.038757A4119895CB.title: "Pick a starter kit"
 	task.038EA7BFD270AC97.title: "Chipped"
 	task.052E71C14142194B.title: "golems"
+	task.0AA78EB628BB1AB2.title: "Defeat The Dead King"
 	task.14E060DECD15E1B7.title: "placeholder"
 	task.187A6435FFDB3124.title: "Any #minecraft:logs"
 	task.1C0D205F2083CA15.title: "Chimes"
@@ -330,6 +331,7 @@
 	task.64187DC7B36EC83E.title: "Any #minecraft:stone_tool_materials"
 	task.664211AA7147F310.title: "Any #minecraft:swords"
 	task.66D094A764A61E2C.title: "Arts \\& Crafts"
+	task.6B3C22211A13B9DC.title: "Any #curios:charm"
 	task.788889364D14D2DC.title: "Any #sleep_tight:hammocks"
 	task.7E9705156A20BA52.title: "Reputation"
 }

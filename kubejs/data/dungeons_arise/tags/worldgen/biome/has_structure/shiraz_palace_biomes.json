@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert",
+    "#minecraft:has_structure/desert_pyramid",
+    {
+      "id": "#dungeons_arise:collections/other_deserts",
+      "required": false
+    }
+  ]
+}

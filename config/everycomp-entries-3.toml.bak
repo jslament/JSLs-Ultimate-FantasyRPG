@@ -23,17 +23,6 @@
 			aurum = true
 			edelwood = true
 
-		[types.wood_type.terrestria]
-			cypress = true
-			hemlock = true
-			rainbow_eucalyptus = true
-			redwood = true
-			japanese_maple = true
-			rubber = true
-			willow = true
-			sakura = true
-			yucca_palm = true
-
 		[types.leaves_type.eternal_starlight]
 			lunar = true
 			northland = true
@@ -118,20 +107,6 @@
 			golden_apple_jungle = true
 			golden_apple_oak = true
 			golden_apple_spruce = true
-
-		[types.leaves_type.terrestria]
-			cypress = true
-			hemlock = true
-			rainbow_eucalyptus = true
-			redwood = true
-			japanese_maple = true
-			rubber = true
-			willow = true
-			sakura = true
-			yucca_palm = true
-			dark_japanese_maple = true
-			japanese_maple_shrub = true
-			jungle_palm = true
 
 #Disables specific entries
 [entries]
