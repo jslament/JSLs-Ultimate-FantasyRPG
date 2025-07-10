@@ -9,7 +9,6 @@
 	chapter.6772A857951F324A.title: "Apotheosis"
 	chapter_group.30DF2C7F5C08C1E7.title: "FantasyRPG"
 	chapter_group.32FA6FC13196390B.title: "Magic"
-	chapter_group.634D007CD5F05D70.title: "Misc"
 	quest.005968F5262BA5A7.quest_desc: [
 		"The &l&eUniversal Sawmill&r&r lets you craft any wood-based block, including modded ones.  "
 		""
@@ -66,7 +65,6 @@
 	quest.14B0DDB84D959142.title: "Reworked Combat"
 	quest.160962902F685752.quest_desc: [
 		"Sleeping now comes with &ldeeper mechanics&r that are both &obeneficial&r and &4dangerous&r."
-		"{image:alshanex_familiars:textures/mob_effect/sleepy.png width:100 height:100 align:center}"
 		"{@pagebreak}"
 		""
 		"🛏 &6&lSleep Cooldowns&r&r: You can't spam sleep anymore. Sleep has a cooldown.  "
@@ -87,6 +85,7 @@
 		"Check your sleep cooldown and Home Bed status when laying in bed."
 	]
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
+	quest.160962902F685752.title: "Sleep Overhaul"
 	quest.26C4B8DDBCA5F001.title: "Dog Armor"
 	quest.278831E0A5249166.quest_desc: [
 		"Ready to test your luck?"
@@ -271,6 +270,7 @@
 		"warrior - idk"
 		"mage - filmsy journal with a level 1 spell"
 	]
+	quest.6D5F67F00A36B7CC.title: "Quick Casting Spells"
 	quest.6E6457793C55F75E.quest_desc: [
 		"This modpack comes with built-in &fresource packs&r and &dshaders&r.  "
 		""
@@ -300,6 +300,7 @@
 	]
 	quest.79D9F19908D0573D.quest_subtitle: "Yearn for the caves!"
 	quest.79D9F19908D0573D.title: "Iron Age"
+	quest.7A392AAA7BB25F48.quest_subtitle: "I-Frames included"
 	reward.49D213F4B9A59BDD.title: "You got a shield"
 	task.038757A4119895CB.title: "Pick a starter kit"
 	task.038EA7BFD270AC97.title: "Chipped"
@@ -315,7 +316,6 @@
 	task.2DB0BDA2F100B4A6.title: "Main Story"
 	task.34752F7A3EADE168.title: "Another Furniture"
 	task.34CFCB398A158A86.title: "Handcrafted"
-	task.355468EE96AF2426.title: "Sleeping Overhaul"
 	task.3745862D5214429F.title: "Server Performance"
 	task.38897D9EECE0D10E.title: "familiars"
 	task.38902D196D8634F0.title: "Any #minecraft:dyeable"

@@ -74,6 +74,9 @@
 			y: 1.5d
 		}
 		{
+			icon: {
+				id: "eternal_starlight:seeking_eye"
+			}
 			id: "75242A4F0B6475F3"
 			tasks: [{
 				id: "3745862D5214429F"
@@ -108,18 +111,20 @@
 			y: -1.5d
 		}
 		{
-			icon: {
-				id: "minecraft:white_bed"
-			}
 			id: "160962902F685752"
 			tasks: [{
-				id: "355468EE96AF2426"
-				type: "checkmark"
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "55C73FC1482C5A25"
+				type: "advancement"
 			}]
 			x: 1.5d
 			y: 2.0d
 		}
 		{
+			icon: {
+				id: "minecraft:command_block"
+			}
 			id: "1B005FBC082B9C81"
 			tasks: [{
 				id: "26BD1F01767D8521"
@@ -220,6 +225,9 @@
 			y: 2.5d
 		}
 		{
+			icon: {
+				id: "endrem:exotic_eye"
+			}
 			id: "6E6457793C55F75E"
 			tasks: [{
 				id: "55CD698B74CBDCB8"
@@ -229,21 +237,35 @@
 			y: -1.5d
 		}
 		{
+			icon: {
+				id: "solcarrot:food_book"
+			}
 			id: "202991E315A61EC2"
 			tasks: [
-				{
-					id: "1A37E56B8FC9F39B"
-					item: { count: 1, id: "solonion:food_book" }
-					type: "item"
-				}
 				{
 					id: "7D15824845A5C15D"
 					item: { count: 1, id: "solcarrot:food_book" }
 					type: "item"
 				}
+				{
+					id: "1A37E56B8FC9F39B"
+					item: { count: 1, id: "solonion:food_book" }
+					type: "item"
+				}
 			]
 			x: 5.0d
 			y: 1.0d
+		}
+		{
+			id: "6D5F67F00A36B7CC"
+			tasks: [{
+				advancement: "irons_spellbooks:irons_spellbooks/root"
+				criterion: ""
+				id: "744AE8E88B1A5114"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 1.5d
 		}
 	]
 }

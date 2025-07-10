@@ -10,7 +10,7 @@
 			image: "minecraft:item/stone_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 6.5d
+			x: 6.0d
 			y: -1.0d
 		}
 		{
@@ -18,7 +18,7 @@
 			image: "minecraft:item/iron_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 12.0d
+			x: 12.5d
 			y: -1.0d
 		}
 		{
@@ -28,6 +28,14 @@
 			width: 1.0d
 			x: 18.0d
 			y: -1.0d
+		}
+		{
+			height: 1.08d
+			image: "kubejs:textures/getting_started.png"
+			rotation: 0.0d
+			width: 10.24d
+			x: 3.0d
+			y: -3.0d
 		}
 	]
 	order_index: 1
@@ -156,7 +164,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["347BD2D96FB9FEEC"]
@@ -221,7 +229,7 @@
 				type: "checkmark"
 			}]
 			x: 9.0d
-			y: -4.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["347BD2D96FB9FEEC"]
@@ -289,7 +297,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -299,8 +307,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chipped)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -4.5d
+			x: 7.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -310,8 +318,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(handcrafted)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -6.0d
+			x: 7.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -321,8 +329,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chimes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -6.0d
+			x: 10.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -333,7 +341,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: -4.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2CCAC7673B3BE9FA"]
@@ -354,8 +362,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(arts_and_crafts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: -3.0d
+			x: 8.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["79D9F19908D0573D"]
@@ -366,7 +374,7 @@
 				type: "item"
 			}]
 			x: 9.0d
-			y: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["347BD2D96FB9FEEC"]
@@ -397,8 +405,8 @@
 				id: "14E060DECD15E1B7"
 				type: "checkmark"
 			}]
-			x: 7.5d
-			y: -3.0d
+			x: 10.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["4C0A90F5A5C631CD"]

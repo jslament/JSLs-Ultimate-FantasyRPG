@@ -4,7 +4,56 @@
 	filename: "relics"
 	group: "32FA6FC13196390B"
 	id: "5CEAAF41969C32F0"
+	images: [{
+		height: 1.0d
+		image: "relics:textures/gui/description/general/tab.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 1.5d
+		y: 1.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "4E0F33E2853F591F"
+			tasks: [{
+				id: "0073873541582DAB"
+				item: { components: { "relics:data": { abilities: { abilities: { ascension: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 0.93078d }, max_duration: { initialValue: 8.59635d } } }, faith: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 0.27578d }, health: { initialValue: 0.12913d }, radius: { initialValue: 8.92449d } } }, penitence: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.29108d } } } } }, leveling: { experience: 15, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:holy_locket" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			id: "19FF68EA88FF3AF9"
+			tasks: [{
+				id: "5A018CB9B5758DAD"
+				item: { components: { "relics:data": { abilities: { abilities: { protective_bubble: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { attack_blocks: { initialValue: 2.48583d }, cooldown: { initialValue: 29.89729d }, damage: { initialValue: 0.43367d }, projectiles: { initialValue: 17.26694d } } } } }, leveling: { experience: 8, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:void_bubble" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			id: "752FA8B977A5DB0E"
+			tasks: [{
+				id: "52AA810F2521F82B"
+				item: { components: { "relics:data": { abilities: { abilities: { seismic_zone: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.57424d }, radius: { initialValue: 2.48387d }, waves: { initialValue: 2.899d } } }, void_invulnerability: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, void_rune: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 17.00901d }, damage: { initialValue: 1.43631d } } } } }, leveling: { experience: 9, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:void_cloak" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "3060D086D554F929"
+			tasks: [{
+				id: "26901579C7138A34"
+				item: { components: { "relics:data": { abilities: { abilities: { spawn_vortex: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 29.79973d }, damage: { initialValue: 6.70786d }, height: { initialValue: 3.11169d } } } } }, leveling: { experience: 7, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:void_vortex_in_bottle" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+	]
 }
