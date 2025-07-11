@@ -98,7 +98,8 @@
 		"- Presents  "
 		"...and much more!"
 		""
-		"Many blocks also emit redstone signals, making this mod great engineers too."
+		"Many blocks also emit redstone signals, making this mod great engineers too. You'll even find combat related things like bombs or quivers."
+		"{image:supplementaries:item/pancake width:100 height:100 align:center}"
 	]
 	quest.1B42C830CDC0A5A4.quest_subtitle: "Try eating soap"
 	quest.202991E315A61EC2.title: "The Spices of Life"
@@ -211,7 +212,7 @@
 		"Furniture, lighting, trophies, plants, and more; there's plenty to choose from.  "
 		"Don't be afraid to get creative."
 		""
-		"Build something that you love. No one's judging &c❤&r"
+		"Just build something that you love. No one's judging &c❤&r"
 	]
 	quest.4BE47E12A8D320FF.quest_subtitle: "Make it yours"
 	quest.4C0A90F5A5C631CD.quest_desc: [

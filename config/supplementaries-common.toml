@@ -102,6 +102,14 @@
 	fodder = true
 	hourglass = true
 
+	[functional.safe]
+		enabled = false
+		#Makes safes only breakable by their owner or by a player in creative
+		prevent_breaking = false
+		#Make safes simpler so they do not require keys:
+		#they will be bound to the first person that opens one and only that person will be able to interact with them
+		simple_safes = false
+
 	[functional.rope]
 		#Allows ropes to be supported & attached to solid block sides
 		block_side_attachment = true
@@ -152,14 +160,6 @@
 		#When on, if a mob is tameable, it will only be capturable when tamed.
 		require_taming = true
 
-	[functional.safe]
-		enabled = true
-		#Makes safes only breakable by their owner or by a player in creative
-		prevent_breaking = false
-		#Make safes simpler so they do not require keys:
-		#they will be bound to the first person that opens one and only that person will be able to interact with them
-		simple_safes = false
-
 	[functional.sack]
 		enabled = true
 		#Penalize the player with slowness effect when carrying too many sacks
@@ -199,8 +199,8 @@
 		#This is a map of special blocks that can be cleaned with soap
 		[functional.soap.special_blocks]
 			"quark:dirty_glass" = "minecraft:glass"
-			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 			"quark:dirty_glass_pane" = "minecraft:glass_pane"
+			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 
 	[functional.cannon]
 		enabled = true
@@ -437,14 +437,39 @@
 	altimeter = true
 	confetti_popper = true
 
-	[tools.quiver]
+	[tools.bomb]
+		#Bomb explosion radius (damage depends on this)
+		# Default: 2.0
+		# Range: 0.1 ~ 10.0
+		explosion_radius = 3.0
 		enabled = true
-		#Allows using a quiver without being slowed down
-		use_without_slow = true
+		#Do bombs break blocks like tnt?
+		#Allowed Values: ALL, WEAK, NONE
+		break_blocks = "WEAK"
+		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
+		# Default: 0
+		# Range: 0 ~ 100000
+		bomb_fuse = 0
+		#Enable bomb item cooldown
+		cooldown = true
+
+		[tools.bomb.blue_bomb]
+			#Bomb explosion radius (damage depends on this)
+			# Default: 5.15
+			# Range: 0.1 ~ 10.0
+			explosion_radius = 7.7
+			#Do bombs break blocks like tnt?
+			#Allowed Values: ALL, WEAK, NONE
+			break_blocks = "WEAK"
+
+	[tools.quiver]
 		#Arrow stacks that can fit inside a quiver. Requires reboot
 		# Default: 6
 		# Range: 1 ~ 9
-		slots = 6
+		slots = 9
+		enabled = true
+		#Allows using a quiver without being slowed down
+		use_without_slow = true
 		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
 		# Default: 0.03
 		# Range: 0.0 ~ 1.0
@@ -514,31 +539,6 @@
 		# Default: 64
 		# Range: 0 ~ 500
 		bound_distance = 64
-
-	[tools.bomb]
-		enabled = true
-		#Bomb explosion radius (damage depends on this)
-		# Default: 2.0
-		# Range: 0.1 ~ 10.0
-		explosion_radius = 2.0
-		#Do bombs break blocks like tnt?
-		#Allowed Values: ALL, WEAK, NONE
-		break_blocks = "WEAK"
-		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
-		# Default: 0
-		# Range: 0 ~ 100000
-		bomb_fuse = 0
-		#Enable bomb item cooldown
-		cooldown = true
-
-		[tools.bomb.blue_bomb]
-			#Bomb explosion radius (damage depends on this)
-			# Default: 5.15
-			# Range: 0.1 ~ 10.0
-			explosion_radius = 5.15
-			#Do bombs break blocks like tnt?
-			#Allowed Values: ALL, WEAK, NONE
-			break_blocks = "WEAK"
 
 	[tools.slingshot]
 		enabled = true

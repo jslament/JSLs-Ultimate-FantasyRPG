@@ -105,3 +105,11 @@
 	#Default: IGNORE_LOWEST_BLOCK (enough to make riding through forests viable).
 	#Allowed Values: FULL, IGNORE_LOWEST_BLOCK, IGNORE_ALL
 	leaves_collision_mode_when_mounted = "IGNORE_LOWEST_BLOCK"
+	#Untying or breaking a leash knot now has a sound (backported from 1.21.6). Default: true
+	leash_knot_sounds = true
+	#Dismounting from a horse will place a player towards their view direction. Default: true
+	dismount_towards_view_direction = true
+	#Fixes horse running back after player dismounts it (occurs when horse was leashed before mounting). Default: true
+	fix_running_back_after_dismount = true
+	#Horse with Leather Horse Armor equipped can walk on a Powder Snow like a player with Leather Boots. Default: true
+	leather_horse_armor_powder_snow = true

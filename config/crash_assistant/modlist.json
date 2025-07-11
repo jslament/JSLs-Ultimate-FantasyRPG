@@ -24,10 +24,10 @@
     "modId": "adventuredungeons",
     "version": "1.3.1"
   },
-  "alltheleaks-0.1.20-beta+1.21.1-neoforge.jar": {
-    "jarName": "alltheleaks-0.1.20-beta+1.21.1-neoforge.jar",
+  "alltheleaks-0.1.21-beta+1.21.1-neoforge.jar": {
+    "jarName": "alltheleaks-0.1.21-beta+1.21.1-neoforge.jar",
     "modId": "alltheleaks",
-    "version": "0.1.20-beta+1.21.1-neoforge"
+    "version": "0.1.21-beta+1.21.1-neoforge"
   },
   "almanac-1.21.x-neoforge-1.0.2.jar": {
     "jarName": "almanac-1.21.x-neoforge-1.0.2.jar",
@@ -139,10 +139,10 @@
     "modId": "autochefsdelight",
     "version": "2.0.2+neoforge"
   },
-  "azurelib-neo-1.21.1-3.0.20.jar": {
-    "jarName": "azurelib-neo-1.21.1-3.0.20.jar",
+  "azurelib-neo-1.21.1-3.0.21.jar": {
+    "jarName": "azurelib-neo-1.21.1-3.0.21.jar",
     "modId": "azurelib",
-    "version": "3.0.20"
+    "version": "3.0.21"
   },
   "baguettelib-1.21.1-NeoForge-1.0.0.jar": {
     "jarName": "baguettelib-1.21.1-NeoForge-1.0.0.jar",
@@ -429,10 +429,10 @@
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
   },
-  "everycomp-1.21-2.10.11-neoforge.jar": {
-    "jarName": "everycomp-1.21-2.10.11-neoforge.jar",
+  "everycomp-1.21-2.10.13-neoforge.jar": {
+    "jarName": "everycomp-1.21-2.10.13-neoforge.jar",
     "modId": "everycomp",
-    "version": "1.21-2.10.11"
+    "version": "1.21-2.10.13"
   },
   "explosiveenhancement-neoforge-1.21.1-1.1.2.jar": {
     "jarName": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
@@ -504,10 +504,10 @@
     "modId": "ftbezcrystals",
     "version": "21.1.0"
   },
-  "ftb-filter-system-neoforge-21.1.1.jar": {
-    "jarName": "ftb-filter-system-neoforge-21.1.1.jar",
+  "ftb-filter-system-neoforge-21.1.2.jar": {
+    "jarName": "ftb-filter-system-neoforge-21.1.2.jar",
     "modId": "ftbfiltersystem",
-    "version": "21.1.1"
+    "version": "21.1.2"
   },
   "ftb-library-neoforge-2101.1.16.jar": {
     "jarName": "ftb-library-neoforge-2101.1.16.jar",
@@ -609,10 +609,10 @@
     "modId": "hominid",
     "version": "1.1.0"
   },
-  "horseman-neoforge-1.21.1-1.4.5.jar": {
-    "jarName": "horseman-neoforge-1.21.1-1.4.5.jar",
+  "horseman-neoforge-1.21.1-1.5.0.jar": {
+    "jarName": "horseman-neoforge-1.21.1-1.5.0.jar",
     "modId": "horseman",
-    "version": "1.4.5"
+    "version": "1.5.0"
   },
   "hunger_tweaks-neoforge-1.0.0.jar": {
     "jarName": "hunger_tweaks-neoforge-1.0.0.jar",
@@ -1092,20 +1092,20 @@
     "modId": "sootychimneys",
     "version": "1.3.3"
   },
-  "sophisticatedbackpacks-1.21.1-3.24.15.1264.jar": {
-    "jarName": "sophisticatedbackpacks-1.21.1-3.24.15.1264.jar",
+  "sophisticatedbackpacks-1.21.1-3.24.17.1274.jar": {
+    "jarName": "sophisticatedbackpacks-1.21.1-3.24.17.1274.jar",
     "modId": "sophisticatedbackpacks",
-    "version": "3.24.15"
+    "version": "3.24.17"
   },
-  "sophisticatedcore-1.21.1-1.3.52.1020.jar": {
-    "jarName": "sophisticatedcore-1.21.1-1.3.52.1020.jar",
+  "sophisticatedcore-1.21.1-1.3.53.1025.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.3.53.1025.jar",
     "modId": "sophisticatedcore",
-    "version": "1.3.52"
+    "version": "1.3.53"
   },
-  "sophisticatedstorage-1.21.1-1.4.41.1186.jar": {
-    "jarName": "sophisticatedstorage-1.21.1-1.4.41.1186.jar",
+  "sophisticatedstorage-1.21.1-1.4.42.1193.jar": {
+    "jarName": "sophisticatedstorage-1.21.1-1.4.42.1193.jar",
     "modId": "sophisticatedstorage",
-    "version": "1.4.41"
+    "version": "1.4.42"
   },
   "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar": {
     "jarName": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
