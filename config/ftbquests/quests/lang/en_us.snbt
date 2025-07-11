@@ -1,14 +1,15 @@
 {
-	chapter.0B5876BB85B24372.title: "Iron's Spells and Spellbooks"
-	chapter.2BB52A3B5EAADE56.title: "&#810D4C&lT&#8B0E51&lh&#950F57&le &#AA1062&lG&#B41167&la&#BE126D&lt&#C81372&le"
-	chapter.4ECD2DE8A7145508.title: "Welcome!"
-	chapter.51E73FE92B53158E.title: "Getting Started"
-	chapter.5CEAAF41969C32F0.title: "Relics"
+	chapter.0B5876BB85B24372.title: "&#832466I&#87266Ar&#8C286Do&#902A71n&#942D75'&#982F78s &#A13380S&#A53583p&#AA3787e&#AE398Al&#B23C8El&#B63E92s &#BF4299a&#BA4095n&#B63D91d &#AD3989S&#A83685p&#A33481e&#9F327El&#9A307Al&#952D76b&#912B72o&#8C296Eo&#88266Ak&#832466s"
+	chapter.208038361CAF40ED.title: "Exploration"
+	chapter.2BB52A3B5EAADE56.title: "&6&o&lThe Gate&r&r&r"
+	chapter.4ECD2DE8A7145508.title: "&l&eWelcome!&r&r"
+	chapter.51E73FE92B53158E.title: "&l&eGetting Started&r&r"
+	chapter.5CEAAF41969C32F0.title: "&#7448F3R&#7B4DF1e&#8253EEl&#8A58ECi&#915EE9c&#9863E7s"
 	chapter.61CDFE234D648952.title: "Companions"
-	chapter.61D576C588C19262.title: "Storage"
-	chapter.6772A857951F324A.title: "Apotheosis"
-	chapter_group.30DF2C7F5C08C1E7.title: "FantasyRPG"
-	chapter_group.32FA6FC13196390B.title: "Magic"
+	chapter.61D576C588C19262.title: "Storage Solutions"
+	chapter.6772A857951F324A.title: "&#A18CD1A&#AB92D4p&#B598D7o&#BF9EDAt&#C9A4DDh&#D3AADFe&#DDB0E2o&#E7B6E5s&#F1BCE8i&#FBC2EBs"
+	chapter_group.30DF2C7F5C08C1E7.title: "&#EC8C8C&lU&#F29F8C&ll&#F9B28B&lt&#FFC58B&li&#FFD891&lm&#FFEC98&la&#FFFF9E&lt&#DDFF9D&le&#BCFF9B&l &#9AFF9A&lF&#99EFB8&la&#98DFD7&ln&#97CFF5&lt&#9BBDF8&la&#9FACFC&ls&#A39AFF&ly&#BC9CFF&lR&#D59EFF&lP&#EEA0FF&lG"
+	chapter_group.32FA6FC13196390B.title: "&#470479&lA&#48097A&ll&#490D7C&ll&#4A127D&l &#4A177F&lT&#4B1B80&lh&#4C2081&le&#4D2583&l &#4E2A84&lA&#4F2E85&lr&#4F3387&lc&#503888&la&#513C8A&ln&#52418B&le"
 	quest.005968F5262BA5A7.quest_desc: [
 		"The &l&eUniversal Sawmill&r&r lets you craft any wood-based block, including modded ones.  "
 		""
@@ -86,6 +87,7 @@
 	]
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
+	quest.202991E315A61EC2.title: "The Spices of Life"
 	quest.26C4B8DDBCA5F001.title: "Dog Armor"
 	quest.278831E0A5249166.quest_desc: [
 		"Ready to test your luck?"
@@ -108,7 +110,7 @@
 		"The Daily Shop refreshes with new items every Minecraft day. Sometimes you'll find &cextremely rare&r or &dpowerful&r gear; don't miss out.  "
 	]
 	quest.278831E0A5249166.quest_subtitle: "With Daily Rotations"
-	quest.278831E0A5249166.title: "The Shop!"
+	quest.278831E0A5249166.title: "&6The Shop!&r"
 	quest.27D1BF920FCB569C.quest_desc: [
 		"This section is WIP."
 		""
@@ -206,7 +208,16 @@
 		"{image:chipped:block/carved_pumpkin/owo_carved_pumpkin width:100 height:100 align:center}"
 	]
 	quest.4F7915251AD276F9.quest_subtitle: "Bigger Palette"
+	quest.50E4E3C3576F62A2.quest_subtitle: "Please submit your issues on Github"
 	quest.50E4E3C3576F62A2.title: "Known Issues"
+	quest.5194D0BA4C9EDDA7.quest_desc: [
+		"&lAssets&r from Quest Items."
+		"By daedelus_dev."
+		"11. July 2025"
+		"https://github.com/ZsoltMolnarrr/Quest-Items"
+		"&oGNU GENERAL PUBLIC LICENSE&r"
+	]
+	quest.5194D0BA4C9EDDA7.quest_subtitle: "Made from love"
 	quest.5E43A6CBE171C6F2.quest_desc: [
 		"&l&6Apotheosis&r&r adds a full &5RPG-like progression&r system - new attributes, enchantments, world tiers, and much more. It's split into several parts:  "
 		""
@@ -304,10 +315,13 @@
 	reward.49D213F4B9A59BDD.title: "You got a shield"
 	task.038757A4119895CB.title: "Pick a starter kit"
 	task.038EA7BFD270AC97.title: "Chipped"
+	task.0432D44DCA14A7BB.title: "Spawners"
+	task.0521F3800F3C71E6.title: "placeholder"
 	task.052E71C14142194B.title: "golems"
 	task.0AA78EB628BB1AB2.title: "Defeat The Dead King"
 	task.14E060DECD15E1B7.title: "placeholder"
 	task.187A6435FFDB3124.title: "Any #minecraft:logs"
+	task.18D69BBA42A0E101.title: "Iron's Spells and Spellbooks"
 	task.1C0D205F2083CA15.title: "Chimes"
 	task.1E49219680A29FF8.title: "Credits"
 	task.26BD1F01767D8521.title: "Pre-Generate World"
@@ -321,7 +335,6 @@
 	task.38902D196D8634F0.title: "Any #minecraft:dyeable"
 	task.3A3C42A29167184D.title: "Gatekeepers"
 	task.4089E5786E245A13.title: "Join our discord!"
-	task.41C0DA01927DB298.title: "Spawners"
 	task.43393EB25C7BE4C9.title: "hamsters"
 	task.469CE1F4072CAE77.title: "Moon Phases"
 	task.47B02B85F90F731C.title: "Enchanting"
@@ -332,6 +345,7 @@
 	task.664211AA7147F310.title: "Any #minecraft:swords"
 	task.66D094A764A61E2C.title: "Arts \\& Crafts"
 	task.6B3C22211A13B9DC.title: "Any #curios:charm"
+	task.6D47D5FBE6C5F03E.title: "Placeholder"
 	task.788889364D14D2DC.title: "Any #sleep_tight:hammocks"
 	task.7E9705156A20BA52.title: "Reputation"
 }

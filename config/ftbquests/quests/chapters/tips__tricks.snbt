@@ -6,7 +6,7 @@
 	id: "4ECD2DE8A7145508"
 	images: [
 		{
-			click: "#4C3651A7C9904DC3"
+			click: "https://www.google.com/search?client=opera-gx&hs=NHn&sca_esv=cbb6d4394e298965&sxsrf=AE3TifOGFVO-jLVgReoG1qiEnWiRw0ttsg:1752199561966&q=trollface&udm=2&fbs=AIIjpHw2KGh6wpocn18KLjPMw8n57XoVNo77u2wv3yhVkwnmKJcuHYbf7YNAsy_9nkGewzctNQCqkgW4WnkPOfpLmad4Y8YMTaIIDQrgEemyWwjP40UE4MUW4HD85bfxh8PL6TspxYQCMwBAUzD_s_dK8rlvo3-IfpobLGmCf9ugsxKI8uI-KWCltkHH6b1ojS7TLxlvAoGZ&sa=X&ved=2ahUKEwjXy92D3LOOAxVyhv0HHbWkEwQQtKgLKAF6BAgjEAE&biw=2516&bih=1286&dpr=1#vhid=UqjqwSykQNPVHM&vssid=mosaic"
 			height: 1.0d
 			hover: ["Join the Discord!"]
 			image: "moonlight:textures/gui/sprites/media/discord.png"
@@ -16,7 +16,7 @@
 			y: -3.0d
 		}
 		{
-			click: "#59FAF1970F757E58"
+			click: "https://github.com/jslament/JSLs-Ultimate-FantasyRPG"
 			height: 1.0d
 			image: "moonlight:textures/gui/sprites/media/github.png"
 			rotation: 0.0d
@@ -25,7 +25,7 @@
 			y: -3.0d
 		}
 		{
-			click: "#7D1CEF50065B43E7"
+			click: "https://www.google.com/search?client=opera-gx&hs=NHn&sca_esv=cbb6d4394e298965&sxsrf=AE3TifOGFVO-jLVgReoG1qiEnWiRw0ttsg:1752199561966&q=trollface&udm=2&fbs=AIIjpHw2KGh6wpocn18KLjPMw8n57XoVNo77u2wv3yhVkwnmKJcuHYbf7YNAsy_9nkGewzctNQCqkgW4WnkPOfpLmad4Y8YMTaIIDQrgEemyWwjP40UE4MUW4HD85bfxh8PL6TspxYQCMwBAUzD_s_dK8rlvo3-IfpobLGmCf9ugsxKI8uI-KWCltkHH6b1ojS7TLxlvAoGZ&sa=X&ved=2ahUKEwjXy92D3LOOAxVyhv0HHbWkEwQQtKgLKAF6BAgjEAE&biw=2516&bih=1286&dpr=1#vhid=UqjqwSykQNPVHM&vssid=mosaic"
 			height: 1.0d
 			image: "moonlight:textures/gui/sprites/media/curseforge.png"
 			rotation: 0.0d
@@ -46,7 +46,8 @@
 		{
 			click: "#5194D0BA4C9EDDA7"
 			height: 2.0d
-			image: "minecraft:textures/particle/heart.png"
+			hover: ["Credits"]
+			image: "relics:textures/gui/description/icons/completed.png"
 			rotation: 0.0d
 			width: 2.0d
 			x: 3.0d
@@ -87,7 +88,7 @@
 		}
 		{
 			icon: {
-				id: "minecraft:iron_sword"
+				id: "minecraft:diamond_sword"
 			}
 			id: "14B0DDB84D959142"
 			tasks: [{
@@ -100,7 +101,44 @@
 		}
 		{
 			icon: {
-				id: "minecraft:player_head"
+				components: {
+					"relics:data": {
+						abilities: {
+							abilities: {
+								skating: {
+									extender: {
+										cooldown: 0
+										cooldownCap: 0
+										ticking: 0b
+									}
+									lock: {
+										breaks: 5
+									}
+									points: 0
+									research: {
+										links: { }
+										researched: 0b
+									}
+									stats: {
+										duration: {
+											initialValue: 27.03932d
+										}
+										speed: {
+											initialValue: 0.00324d
+										}
+									}
+								}
+							}
+						}
+						leveling: {
+							experience: 0
+							level: 0
+							luck: 0
+							points: 0
+						}
+					}
+				}
+				id: "relics:roller_skates"
 			}
 			id: "7A392AAA7BB25F48"
 			tasks: [{
@@ -134,39 +172,6 @@
 			y: -0.5d
 		}
 		{
-			id: "4C3651A7C9904DC3"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "4089E5786E245A13"
-				type: "checkmark"
-			}]
-			x: 2.0d
-			y: -3.5d
-		}
-		{
-			id: "59FAF1970F757E58"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "6EE4EF4535218BF9"
-				type: "checkmark"
-			}]
-			x: 4.0d
-			y: -3.5d
-		}
-		{
-			id: "7D1CEF50065B43E7"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "2C327AAB0FC0F093"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: -3.5d
-		}
-		{
 			id: "50E4E3C3576F62A2"
 			invisible: true
 			optional: true
@@ -178,9 +183,6 @@
 			y: -3.5d
 		}
 		{
-			icon: {
-				id: "minecraft:diamond"
-			}
 			id: "5194D0BA4C9EDDA7"
 			invisible: true
 			tasks: [{
@@ -192,7 +194,15 @@
 		}
 		{
 			icon: {
-				id: "minecraft:villager_spawn_egg"
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 10
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:villager_spell_book"
 			}
 			id: "481AD9F0A4FB34DC"
 			tasks: [{
@@ -254,7 +264,7 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 1.5d
 		}
 		{
 			id: "6D5F67F00A36B7CC"
@@ -265,7 +275,16 @@
 				type: "advancement"
 			}]
 			x: 4.5d
-			y: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "23F286C5E7F000F6"
+			tasks: [{
+				id: "6D47D5FBE6C5F03E"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 2.5d
 		}
 	]
 }

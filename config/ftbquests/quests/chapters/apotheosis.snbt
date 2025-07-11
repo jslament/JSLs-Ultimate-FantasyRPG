@@ -3,8 +3,11 @@
 	default_quest_shape: ""
 	filename: "apotheosis"
 	group: "32FA6FC13196390B"
+	icon: {
+		id: "apothic_enchanting:infused_breath"
+	}
 	id: "6772A857951F324A"
-	order_index: 2
+	order_index: 1
 	quest_links: [{
 		id: "3374DFDC39CB72F8"
 		linked_quest: "4C0A90F5A5C631CD"
@@ -15,7 +18,7 @@
 		{
 			id: "6BAA2C5976B99534"
 			tasks: [{
-				id: "41C0DA01927DB298"
+				id: "0432D44DCA14A7BB"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -84,6 +87,20 @@
 				type: "item"
 			}]
 			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"71A02866C4A6EF32"
+				"335D9DB23F72563B"
+			]
+			id: "2E22A35BB278D8E8"
+			tasks: [{
+				id: "000D02674F0CE318"
+				item: { count: 1, id: "apothic_enchanting:deepshelf" }
+				type: "item"
+			}]
+			x: 2.0d
 			y: -2.5d
 		}
 	]

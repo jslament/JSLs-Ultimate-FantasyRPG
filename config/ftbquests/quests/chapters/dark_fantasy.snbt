@@ -471,7 +471,7 @@
 			tasks: [{
 				entity: "irons_spellbooks:dead_king"
 				icon: {
-					id: "minecraft:oak_log"
+					id: "irons_spellbooks:blood_staff"
 				}
 				id: "0AA78EB628BB1AB2"
 				type: "kill"

@@ -3,6 +3,52 @@
 	default_quest_shape: ""
 	filename: "relics"
 	group: "32FA6FC13196390B"
+	icon: {
+		components: {
+			"relics:data": {
+				abilities: {
+					abilities: {
+						protective_bubble: {
+							extender: {
+								cooldown: 0
+								cooldownCap: 0
+								ticking: 0b
+							}
+							lock: {
+								breaks: 5
+							}
+							points: 0
+							research: {
+								links: { }
+								researched: 0b
+							}
+							stats: {
+								attack_blocks: {
+									initialValue: 2.31989d
+								}
+								cooldown: {
+									initialValue: 27.79638d
+								}
+								damage: {
+									initialValue: 0.45054d
+								}
+								projectiles: {
+									initialValue: 17.59896d
+								}
+							}
+						}
+					}
+				}
+				leveling: {
+					experience: 0
+					level: 0
+					luck: 0
+					points: 0
+				}
+			}
+		}
+		id: "reliquified_lenders_cataclysm:void_bubble"
+	}
 	id: "5CEAAF41969C32F0"
 	images: [{
 		height: 1.0d
