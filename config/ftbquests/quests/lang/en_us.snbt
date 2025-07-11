@@ -8,8 +8,8 @@
 	chapter.61CDFE234D648952.title: "Companions"
 	chapter.61D576C588C19262.title: "Storage Solutions"
 	chapter.6772A857951F324A.title: "&#A18CD1A&#AB92D4p&#B598D7o&#BF9EDAt&#C9A4DDh&#D3AADFe&#DDB0E2o&#E7B6E5s&#F1BCE8i&#FBC2EBs"
-	chapter_group.30DF2C7F5C08C1E7.title: "&#EC8C8C&lU&#F29F8C&ll&#F9B28B&lt&#FFC58B&li&#FFD891&lm&#FFEC98&la&#FFFF9E&lt&#DDFF9D&le&#BCFF9B&l &#9AFF9A&lF&#99EFB8&la&#98DFD7&ln&#97CFF5&lt&#9BBDF8&la&#9FACFC&ls&#A39AFF&ly&#BC9CFF&lR&#D59EFF&lP&#EEA0FF&lG"
-	chapter_group.32FA6FC13196390B.title: "&#470479&lA&#48097A&ll&#490D7C&ll&#4A127D&l &#4A177F&lT&#4B1B80&lh&#4C2081&le&#4D2583&l &#4E2A84&lA&#4F2E85&lr&#4F3387&lc&#503888&la&#513C8A&ln&#52418B&le"
+	chapter_group.30DF2C7F5C08C1E7.title: "&#54F47F&lU&#54EA78&ll&#53DF70&lt&#53D569&li&#52CA62&lm&#52C05A&la&#51B553&lt&#51AB4C&le &#50963D&lF&#5B9F3E&la&#66A840&ln&#71B241&lt&#7CBB43&la&#87C444&ls&#92CD46&ly&#9DD747&lR&#A8E049&lP&#B3E94A&lG"
+	chapter_group.32FA6FC13196390B.title: "&#B267FC&lM&#BB7EFA&la&#C396F8&lg&#CCADF6&li&#D4C4F4&lc"
 	quest.005968F5262BA5A7.quest_desc: [
 		"The &l&eUniversal Sawmill&r&r lets you craft any wood-based block, including modded ones.  "
 		""
@@ -61,7 +61,7 @@
 		""
 		"{image:arts_and_crafts:item/magenta_paintbrush width:100 height:100 align:center}"
 	]
-	quest.13ED878AC4BCD372.quest_subtitle: "More Blocks"
+	quest.13ED878AC4BCD372.quest_subtitle: "Super Colorful Blocks"
 	quest.14B0DDB84D959142.quest_subtitle: "Hackers 'n Slashers and Better Combat"
 	quest.14B0DDB84D959142.title: "Reworked Combat"
 	quest.160962902F685752.quest_desc: [
@@ -87,7 +87,32 @@
 	]
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
+	quest.17CC0742F818473F.quest_desc: ["images can have dependencies to be hidden"]
+	quest.1B42C830CDC0A5A4.quest_desc: [
+		"&6&lSupplementaries&r&r adds functional and decorative blocks that fit are designed to fit into vanilla."
+		""
+		"Highlights include:  "
+		"- Bamboo spikes  "
+		"- Lamps  "
+		"- Flags  "
+		"- Presents  "
+		"...and much more!"
+		""
+		"Many blocks also emit redstone signals, making this mod great engineers too."
+	]
+	quest.1B42C830CDC0A5A4.quest_subtitle: "Try eating soap"
 	quest.202991E315A61EC2.title: "The Spices of Life"
+	quest.23F286C5E7F000F6.quest_desc: [
+		"🔍 &lHow to use JEI:&r"
+		"- &nLeft click&r an item to see how to craft it  "
+		"- &nRight click&r an item to see what it's used in  "
+		"- Use the search bar to find any item by name or tooltip  "
+		"- Type &n@modname&r to filter items by mod (e.g. @farmersdelight)"
+		""
+		"JEI works with nearly every mod in the pack. It's your best friend for crafting."
+	]
+	quest.23F286C5E7F000F6.quest_subtitle: "All the recipes you need"
+	quest.23F286C5E7F000F6.title: "Just Enough Items (JEI)"
 	quest.26C4B8DDBCA5F001.title: "Dog Armor"
 	quest.278831E0A5249166.quest_desc: [
 		"Ready to test your luck?"
@@ -302,7 +327,7 @@
 		""
 		"{image:chimes:item/chimes_bamboo width:100 height:100 align:center}"
 	]
-	quest.6FB2BDBD32E5F0FE.quest_subtitle: "Sound of the wind"
+	quest.6FB2BDBD32E5F0FE.quest_subtitle: "Sound of the Wind"
 	quest.75242A4F0B6475F3.quest_subtitle: "Spark and Observable"
 	quest.79D9F19908D0573D.quest_desc: [
 		"Mine some Iron."
@@ -313,13 +338,14 @@
 	quest.79D9F19908D0573D.title: "Iron Age"
 	quest.7A392AAA7BB25F48.quest_subtitle: "I-Frames included"
 	reward.49D213F4B9A59BDD.title: "You got a shield"
+	task.02DC8085180E90C5.title: "Supplementaries"
 	task.038757A4119895CB.title: "Pick a starter kit"
 	task.038EA7BFD270AC97.title: "Chipped"
 	task.0432D44DCA14A7BB.title: "Spawners"
 	task.0521F3800F3C71E6.title: "placeholder"
 	task.052E71C14142194B.title: "golems"
+	task.0A3F348F63E30AB9.title: "Scrolls"
 	task.0AA78EB628BB1AB2.title: "Defeat The Dead King"
-	task.14E060DECD15E1B7.title: "placeholder"
 	task.187A6435FFDB3124.title: "Any #minecraft:logs"
 	task.18D69BBA42A0E101.title: "Iron's Spells and Spellbooks"
 	task.1C0D205F2083CA15.title: "Chimes"
@@ -341,6 +367,8 @@
 	task.4D51AEA80AB8FCA0.title: "Sooty Chimneys"
 	task.538BDF52A0B1A948.title: "Decorative Mods"
 	task.55CD698B74CBDCB8.title: "Resource Packs \\& Shaders"
+	task.5CA05D043742690D.title: "note to self"
+	task.640752103495DEED.title: "Ink"
 	task.64187DC7B36EC83E.title: "Any #minecraft:stone_tool_materials"
 	task.664211AA7147F310.title: "Any #minecraft:swords"
 	task.66D094A764A61E2C.title: "Arts \\& Crafts"

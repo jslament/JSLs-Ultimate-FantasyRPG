@@ -100,6 +100,9 @@
     "inventory_config": true,
     "inventory_connector": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "waystones": {
     "waystone": true
   },

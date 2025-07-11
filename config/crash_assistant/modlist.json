@@ -54,11 +54,6 @@
     "modId": "amendments",
     "version": "1.21-1.2.24"
   },
-  "ancientreforging-1.7.jar": {
-    "jarName": "ancientreforging-1.7.jar",
-    "modId": "ancientreforging",
-    "version": "1.7"
-  },
   "Apotheosis-1.21.1-8.3.6.jar": {
     "jarName": "Apotheosis-1.21.1-8.3.6.jar",
     "modId": "apotheosis",
@@ -73,6 +68,11 @@
     "jarName": "apothic_cataclysm-1.2.0.jar",
     "modId": "apothic_cataclysm",
     "version": "1.2.0"
+  },
+  "apothic_sups_enchanting-0.1.0-neoforge-1.21.1.jar": {
+    "jarName": "apothic_sups_enchanting-0.1.0-neoforge-1.21.1.jar",
+    "modId": "apothic_sups_enchanting",
+    "version": "0.1.0"
   },
   "ApothicAttributes-1.21.1-2.9.0.jar": {
     "jarName": "ApothicAttributes-1.21.1-2.9.0.jar",
@@ -169,6 +169,11 @@
     "modId": "bestylewither",
     "version": "1.8.0"
   },
+  "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
+    "jarName": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+    "modId": "betteradvancements",
+    "version": "0.4.3.21"
+  },
   "bettercombat-neoforge-2.2.4+1.21.1.jar": {
     "jarName": "bettercombat-neoforge-2.2.4+1.21.1.jar",
     "modId": "bettercombat",
@@ -228,6 +233,11 @@
     "jarName": "chunksending-1.21-2.8.jar",
     "modId": "chunksending",
     "version": "2.8"
+  },
+  "clickadv-1.21-3.8.jar": {
+    "jarName": "clickadv-1.21-3.8.jar",
+    "modId": "clickadv",
+    "version": "3.8"
   },
   "clienttweaks-neoforge-1.21.1-21.1.7.jar": {
     "jarName": "clienttweaks-neoforge-1.21.1-21.1.7.jar",
@@ -1142,6 +1152,11 @@
     "modId": "supermartijn642configlib",
     "version": "1.1.8"
   },
+  "supplementaries-1.21-3.3.4-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.3.4-neoforge.jar",
+    "modId": "supplementaries",
+    "version": "1.21-3.3.4"
+  },
   "takesapillage-neoforge-1.0.9+mc1.21.1.jar": {
     "jarName": "takesapillage-neoforge-1.0.9+mc1.21.1.jar",
     "modId": "takesapillage",
@@ -1181,6 +1196,11 @@
     "jarName": "treasure-bags-1.21.1-neoforge-1.10.0.jar",
     "modId": "treasurebags",
     "version": "1.10.0"
+  },
+  "treasuredistance-1.0.jar": {
+    "jarName": "treasuredistance-1.0.jar",
+    "modId": "treasuredistance",
+    "version": "1.0"
   },
   "trofers-neoforge-8.0.0.jar": {
     "jarName": "trofers-neoforge-8.0.0.jar",

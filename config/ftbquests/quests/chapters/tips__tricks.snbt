@@ -3,6 +3,9 @@
 	default_quest_shape: "diamond"
 	filename: "tips__tricks"
 	group: "30DF2C7F5C08C1E7"
+	icon: {
+		id: "minecraft:diamond"
+	}
 	id: "4ECD2DE8A7145508"
 	images: [
 		{
@@ -71,12 +74,12 @@
 				id: "2A4979301EBF5EEC"
 				type: "checkmark"
 			}]
-			x: 1.0d
-			y: 1.5d
+			x: 4.0d
+			y: 2.5d
 		}
 		{
 			icon: {
-				id: "eternal_starlight:seeking_eye"
+				id: "minecraft:command_block"
 			}
 			id: "75242A4F0B6475F3"
 			tasks: [{
@@ -156,12 +159,12 @@
 				id: "55C73FC1482C5A25"
 				type: "advancement"
 			}]
-			x: 1.5d
-			y: 2.0d
+			x: 2.0d
+			y: 2.5d
 		}
 		{
 			icon: {
-				id: "minecraft:command_block"
+				id: "supplementaries:globe"
 			}
 			id: "1B005FBC082B9C81"
 			tasks: [{
@@ -209,8 +212,8 @@
 				id: "7E9705156A20BA52"
 				type: "checkmark"
 			}]
-			x: 5.0d
-			y: -0.5d
+			x: 1.5d
+			y: 2.0d
 		}
 		{
 			id: "5E43A6CBE171C6F2"
@@ -231,8 +234,8 @@
 				id: "06224C5EE54B099D"
 				type: "advancement"
 			}]
-			x: 2.0d
-			y: 2.5d
+			x: 4.5d
+			y: 2.0d
 		}
 		{
 			icon: {
@@ -274,8 +277,8 @@
 				id: "744AE8E88B1A5114"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: 2.0d
+			x: 5.0d
+			y: -0.5d
 		}
 		{
 			id: "23F286C5E7F000F6"
@@ -283,8 +286,8 @@
 				id: "6D47D5FBE6C5F03E"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: 2.5d
+			x: 1.0d
+			y: 1.5d
 		}
 	]
 }

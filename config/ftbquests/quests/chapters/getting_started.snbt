@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "getting_started"
 	group: "30DF2C7F5C08C1E7"
+	icon: {
+		id: "minecraft:iron_sword"
+	}
 	id: "51E73FE92B53158E"
 	images: [
 		{
@@ -402,8 +405,9 @@
 			dependencies: ["4BE47E12A8D320FF"]
 			id: "1B42C830CDC0A5A4"
 			tasks: [{
-				id: "14E060DECD15E1B7"
-				type: "checkmark"
+				id: "02DC8085180E90C5"
+				item: { components: { "ftbfiltersystem:filter": "mod(supplementaries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
 			}]
 			x: 10.0d
 			y: 4.5d

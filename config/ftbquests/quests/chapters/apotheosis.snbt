@@ -1,17 +1,18 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 	filename: "apotheosis"
 	group: "32FA6FC13196390B"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "apothic_enchanting:infused_breath"
 	}
 	id: "6772A857951F324A"
-	order_index: 1
+	order_index: 0
 	quest_links: [{
 		id: "3374DFDC39CB72F8"
 		linked_quest: "4C0A90F5A5C631CD"
-		x: -2.0d
+		x: -3.5d
 		y: -1.5d
 	}]
 	quests: [
@@ -30,7 +31,7 @@
 				id: "47B02B85F90F731C"
 				type: "checkmark"
 			}]
-			x: -6.0d
+			x: -5.0d
 			y: -2.5d
 		}
 		{
@@ -41,8 +42,8 @@
 				item: { count: 1, id: "apothic_enchanting:prismatic_web" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -5.5d
+			x: -3.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["3FFB39C3030C0137"]
@@ -52,7 +53,7 @@
 				item: { count: 1, id: "apothic_enchanting:seashelf" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: -3.5d
 		}
 		{
@@ -64,7 +65,7 @@
 				item: { count: 1, id: "minecraft:prismarine_shard" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -3.5d
 			y: -3.5d
 		}
 		{
@@ -75,11 +76,13 @@
 				item: { count: 1, id: "apothic_enchanting:hellshelf" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["27D1BF920FCB569C"]
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
 			id: "5E56B5FB1A70A47B"
 			tasks: [{
 				id: "4F0534AFCFA327CA"
@@ -100,7 +103,62 @@
 				item: { count: 1, id: "apothic_enchanting:deepshelf" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2E22A35BB278D8E8"]
+			id: "46385974414ADB1A"
+			tasks: [{
+				id: "0B4D15C1DD42BC14"
+				item: { count: 1, id: "apothic_enchanting:endshelf" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["335D9DB23F72563B"]
+			id: "6654EFEC232F7AC0"
+			tasks: [{
+				id: "6F096D405C5009AA"
+				item: { count: 1, id: "apothic_enchanting:sightshelf" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6654EFEC232F7AC0"]
+			id: "05B14A3C4C196A2E"
+			tasks: [{
+				id: "6282C3CEC81B99D7"
+				item: { count: 1, id: "apothic_enchanting:sightshelf_t2" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["71A02866C4A6EF32"]
+			id: "358ACBBA46E65BF6"
+			tasks: [{
+				id: "5AB11E2FB113B86E"
+				item: { count: 1, id: "apothic_enchanting:filtering_shelf" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2E22A35BB278D8E8"]
+			id: "2AFE7C62C101E248"
+			tasks: [{
+				id: "10AD61174C5C70D4"
+				item: { count: 1, id: "apothic_enchanting:treasure_shelf" }
+				type: "item"
+			}]
+			x: -3.0d
 			y: -2.5d
 		}
 	]
