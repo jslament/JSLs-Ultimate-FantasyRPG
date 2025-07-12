@@ -42,10 +42,10 @@
                     "attribute": "apothic_attributes:armor_shred",
                     "operation": "add_value",
                     "values": {
-                        "flawed": 0.075,
-                        "normal": 0.15,
-                        "flawless": 0.25,
-                        "perfect": 0.4
+                        "flawed": 0.0375,
+                        "normal": 0.075,
+                        "flawless": 0.125,
+                        "perfect": 0.2
                     }
                 },
                 {
@@ -61,14 +61,15 @@
             ]
         },
         {
-            "type": "apotheosis:damage_reduction",
-            "damage_type": "magic",
+            "type": "apotheosis:attribute",
+            "attribute": "irons_spellbooks:spell_resist",
             "gem_class": "apotheosis:chestplate",
+            "operation": "add_value",
             "values": {
-                "flawed": 0.125,
-                "normal": 0.15,
-                "flawless": 0.175,
-                "perfect": 0.2
+                "flawed": 0.0625,
+                "normal": 0.075,
+                "flawless": 0.0875,
+                "perfect": 0.1
             }
         },
         {

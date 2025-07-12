@@ -63,9 +63,9 @@
             "gem_class": "apotheosis:breaker",
             "values": {
                 "flawed": 1,
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "normal": 1,
+                "flawless": 2,
+                "perfect": 3
             }
         },
         {
@@ -74,10 +74,10 @@
             "gem_class": "apotheosis:helmet",
             "operation": "add_multiplied_total",
             "values": {
-                "flawed": 0.5,
-                "normal": 0.625,
-                "flawless": 0.75,
-                "perfect": 0.9
+                "flawed": 0.1,
+                "normal": 0.125,
+                "flawless": 0.15,
+                "perfect": 0.18
             }
         }
     ]

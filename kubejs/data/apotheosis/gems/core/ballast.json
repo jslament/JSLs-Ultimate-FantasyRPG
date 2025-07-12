@@ -17,12 +17,12 @@
             },
             "operation": "add_value",
             "values": {
-                "cracked": 1.0,
-                "chipped": 2.0,
-                "flawed": 3.5,
-                "normal": 5.0,
-                "flawless": 7.0,
-                "perfect": 10.0
+                "cracked": 0.2,
+                "chipped": 0.4,
+                "flawed": 0.7,
+                "normal": 1.0,
+                "flawless": 1.5,
+                "perfect": 2.0
             }
         },
         {
@@ -49,12 +49,12 @@
             },
             "operation": "add_value",
             "values": {
-                "cracked": 0.1,
-                "chipped": 0.2,
-                "flawed": 0.3,
-                "normal": 0.4,
-                "flawless": 0.5,
-                "perfect": 0.7
+                "cracked": 0.02,
+                "chipped": 0.04,
+                "flawed": 0.07,
+                "normal": 0.1,
+                "flawless": 0.15,
+                "perfect": 0.2
             }
         }
     ]

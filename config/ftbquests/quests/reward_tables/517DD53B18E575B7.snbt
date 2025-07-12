@@ -1,0 +1,261 @@
+{
+	id: "517DD53B18E575B7"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			icon: {
+				id: "irons_spellbooks:graybeard_staff"
+			}
+			id: "19A14FF8AB10F5EB"
+			item: {
+				components: {
+					"minecraft:container": [
+						{
+							item: {
+								components: {
+									"irons_spellbooks:spell_container": {
+										data: [
+											{
+												id: "irons_spellbooks:firebolt"
+												index: 0
+												level: 1
+											}
+											{
+												id: "irons_spellbooks:fang_strike"
+												index: 1
+												level: 1
+											}
+											{
+												id: "irons_spellbooks:healing_circle"
+												index: 2
+												level: 1
+											}
+										]
+										maxSpells: 5
+										mustEquip: 1b
+										spellWheel: 1b
+									}
+								}
+								count: 1
+								id: "irons_spellbooks:copper_spell_book"
+							}
+							slot: 0
+						}
+						{
+							item: {
+								count: 1
+								id: "irons_spellbooks:wandering_magician_helmet"
+							}
+							slot: 1
+						}
+						{
+							item: {
+								count: 1
+								id: "irons_spellbooks:wandering_magician_chestplate"
+							}
+							slot: 2
+						}
+						{
+							item: {
+								count: 1
+								id: "irons_spellbooks:wandering_magician_leggings"
+							}
+							slot: 3
+						}
+						{
+							item: {
+								count: 1
+								id: "irons_spellbooks:wandering_magician_boots"
+							}
+							slot: 4
+						}
+						{
+							item: {
+								count: 1
+								id: "irons_spellbooks:graybeard_staff"
+							}
+							slot: 5
+						}
+						{
+							item: {
+								count: 8
+								id: "farmersdelight:salmon_roll"
+							}
+							slot: 6
+						}
+					]
+					"minecraft:custom_name": "\"Mage Starting Kit\""
+				}
+				count: 1
+				id: "supplementaries:sack"
+			}
+		}
+		{
+			icon: {
+				id: "goated:barbaric_helmet"
+			}
+			id: "4470F7427AA647D0"
+			item: {
+				components: {
+					"minecraft:block_entity_data": {
+						id: "supplementaries:sack"
+						"neoforge:attachments": {
+							"astages:block_stage": {
+								owner: [I;
+									480538396
+									766659428
+									-1927726227
+									1267373837
+								]
+							}
+						}
+					}
+					"minecraft:container": [
+						{
+							item: {
+								count: 1
+								id: "goated:barbaric_helmet"
+							}
+							slot: 0
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_chestplate"
+							}
+							slot: 1
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_leggings"
+							}
+							slot: 2
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_boots"
+							}
+							slot: 3
+						}
+						{
+							item: {
+								components: {
+									"minecraft:enchantments": {
+										levels: {
+											"minecraft:sharpness": 3
+											"minecraft:unbreaking": 3
+										}
+									}
+									"minecraft:repair_cost": 3
+								}
+								count: 1
+								id: "minecraft:golden_axe"
+							}
+							slot: 4
+						}
+						{
+							item: {
+								components: {
+									"minecraft:enchantments": {
+										levels: {
+											"minecraft:sharpness": 3
+											"minecraft:unbreaking": 3
+										}
+									}
+									"minecraft:repair_cost": 3
+								}
+								count: 1
+								id: "minecraft:golden_axe"
+							}
+							slot: 5
+						}
+						{
+							item: {
+								count: 16
+								id: "farmersdelight:beef_patty"
+							}
+							slot: 6
+						}
+					]
+					"minecraft:custom_name": "\"Berserker Starting Kit\""
+				}
+				count: 1
+				id: "supplementaries:sack"
+			}
+		}
+		{
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "0324D341571A1029"
+			item: {
+				components: {
+					"minecraft:container": [
+						{
+							item: {
+								count: 1
+								id: "minecraft:bow"
+							}
+							slot: 0
+						}
+						{
+							item: {
+								count: 1
+								id: "farmersdelight:iron_knife"
+							}
+							slot: 1
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_helmet"
+							}
+							slot: 2
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_chestplate"
+							}
+							slot: 3
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_leggings"
+							}
+							slot: 4
+						}
+						{
+							item: {
+								count: 1
+								id: "minecraft:leather_boots"
+							}
+							slot: 5
+						}
+						{
+							item: {
+								count: 32
+								id: "minecraft:arrow"
+							}
+							slot: 6
+						}
+						{
+							item: {
+								count: 12
+								id: "farmersdelight:cabbage_rolls"
+							}
+							slot: 7
+						}
+					]
+					"minecraft:custom_name": "\"Archer Starting Kit\""
+				}
+				count: 1
+				id: "supplementaries:sack"
+			}
+		}
+	]
+}

@@ -5,7 +5,7 @@
             "minecraft:overworld"
         ]
     },
-    "min_purity": "flawed",
+    "min_purity": "flawless",
     "unique": true,
     "weights": {
         "frontier": {
@@ -38,10 +38,8 @@
             },
             "mode": "existing",
             "values": {
-                "flawed": 1,
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "flawless": 1,
+                "perfect": 2
             }
         },
         {
@@ -56,10 +54,8 @@
             },
             "mode": "existing",
             "values": {
-                "flawed": 1,
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "flawless": 1,
+                "perfect": 2
             }
         },
         {
@@ -68,10 +64,8 @@
             "gem_class": "apotheosis:breaker",
             "mode": "existing",
             "values": {
-                "flawed": 1,
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "flawless": 1,
+                "perfect": 2
             }
         }
     ]

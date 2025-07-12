@@ -21,7 +21,7 @@
 			image: "minecraft:item/iron_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
-			x: 12.5d
+			x: 12.0d
 			y: -1.0d
 		}
 		{
@@ -42,17 +42,16 @@
 		}
 	]
 	order_index: 1
-	quest_links: [{
-		id: "73B01F8709B58111"
-		linked_quest: "3996C5805550D55E"
-		shape: "netheritetier"
-		size: 1.5d
-		x: 21.0d
-		y: 0.0d
-	}]
+	quest_links: [ ]
 	quests: [
 		{
 			id: "6D30C5E0A75DDB2F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F0E7D238FFD25F7"
+				table_id: 5872083938958472631L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "038757A4119895CB"
 				type: "checkmark"
@@ -132,9 +131,10 @@
 			dependencies: [
 				"5E56B5FB1A70A47B"
 				"3996C5805550D55E"
+				"2CCAC7673B3BE9FA"
 			]
 			id: "4C0A90F5A5C631CD"
-			shape: "hexagon"
+			shape: "netheritetier"
 			size: 1.5d
 			tasks: [{
 				dimension: "minecraft:the_nether"
@@ -144,7 +144,7 @@
 				id: "77D0D7D854C086ED"
 				type: "dimension"
 			}]
-			x: 27.0d
+			x: 21.0d
 			y: 0.0d
 		}
 		{
@@ -188,8 +188,8 @@
 				item: { count: 1, id: "sleep_tight:night_bag" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: -2.75d
+			x: 13.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4C0A90F5A5C631CD"]
@@ -199,7 +199,7 @@
 				item: { count: 1, id: "sleep_tight:dreamer_essence" }
 				type: "item"
 			}]
-			x: 28.0d
+			x: 22.0d
 			y: 1.5d
 		}
 		{
@@ -257,12 +257,13 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["4C0A90F5A5C631CD"]
 			id: "25AA5A710A595F8D"
 			tasks: [{
 				id: "2DB0BDA2F100B4A6"
 				type: "checkmark"
 			}]
-			x: 32.0d
+			x: 24.5d
 			y: 0.0d
 		}
 		{
@@ -420,7 +421,7 @@
 				item: { count: 1, id: "tiab:time_in_a_bottle" }
 				type: "item"
 			}]
-			x: 26.0d
+			x: 20.0d
 			y: 1.5d
 		}
 	]

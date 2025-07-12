@@ -5,7 +5,7 @@
             "minecraft:the_end"
         ]
     },
-    "min_purity": "flawless",
+    "min_purity": "perfect",
     "unique": true,
     "weights": {
         "summit": {
@@ -29,8 +29,7 @@
             },
             "mode": "global",
             "values": {
-                "flawless": 1,
-                "perfect": 2
+                "perfect": 1
             }
         }
     ]

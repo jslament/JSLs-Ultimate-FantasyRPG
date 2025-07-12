@@ -67,17 +67,17 @@
                 "normal": {
                     "duration": 200,
                     "amplifier": 0,
-                    "cooldown": 400
+                    "cooldown": 1200
                 },
                 "flawless": {
                     "duration": 300,
                     "amplifier": 0,
-                    "cooldown": 400
+                    "cooldown": 1200
                 },
                 "perfect": {
                     "duration": 300,
                     "amplifier": 1,
-                    "cooldown": 400
+                    "cooldown": 1200
                 }
             }
         }
