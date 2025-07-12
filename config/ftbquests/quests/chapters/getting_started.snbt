@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "square"
 	filename: "getting_started"
 	group: "30DF2C7F5C08C1E7"
 	icon: {
@@ -33,10 +33,10 @@
 			y: -1.0d
 		}
 		{
-			height: 1.08d
+			height: 0.91d
 			image: "kubejs:textures/getting_started.png"
 			rotation: 0.0d
-			width: 10.24d
+			width: 10.08d
 			x: 3.0d
 			y: -3.0d
 		}
@@ -166,7 +166,7 @@
 				item: { count: 1, id: "monobank:monobank" }
 				type: "item"
 			}]
-			x: 7.5d
+			x: 8.0d
 			y: -1.5d
 		}
 		{
@@ -188,7 +188,7 @@
 				item: { count: 1, id: "sleep_tight:night_bag" }
 				type: "item"
 			}]
-			x: 13.5d
+			x: 14.0d
 			y: -1.5d
 		}
 		{
@@ -199,7 +199,7 @@
 				item: { count: 1, id: "sleep_tight:dreamer_essence" }
 				type: "item"
 			}]
-			x: 22.0d
+			x: 21.5d
 			y: 1.5d
 		}
 		{
@@ -221,7 +221,7 @@
 				item: { count: 1, id: "dummmmmmy:target_dummy" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 4.0d
 			y: -1.5d
 		}
 		{
@@ -242,7 +242,7 @@
 				item: { count: 1, id: "pet_cemetery:pet_collar" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 2.0d
 			y: -1.5d
 		}
 		{
@@ -253,7 +253,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(armoreddoggo)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 13.5d
+			x: 14.5d
 			y: 1.5d
 		}
 		{
@@ -300,8 +300,8 @@
 				item: { count: 1, id: "sawmill:sawmill" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: -1.5d
+			x: 9.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -311,8 +311,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chipped)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 1.5d
+			x: 8.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -322,8 +322,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(handcrafted)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 3.0d
+			x: 9.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -333,8 +333,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chimes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 1.5d
+			x: 7.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -344,8 +344,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(sootychimneys)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 3.0d
+			x: 10.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["2CCAC7673B3BE9FA"]
@@ -355,7 +355,7 @@
 				item: { count: 1, id: "waystones:waystone" }
 				type: "item"
 			}]
-			x: 16.5d
+			x: 15.5d
 			y: 1.5d
 		}
 		{
@@ -366,8 +366,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(arts_and_crafts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 4.5d
+			x: 8.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["79D9F19908D0573D"]
@@ -377,8 +377,8 @@
 				item: { count: 1, id: "exposure:camera" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -1.5d
+			x: 8.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["347BD2D96FB9FEEC"]
@@ -388,7 +388,7 @@
 				item: { count: 1, id: "goated:ram_block" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 4.0d
 			y: 1.5d
 		}
 		{
@@ -399,7 +399,7 @@
 				item: { count: 1, id: "goated:ram_block" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 2.0d
 			y: 1.5d
 		}
 		{
@@ -410,8 +410,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(supplementaries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 4.5d
+			x: 10.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4C0A90F5A5C631CD"]
@@ -421,8 +421,19 @@
 				item: { count: 1, id: "tiab:time_in_a_bottle" }
 				type: "item"
 			}]
-			x: 20.0d
+			x: 20.5d
 			y: 1.5d
+		}
+		{
+			dependencies: ["79D9F19908D0573D"]
+			id: "7529731319EFF3D7"
+			tasks: [{
+				id: "59E99D14290CF5B4"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
 		}
 	]
 }

@@ -56,6 +56,15 @@
 		"{image:handcrafted:item/hammer width:100 height:100 align:center}"
 	]
 	quest.0CE8BEFCF4DF7C8E.quest_subtitle: "Well Furnished"
+	quest.1030D1481BDBD3E4.quest_desc: [
+		"The &lMiniMap&r shows your surroundings, coordinates, and works even underground."
+		""
+		"Press &lM&r to open the &lWorld Map&r"
+		"Set waypoints with &lB&r or by &lright-clicking&r anywhere on the map."
+		""
+		"&oIt's so useful that it almost feels like cheating!&r"
+	]
+	quest.1030D1481BDBD3E4.quest_subtitle: "From Xaero"
 	quest.13ED878AC4BCD372.quest_desc: [
 		"&6&lArts \\& Crafts&r&r adds a bunch of new &dbuilding blocks&r to play with: chalk, plaster, painted mud bricks, soapstone, shingles, and more.  "
 		""
@@ -88,6 +97,16 @@
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
 	quest.17CC0742F818473F.quest_desc: ["images can have dependencies to be hidden"]
+	quest.1B005FBC082B9C81.quest_desc: [
+		"Want smoother performance and fewer lag spikes while exploring?  "
+		""
+		"&6&lUse the command:&r&r"
+		"&o/neoforge generate start ~ ~ ~ \"chunks radius\"&r"
+		"to pre-generate your world in advance!"
+		""
+		"&oGreat for servers and large modpacks.&r"
+	]
+	quest.1B005FBC082B9C81.quest_subtitle: "Add \"true\" at the end of your command to see the progress bar"
 	quest.1B42C830CDC0A5A4.quest_desc: [
 		"&6&lSupplementaries&r&r adds functional and decorative blocks that fit are designed to fit into vanilla."
 		""
@@ -102,6 +121,16 @@
 		"{image:supplementaries:item/pancake width:100 height:100 align:center}"
 	]
 	quest.1B42C830CDC0A5A4.quest_subtitle: "Try eating soap"
+	quest.202991E315A61EC2.quest_desc: [
+		"Eat new foods (above 4 hunger bars) to permanently &lincrease&r your &lmax HP&r "
+		""
+		"A &ldiverse diet&r also gives stat buffs, but if you stop mixing it up, the buffs go away"
+		""
+		"Each food mod comes with its own food book to help you track what you've eaten"
+		""
+		"Stay well-fed, stay powerful!"
+	]
+	quest.202991E315A61EC2.quest_subtitle: "Eating is no longer just about filling your hunger bar"
 	quest.202991E315A61EC2.title: "The Spices of Life"
 	quest.23F286C5E7F000F6.quest_desc: [
 		"🔍 &lHow to use JEI:&r"
@@ -142,6 +171,7 @@
 		""
 		"Read the Chronicles of Shadows if you're stuck."
 	]
+	quest.27D1BF920FCB569C.title: "&6Apotheosis:&r Enchanting Module"
 	quest.2CCAC7673B3BE9FA.quest_desc: [
 		"Find some &bDiamonds.&r"
 		""
@@ -223,7 +253,7 @@
 		""
 		"{image:minecraft:block/nether_portal width:100 height:100 align:center}"
 	]
-	quest.4C0A90F5A5C631CD.quest_subtitle: "Read in Jack Black's voice."
+	quest.4C0A90F5A5C631CD.quest_subtitle: "Read in Jack Black's voice"
 	quest.4C0A90F5A5C631CD.title: "THE NETHER!!"
 	quest.4F7915251AD276F9.quest_desc: [
 		"Use a &l&eChipped Table&r&r to turn vanilla blocks into detailed variants.  "
@@ -292,7 +322,7 @@
 		"{image:apotheosis:blocks/augmenting/top width:100 height:100 align:center}"
 	]
 	quest.5E43A6CBE171C6F2.quest_subtitle: "\"All things that should have been\""
-	quest.5E43A6CBE171C6F2.title: "Apotheosis"
+	quest.5E43A6CBE171C6F2.title: "&6Apotheosis&r"
 	quest.609DBC33B5A748EB.quest_desc: [
 		"Craft a &ehay bale&r and an &6armor stand&r to make a &lTarget Dummy&r."
 		""
@@ -304,6 +334,7 @@
 		""
 		"Read the Chronicles of Shadows if you're stuck."
 	]
+	quest.6BAA2C5976B99534.title: "&6Apotheosis:&r Spawner Module"
 	quest.6D30C5E0A75DDB2F.quest_desc: [
 		"Before your adventure begins, pick your starting kit:  "
 		""
@@ -315,6 +346,14 @@
 	]
 	quest.6D30C5E0A75DDB2F.quest_subtitle: "A little headstart"
 	quest.6D30C5E0A75DDB2F.title: "Starting Kit"
+	quest.6D5F67F00A36B7CC.quest_desc: [
+		"Tired of fumbling through your spell wheel in the heat of battle?  "
+		""
+		"You can assign any spell slot in your spellbook to a keybind for &oinstant casting.&r  "
+		""
+		"Perfect for fast reactions or frequently-used spells."
+	]
+	quest.6D5F67F00A36B7CC.quest_subtitle: "You have access to 15 quick casting keybinds"
 	quest.6D5F67F00A36B7CC.title: "Quick Casting Spells"
 	quest.6E6457793C55F75E.quest_desc: [
 		"This modpack comes with built-in &fresource packs&r and &dshaders&r.  "
@@ -337,7 +376,18 @@
 		"{image:chimes:item/chimes_bamboo width:100 height:100 align:center}"
 	]
 	quest.6FB2BDBD32E5F0FE.quest_subtitle: "Sound of the Wind"
-	quest.75242A4F0B6475F3.quest_subtitle: "Spark and Observable"
+	quest.75242A4F0B6475F3.quest_desc: [
+		"Although meant for developers, Spark can still be helpful for anyone."
+		""
+		"Head to spark.lucko.me/docs for more documentation."
+	]
+	quest.75242A4F0B6475F3.quest_subtitle: "Diagnosing Lag with Spark"
+	quest.7529731319EFF3D7.quest_desc: [
+		"Missing your usual zoom key? It's right here!"
+		""
+		"Press &lZ&r (default keybind) to activate your &lSpyglass&r without needing to hold it, as long as it's either in your &linventory&r or &lbelt slot&r"
+	]
+	quest.7529731319EFF3D7.quest_subtitle: "Zooooooooom..."
 	quest.79D9F19908D0573D.quest_desc: [
 		"Mine some Iron."
 		""
@@ -356,6 +406,7 @@
 	task.052E71C14142194B.title: "golems"
 	task.0A3F348F63E30AB9.title: "Scrolls"
 	task.0AA78EB628BB1AB2.title: "Defeat The Dead King"
+	task.0B391800E86626CB.title: "Mini-Map \\& World Map"
 	task.187A6435FFDB3124.title: "Any #minecraft:logs"
 	task.18D69BBA42A0E101.title: "Iron's Spells and Spellbooks"
 	task.1C0D205F2083CA15.title: "Chimes"
@@ -374,6 +425,7 @@
 	task.43393EB25C7BE4C9.title: "hamsters"
 	task.469CE1F4072CAE77.title: "Moon Phases"
 	task.47B02B85F90F731C.title: "Enchanting"
+	task.482FB7CB92F675F7.title: "Find Me"
 	task.4D51AEA80AB8FCA0.title: "Sooty Chimneys"
 	task.538BDF52A0B1A948.title: "Decorative Mods"
 	task.55CD698B74CBDCB8.title: "Resource Packs \\& Shaders"

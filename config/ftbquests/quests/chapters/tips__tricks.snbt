@@ -74,8 +74,8 @@
 				id: "2A4979301EBF5EEC"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: 2.5d
+			x: 5.0d
+			y: 1.5d
 		}
 		{
 			icon: {
@@ -159,7 +159,7 @@
 				id: "55C73FC1482C5A25"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: 4.0d
 			y: 2.5d
 		}
 		{
@@ -212,30 +212,8 @@
 				id: "7E9705156A20BA52"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: 2.0d
-		}
-		{
-			id: "5E43A6CBE171C6F2"
-			rewards: [{
-				id: "25E9BC8F7046114E"
-				item: {
-					components: {
-						"patchouli:book": "apotheosis:apoth_chronicle"
-					}
-					count: 1
-					id: "patchouli:guide_book"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				advancement: "apotheosis:progression/root"
-				criterion: ""
-				id: "06224C5EE54B099D"
-				type: "advancement"
-			}]
-			x: 4.5d
-			y: 2.0d
+			x: 2.0d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -266,8 +244,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 1.5d
+			x: 4.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["1B05E2A7CA0709A4"]
@@ -282,6 +260,9 @@
 			y: -0.5d
 		}
 		{
+			icon: {
+				id: "eternal_starlight:seeking_eye"
+			}
 			id: "23F286C5E7F000F6"
 			tasks: [{
 				id: "6D47D5FBE6C5F03E"
@@ -289,6 +270,28 @@
 			}]
 			x: 1.0d
 			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"irons_spellbooks:furled_map_data": {
+						descriptionOverride: {
+							translate: "item.irons_spellbooks.evoker_fort_battle_plans"
+						}
+						destination: "irons_spellbooks:evoker_fort"
+						dimension: "minecraft:overworld"
+					}
+					"minecraft:lore": ["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.evoker_fort_battle_plans\"}]}"]
+				}
+				id: "irons_spellbooks:furled_map"
+			}
+			id: "1030D1481BDBD3E4"
+			tasks: [{
+				id: "0B391800E86626CB"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 2.0d
 		}
 	]
 }
