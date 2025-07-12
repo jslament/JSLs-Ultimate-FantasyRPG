@@ -384,8 +384,8 @@
 			dependencies: ["347BD2D96FB9FEEC"]
 			id: "51147A831F292A8E"
 			tasks: [{
-				id: "36CC383B18094CC5"
-				item: { count: 1, id: "goated:barbaric_helmet" }
+				id: "2E3330FC7034502C"
+				item: { count: 1, id: "goated:ram_block" }
 				type: "item"
 			}]
 			x: 4.5d

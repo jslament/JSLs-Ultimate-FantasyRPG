@@ -510,7 +510,7 @@
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:summon_horse"]
-		Enabled = true
+		Enabled = false
 		School = "irons_spellbooks:evocation"
 		MaxLevel = 5
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY

@@ -1,7 +1,7 @@
 LootJS.modifiers((event) => {
     // Common
     event
-        .addTableModifier(/(minecraft:chests.*|mowziesmobs:chests.*|ribbits:chests.*|revampedvillages:.*|skyvillages:chests.*|trek.*|)/)
+        .addTableModifier(/(minecraft:chests.*|mowziesmobs:chests.*|nova_structures:chests.*|revampedvillages:.*|skyvillages:chests.*|trek.*|)/)
         .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([3, 7]).randomChance(0.15));
 
     // Uncommon
@@ -11,7 +11,7 @@ LootJS.modifiers((event) => {
 
     // Rare
     event
-        .addTableModifier(/(minecraft:chests\/(ancient_city|end_city).*|betterfortresses:chests.*|nova_structures:chests.*|alshanex_familiars:chests\/summoner_lab\/treasure)/)
+        .addTableModifier(/(minecraft:chests\/(ancient_city|end_city).*|betterfortresses:chests.*|alshanex_familiars:chests\/summoner_lab\/treasure|nova_structures:chests\/end_castle)/)
         .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([7, 12]));
 
     // Epic
