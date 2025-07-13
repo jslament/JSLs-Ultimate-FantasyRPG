@@ -32,8 +32,8 @@
 				id: "0432D44DCA14A7BB"
 				type: "checkmark"
 			}]
-			x: -1.5d
-			y: -5.5d
+			x: 0.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["5E43A6CBE171C6F2"]
@@ -225,6 +225,181 @@
 			}]
 			x: 7.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["5E43A6CBE171C6F2"]
+			id: "1A0235535E1A8232"
+			tasks: [{
+				id: "64179F262BFBE944"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1A0235535E1A8232"]
+			id: "5252260F8D9C29A8"
+			tasks: [{
+				id: "6FF158E7B2E0CCFB"
+				item: { count: 1, id: "apotheosis:gem" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5252260F8D9C29A8"]
+			id: "124F66753D935557"
+			tasks: [{
+				id: "2A45E46443E27741"
+				item: { count: 1, id: "apotheosis:gem_dust" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["124F66753D935557"]
+			id: "28A19825026FAB20"
+			tasks: [{
+				id: "18845B46B463F0A1"
+				item: { count: 1, id: "apotheosis:salvaging_table" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["28A19825026FAB20"]
+			id: "3D5DC1F3D4F71149"
+			tasks: [{
+				id: "6517FD7BBAA114AB"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(apotheosis:rarity_materials)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D5DC1F3D4F71149"]
+			id: "2FD06A3E16C9B164"
+			tasks: [{
+				id: "2139CA30F08DC72C"
+				item: { count: 1, id: "apotheosis:simple_reforging_table" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2FD06A3E16C9B164"]
+			id: "67DDEFA29D70A85B"
+			tasks: [{
+				id: "5A02911A3FC9E7FE"
+				item: { count: 1, id: "apotheosis:reforging_table" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["124F66753D935557"]
+			id: "5D59CE7E4843D4C0"
+			tasks: [{
+				id: "0E97E861427D039B"
+				item: { count: 1, id: "apotheosis:gem_fused_slate" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D59CE7E4843D4C0"]
+			id: "21C73BCA6044532E"
+			tasks: [{
+				id: "151C25676D01A21C"
+				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D59CE7E4843D4C0"]
+			id: "41C152ED55C8B031"
+			tasks: [{
+				id: "0066350BF735E81D"
+				item: { count: 1, id: "apotheosis:sigil_of_withdrawal" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D59CE7E4843D4C0"]
+			id: "54AD9DE187C54E03"
+			tasks: [{
+				id: "3F23436D4DBBC851"
+				item: { count: 1, id: "apotheosis:sigil_of_rebirth" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5D59CE7E4843D4C0"]
+			id: "17F1766FC34A240A"
+			tasks: [{
+				id: "50DE1DBA46D9562F"
+				item: { count: 1, id: "apotheosis:sigil_of_enhancement" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5D59CE7E4843D4C0"]
+			id: "02984AF6DFC61E4A"
+			tasks: [{
+				id: "1E9D55D50D9C1759"
+				item: { count: 1, id: "apotheosis:sigil_of_unnaming" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5D59CE7E4843D4C0"]
+			id: "4B6D14938C237FE5"
+			tasks: [{
+				id: "2F6A83B00CF87FD1"
+				item: { count: 1, id: "apotheosis:sigil_of_malice" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2FD06A3E16C9B164"]
+			id: "0FCFDD5F55DEC1E5"
+			tasks: [{
+				id: "565EC063078584DA"
+				item: { count: 1, id: "apotheosis:augmenting_table" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["124F66753D935557"]
+			id: "2050E036D7137C9B"
+			tasks: [{
+				id: "0FF6370F3B06F2AF"
+				item: { count: 1, id: "apotheosis:gem_cutting_table" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
 		}
 	]
 }

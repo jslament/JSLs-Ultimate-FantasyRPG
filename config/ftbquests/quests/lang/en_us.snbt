@@ -97,6 +97,7 @@
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
 	quest.17CC0742F818473F.quest_desc: ["images can have dependencies to be hidden"]
+	quest.1A0235535E1A8232.title: "&6Apotheosis:&r Adventure Module"
 	quest.1B005FBC082B9C81.quest_desc: [
 		"Want smoother performance and fewer lag spikes while exploring?  "
 		""
@@ -199,6 +200,15 @@
 	]
 	quest.347BD2D96FB9FEEC.quest_subtitle: "Go punch some trees"
 	quest.347BD2D96FB9FEEC.title: "Familiar Beginnings"
+	quest.34E60712261DE6F3.quest_desc: [
+		"Let you rest during the day.  "
+		""
+		"Swing with &lA&r or &lD&r while laying down.  "
+		""
+		"Place between 2 fences (2 blocks apart) or 2 walls (3-block gap).  "
+	]
+	quest.34E60712261DE6F3.quest_subtitle: "Chill"
+	quest.34E60712261DE6F3.title: "Hammocks"
 	quest.3996C5805550D55E.quest_desc: ["hi"]
 	quest.481AD9F0A4FB34DC.quest_desc: [
 		"Villagers &csee crime&r and will respond if they're close enough. Sneak, stay in the dark, or go invisible to avoid being noticed.  "
@@ -275,6 +285,7 @@
 		"&oGNU GENERAL PUBLIC LICENSE&r"
 	]
 	quest.5194D0BA4C9EDDA7.quest_subtitle: "Made from love"
+	quest.5252260F8D9C29A8.title: "Gems"
 	quest.5E43A6CBE171C6F2.quest_desc: [
 		"&l&6Apotheosis&r&r adds a full &5RPG-like progression&r system - new attributes, enchantments, world tiers, and much more. It's split into several parts:  "
 		""
@@ -432,10 +443,12 @@
 	task.5CA05D043742690D.title: "note to self"
 	task.640752103495DEED.title: "Ink"
 	task.64187DC7B36EC83E.title: "Any #minecraft:stone_tool_materials"
+	task.6517FD7BBAA114AB.title: "Any #apotheosis:rarity_materials"
 	task.664211AA7147F310.title: "Any #minecraft:swords"
 	task.66D094A764A61E2C.title: "Arts \\& Crafts"
 	task.6B3C22211A13B9DC.title: "Any #curios:charm"
 	task.6D47D5FBE6C5F03E.title: "Placeholder"
+	task.6FF158E7B2E0CCFB.title: "Any Apotheosis Gem"
 	task.788889364D14D2DC.title: "Any #sleep_tight:hammocks"
 	task.7E9705156A20BA52.title: "Reputation"
 }

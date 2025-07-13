@@ -69,7 +69,10 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["6CC5370ACDCE1CD5"]
 			id: "7EE83E5B59706436"
+			shape: "diamondtier"
+			size: 2.0d
 			tasks: [{
 				entity: "fdbosses:chesed"
 				id: "4583EF8241708C01"
@@ -77,10 +80,13 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -4.0d
+			y: -8.0d
 		}
 		{
+			dependencies: ["7EE83E5B59706436"]
 			id: "69819DD6BAA56991"
+			shape: "netheritetier"
+			size: 2.0d
 			tasks: [{
 				entity: "cataclysm:maledictus"
 				id: "091FC0A58BC2D332"
@@ -88,10 +94,17 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
+			dependencies: [
+				"3996C5805550D55E"
+				"77F75AD569FE73F0"
+				"4693B36532469780"
+			]
 			id: "6551BF6A37291504"
+			shape: "irontier"
+			size: 2.0d
 			tasks: [{
 				entity: "cataclysm:scylla"
 				id: "3AA62C185867BF05"
@@ -99,10 +112,17 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -11.0d
+			y: -16.0d
 		}
 		{
+			dependencies: [
+				"6551BF6A37291504"
+				"6A2CF53DB8AB15D2"
+				"2E60C2E28309A6B4"
+			]
 			id: "6CC5370ACDCE1CD5"
+			shape: "goldtier"
+			size: 2.0d
 			tasks: [{
 				entity: "irons_spellbooks:fire_boss"
 				id: "5743B3C881B5CBAC"
@@ -110,7 +130,7 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["08AA2EB27233C486"]
@@ -127,7 +147,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.5d
+			x: -3.5d
 			y: -13.5d
 		}
 		{
@@ -161,8 +181,8 @@
 				id: "653CAFC1B9F059EE"
 				type: "dimension"
 			}]
-			x: -6.5d
-			y: -15.0d
+			x: -6.0d
+			y: -12.0d
 		}
 		{
 			id: "77A53B26AD64488F"
@@ -172,8 +192,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -8.5d
-			y: -15.0d
+			x: -8.0d
+			y: -12.0d
 		}
 		{
 			id: "1DD7F282420951B2"
@@ -186,28 +206,21 @@
 			y: -8.5d
 		}
 		{
-			id: "69F2090391D67528"
-			tasks: [{
-				id: "7C705081D7096FED"
-				item: { components: { "ftbquests:missing_item": "quest_items:unholy_candle" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: -7.0d
-		}
-		{
+			dependencies: ["14AD568A671D7161"]
 			id: "5BA5824556E1AADA"
 			tasks: [{
 				id: "1AC9F033C21ABA70"
 				item: { components: { "ftbquests:missing_item": "quest_items:wither_ribcage" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -9.0d
+			x: 7.0d
+			y: -17.5d
 		}
 		{
 			dependencies: ["2CCAC7673B3BE9FA"]
 			id: "3996C5805550D55E"
+			shape: "woodtier"
+			size: 2.0d
 			tasks: [{
 				entity: "irons_spellbooks:dead_king"
 				icon: {
@@ -218,10 +231,10 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: -15.0d
+			y: -20.0d
 		}
 		{
-			dependencies: ["5BA5824556E1AADA"]
+			dependencies: ["782F8BC4F93B29FE"]
 			id: "77F75AD569FE73F0"
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
@@ -229,8 +242,56 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.0d
-			y: -9.0d
+			x: 3.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["5BA5824556E1AADA"]
+			id: "782F8BC4F93B29FE"
+			tasks: [{
+				id: "1ED1988A40080F19"
+				item: { count: 1, id: "cataclysm:mech_eye" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -16.0d
+		}
+		{
+			id: "14AD568A671D7161"
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "25EF89A8C08E1E5D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -19.0d
+		}
+		{
+			id: "4693B36532469780"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "2882A78A83E2877C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -16.0d
+		}
+		{
+			dependencies: [
+				"6A2CF53DB8AB15D2"
+				"08AA2EB27233C486"
+			]
+			id: "2E60C2E28309A6B4"
+			tasks: [{
+				entity: "eternal_starlight:lunar_monstrosity"
+				id: "6AAE221F1A38E1D0"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -10.5d
 		}
 	]
 }
