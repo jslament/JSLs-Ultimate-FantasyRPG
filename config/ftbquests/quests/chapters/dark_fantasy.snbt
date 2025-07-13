@@ -48,13 +48,25 @@
 	quest_links: [ ]
 	quests: [
 		{
-			hide_dependency_lines: true
+			dependencies: [
+				"2A23F571EC6661A1"
+				"3199E7EC9B7637B8"
+				"50C58908831AED6C"
+				"15EA65CCD7EEC936"
+				"6EC4856FA418F233"
+				"3F8A849C6AABBE94"
+				"3808513AD33B8B32"
+				"7E9828DCB86A8F7B"
+				"559DE3BAB28A5442"
+				"15CDA349E420B6F4"
+				"3928CEAC1A13F050"
+				"47DDE39917C71514"
+			]
 			icon: {
-				id: "irons_spellbooks:invisibility_ring"
+				id: "minecraft:dragon_head"
 			}
 			id: "3218D888DA96F77E"
-			invisible: true
-			shape: "none"
+			shape: "netheritetier"
 			size: 2.0d
 			tasks: [{
 				entity: "minecraft:player"
@@ -79,11 +91,11 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -8.0d
+			x: 6.0d
+			y: -4.0d
 		}
 		{
-			dependencies: ["7EE83E5B59706436"]
+			dependencies: ["3218D888DA96F77E"]
 			id: "69819DD6BAA56991"
 			shape: "netheritetier"
 			size: 2.0d
@@ -93,8 +105,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -4.0d
+			x: -3.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -111,8 +123,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -16.0d
+			x: -2.0d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -129,8 +141,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -12.0d
+			x: 2.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["08AA2EB27233C486"]
@@ -147,8 +159,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -3.5d
-			y: -13.5d
+			x: 3.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["569E11D45053E869"]
@@ -158,8 +170,8 @@
 				item: { components: { "ftbquests:missing_item": "quest_items:pharaohs_mask" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -7.0d
+			x: 9.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["1DD7F282420951B2"]
@@ -170,8 +182,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 5.5d
-			y: -8.5d
+			x: 10.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["77A53B26AD64488F"]
@@ -181,8 +193,8 @@
 				id: "653CAFC1B9F059EE"
 				type: "dimension"
 			}]
-			x: -6.0d
-			y: -12.0d
+			x: 2.0d
+			y: -9.0d
 		}
 		{
 			id: "77A53B26AD64488F"
@@ -192,8 +204,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -8.0d
-			y: -12.0d
+			x: 2.0d
+			y: -10.5d
 		}
 		{
 			id: "1DD7F282420951B2"
@@ -202,8 +214,8 @@
 				item: { components: { "ftbquests:missing_item": "quest_items:desert_rose" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: -8.5d
+			x: 12.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["14AD568A671D7161"]
@@ -213,8 +225,8 @@
 				item: { components: { "ftbquests:missing_item": "quest_items:wither_ribcage" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -17.5d
+			x: -3.0d
+			y: -10.5d
 		}
 		{
 			dependencies: ["2CCAC7673B3BE9FA"]
@@ -230,8 +242,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: -20.0d
+			x: -6.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["782F8BC4F93B29FE"]
@@ -242,8 +254,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: -16.0d
+			x: -3.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["5BA5824556E1AADA"]
@@ -253,8 +265,8 @@
 				item: { count: 1, id: "cataclysm:mech_eye" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -16.0d
+			x: -3.0d
+			y: -9.0d
 		}
 		{
 			id: "14AD568A671D7161"
@@ -264,10 +276,11 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.0d
-			y: -19.0d
+			x: -3.0d
+			y: -12.0d
 		}
 		{
+			dependencies: ["6B79650449C9B10C"]
 			id: "4693B36532469780"
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
@@ -275,8 +288,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -3.5d
-			y: -16.0d
+			x: -1.0d
+			y: -7.5d
 		}
 		{
 			dependencies: [
@@ -290,8 +303,178 @@
 				type: "kill"
 				value: 1L
 			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3218D888DA96F77E"]
+			id: "4CC3016D712672E8"
+			shape: "netheritetier"
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "1D5D4F94EDB0B0A5"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3996C5805550D55E"]
+			id: "50C58908831AED6C"
+			tasks: [{
+				id: "2D7634FA94C35A2B"
+				item: { count: 1, id: "endrem:undead_eye" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.75d
+		}
+		{
+			dependencies: ["3996C5805550D55E"]
+			id: "3199E7EC9B7637B8"
+			tasks: [{
+				id: "1E4E0F255A8CA3E0"
+				item: { count: 1, id: "endrem:wither_eye" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.75d
+		}
+		{
+			dependencies: ["6CC5370ACDCE1CD5"]
+			id: "2A23F571EC6661A1"
+			tasks: [{
+				id: "29467A99825C8D6E"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6CC5370ACDCE1CD5"]
+			id: "7E9828DCB86A8F7B"
+			tasks: [{
+				id: "5650AC6CC408DAED"
+				item: { count: 1, id: "endrem:nether_eye" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["6551BF6A37291504"]
+			id: "3F8A849C6AABBE94"
+			tasks: [{
+				id: "11535EFD264E0C70"
+				item: { count: 1, id: "endrem:exotic_eye" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7EE83E5B59706436"]
+			id: "3928CEAC1A13F050"
+			tasks: [{
+				id: "3D4B81C9D98D2A2C"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6551BF6A37291504"]
+			id: "6EC4856FA418F233"
+			tasks: [{
+				id: "36A212FDEB5996DC"
+				item: { count: 1, id: "endrem:cold_eye" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7EE83E5B59706436"]
+			id: "47DDE39917C71514"
+			tasks: [{
+				id: "136D637368971EB6"
+				item: { count: 1, id: "endrem:cryptic_eye" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.75d
+		}
+		{
+			dependencies: ["6CC5370ACDCE1CD5"]
+			id: "559DE3BAB28A5442"
+			tasks: [{
+				id: "4F5BA5840AB00F07"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6551BF6A37291504"]
+			id: "3808513AD33B8B32"
+			tasks: [{
+				id: "20CE958A944215B5"
+				item: { count: 1, id: "endrem:guardian_eye" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["7EE83E5B59706436"]
+			id: "15CDA349E420B6F4"
+			tasks: [{
+				id: "28E375ECE3957388"
+				item: { count: 1, id: "endrem:magical_eye" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.75d
+		}
+		{
+			dependencies: ["3996C5805550D55E"]
+			id: "15EA65CCD7EEC936"
+			tasks: [{
+				id: "32BE857C7E2C6C97"
+				item: { count: 1, id: "endrem:cursed_eye" }
+				type: "item"
+			}]
 			x: -3.5d
-			y: -10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3218D888DA96F77E"]
+			id: "4FAE2F8490E29197"
+			shape: "netheritetier"
+			size: 2.0d
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "02BA12A2C5A80CAF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "6B79650449C9B10C"
+			tasks: [{
+				id: "1ADDCEEA1211D033"
+				item: { count: 1, id: "cataclysm:monstrous_eye" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -9.0d
 		}
 	]
 }
