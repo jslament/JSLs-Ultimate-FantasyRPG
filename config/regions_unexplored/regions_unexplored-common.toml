@@ -3,11 +3,11 @@
 	#Sets Terrablender region weight for the primary region.
 	# Default: 11
 	# Range: 0 ~ 2147483646
-	primary_region_weight = 7
+	primary_region_weight = 6
 	#Sets Terrablender region weight for the secondary region.
 	# Default: 8
 	# Range: 0 ~ 2147483646
-	secondary_region_weight = 5
+	secondary_region_weight = 4
 	#Sets Terrablender region weight for Nether region.
 	# Default: 14
 	# Range: 0 ~ 2147483646
