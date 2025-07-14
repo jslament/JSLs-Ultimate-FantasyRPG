@@ -60,30 +60,6 @@
 			y: 0.0d
 		}
 		{
-			can_repeat: true
-			dependencies: ["6D30C5E0A75DDB2F"]
-			icon: {
-				id: "dailyshop:daily_shop"
-			}
-			id: "278831E0A5249166"
-			rewards: [{
-				id: "1DE9401287D6D654"
-				item: {
-					count: 1
-					id: "dailyshop:daily_shop"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				id: "6BAC683C94575080"
-				item: { count: 1, id: "magic_coins:silver_coin" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 0.0d
-		}
-		{
 			dependencies: ["6D30C5E0A75DDB2F"]
 			icon: {
 				id: "minecraft:oak_log"

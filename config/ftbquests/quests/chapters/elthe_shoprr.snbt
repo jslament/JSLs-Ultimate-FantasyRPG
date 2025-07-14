@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "elthe_shoprr"
 	group: "30DF2C7F5C08C1E7"
+	icon: {
+		id: "magic_coins:gold_coin"
+	}
 	id: "216366D557F87E7A"
 	images: [
 		{
@@ -13,7 +16,7 @@
 			rotation: 0.0d
 			width: 20.0d
 			x: 0.0d
-			y: -2.5d
+			y: -7.0d
 		}
 		{
 			height: 16.0d
@@ -21,8 +24,8 @@
 			order: -1
 			rotation: 0.0d
 			width: 25.6d
-			x: -10.5d
-			y: 8.0d
+			x: -11.0d
+			y: 13.0d
 		}
 		{
 			height: 16.0d
@@ -30,16 +33,18 @@
 			order: -1
 			rotation: 0.0d
 			width: 25.6d
-			x: 10.5d
-			y: 8.0d
+			x: 11.0d
+			y: 13.0d
 		}
 		{
-			height: 10.0d
-			image: "kubejs:textures/guy.png"
+			height: 25.0d
+			hover: ["Kthalkes, The Corded Merchant"]
+			image: "kubejs:block/guy"
+			order: -2
 			rotation: 0.0d
-			width: 10.0d
+			width: 25.0d
 			x: 0.0d
-			y: 0.5d
+			y: 4.0d
 		}
 	]
 	order_index: 3
@@ -53,7 +58,7 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -2.5d
+			y: -7.0d
 		}
 		{
 			id: "121BBC6F9ED0F5B5"
@@ -114,6 +119,15 @@
 			}]
 			x: -18.0d
 			y: 0.5d
+		}
+		{
+			id: "4DA6B655E2F7E4FB"
+			tasks: [{
+				id: "6A22BE255E8B8891"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: 2.0d
 		}
 	]
 }

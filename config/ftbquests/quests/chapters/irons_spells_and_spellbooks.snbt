@@ -211,16 +211,6 @@
 			y: 1.5d
 		}
 		{
-			id: "17CC0742F818473F"
-			shape: "gear"
-			tasks: [{
-				id: "5CA05D043742690D"
-				type: "checkmark"
-			}]
-			x: 2.5d
-			y: 5.0d
-		}
-		{
 			dependencies: ["698E59392373DDDC"]
 			id: "669D393D855134F5"
 			tasks: [{

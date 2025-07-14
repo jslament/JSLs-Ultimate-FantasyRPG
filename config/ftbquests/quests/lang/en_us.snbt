@@ -116,7 +116,6 @@
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
 	quest.160C85E77DEE17F6.quest_subtitle: "Power"
-	quest.17CC0742F818473F.quest_desc: ["images can have dependencies to be hidden"]
 	quest.1A0235535E1A8232.title: "&6Apotheosis:&r Adventure Module"
 	quest.1B005FBC082B9C81.quest_desc: [
 		"Want smoother performance and fewer lag spikes while exploring?  "
@@ -165,28 +164,6 @@
 	quest.23F286C5E7F000F6.quest_subtitle: "All the recipes you need"
 	quest.23F286C5E7F000F6.title: "Just Enough Items (JEI)"
 	quest.26C4B8DDBCA5F001.title: "Dog Armor"
-	quest.278831E0A5249166.quest_desc: [
-		"Ready to test your luck?"
-		""
-		"&l&6Coins&r&r  "
-		"You'll find coins through:  "
-		"- Exploration  "
-		"- Completing quests  "
-		"- Defeating bosses  "
-		""
-		"Right-click to store coins in your pouch. "
-		"To retrieve coins, click one of the &63 coin icons&r in your inventory screen.  "
-		""
-		"&l&6Coin values&r&r"
-		"- &7Silver Coin&r = 1  "
-		"- &6Gold Coin&r = 25  "
-		"- &bCrystal Coin&r = 1500  "
-		""
-		"&6&lDaily Deals&r &r"
-		"The Daily Shop refreshes with new items every Minecraft day. Sometimes you'll find &cextremely rare&r or &dpowerful&r gear; don't miss out.  "
-	]
-	quest.278831E0A5249166.quest_subtitle: "With Daily Rotations"
-	quest.278831E0A5249166.title: "&6The Shop!&r"
 	quest.27D1BF920FCB569C.quest_desc: [
 		"This section is WIP."
 		""
@@ -284,6 +261,7 @@
 	]
 	quest.4C0A90F5A5C631CD.quest_subtitle: "Read in Jack Black's voice"
 	quest.4C0A90F5A5C631CD.title: "THE NETHER!!"
+	quest.4DA6B655E2F7E4FB.quest_desc: ["&5K’thalkes&r"]
 	quest.4F7915251AD276F9.quest_desc: [
 		"Use a &l&eChipped Table&r&r to turn vanilla blocks into detailed variants.  "
 		""
@@ -466,6 +444,7 @@
 	task.6517FD7BBAA114AB.title: "Any #apotheosis:rarity_materials"
 	task.664211AA7147F310.title: "Any #minecraft:swords"
 	task.66D094A764A61E2C.title: "Arts \\& Crafts"
+	task.6A22BE255E8B8891.title: "place"
 	task.6B3C22211A13B9DC.title: "Any #curios:charm"
 	task.6D47D5FBE6C5F03E.title: "Placeholder"
 	task.6FF158E7B2E0CCFB.title: "Any Apotheosis Gem"
