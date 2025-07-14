@@ -1,6 +1,7 @@
 {
 	chapter.0B5876BB85B24372.title: "&#832466I&#87266Ar&#8C286Do&#902A71n&#942D75'&#982F78s &#A13380S&#A53583p&#AA3787e&#AE398Al&#B23C8El&#B63E92s &#BF4299a&#BA4095n&#B63D91d &#AD3989S&#A83685p&#A33481e&#9F327El&#9A307Al&#952D76b&#912B72o&#8C296Eo&#88266Ak&#832466s"
 	chapter.208038361CAF40ED.title: "Exploration"
+	chapter.216366D557F87E7A.title: "&e&lThe Shop&r&r"
 	chapter.2BB52A3B5EAADE56.title: "&e&lThe Gate&r&r"
 	chapter.4ECD2DE8A7145508.title: "&l&eWelcome!&r&r"
 	chapter.51E73FE92B53158E.title: "&l&eGetting Started&r&r"
@@ -19,6 +20,23 @@
 		"{image:chipped:item/saw width:100 height:100 align:center}"
 	]
 	quest.005968F5262BA5A7.quest_subtitle: "Sawn to Perfection"
+	quest.024D06717EE2A9B9.quest_desc: [
+		"&l&6Coins&r&r  "
+		"You'll find coins through:  "
+		"- Exploration  "
+		"- Completing quests  "
+		"- Defeating bosses  "
+		""
+		"Right-click to store coins in your pouch. "
+		"To retrieve coins, click one of the &63 coin icons&r in your inventory screen.  "
+		""
+		"&l&6Coin values&r&r"
+		"- &7Silver Coin&r = 1  "
+		"- &6Gold Coin&r = 25  "
+		"- &bCrystal Coin&r = 1500 "
+	]
+	quest.024D06717EE2A9B9.quest_subtitle: "Go earn some"
+	quest.024D06717EE2A9B9.title: "Coins"
 	quest.09778DB8E6874CB1.quest_desc: [
 		"Adds &6&lchimneys&r&r in different materials: brick, stone, copper, terracotta, and more.  "
 		""
@@ -424,6 +442,7 @@
 	task.1C0D205F2083CA15.title: "Chimes"
 	task.1E49219680A29FF8.title: "Credits"
 	task.26BD1F01767D8521.title: "Pre-Generate World"
+	task.297AEC6B9F15B7FA.title: "Shop"
 	task.2A4979301EBF5EEC.title: "Useful Luck"
 	task.2BA2933DD0E7E928.title: "Combat Roll"
 	task.2DB0BDA2F100B4A6.title: "Main Story"
