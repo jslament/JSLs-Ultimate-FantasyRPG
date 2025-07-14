@@ -2,9 +2,9 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "companions"
-	group: "30DF2C7F5C08C1E7"
+	group: "39D23E7480A1CDCF"
 	id: "61CDFE234D648952"
-	order_index: 4
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

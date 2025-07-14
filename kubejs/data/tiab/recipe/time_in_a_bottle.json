@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "DCD",
+    "LBL"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:echo_shard"
+    },
+    "L": {
+      "item": "apotheosis:gem_dust"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "B": {
+      "item": "irons_spellbooks:lightning_bottle"
+    }
+  },
+  "result": {
+    "id": "tiab:time_in_a_bottle"
+  }
+}

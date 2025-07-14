@@ -199,7 +199,7 @@
 				item: { count: 1, id: "sleep_tight:dreamer_essence" }
 				type: "item"
 			}]
-			x: 21.5d
+			x: 21.0d
 			y: 1.5d
 		}
 		{
@@ -414,15 +414,15 @@
 			y: 3.5d
 		}
 		{
-			dependencies: ["4C0A90F5A5C631CD"]
+			dependencies: ["7D887C31A4B07795"]
 			id: "7315CE489526DE0D"
 			tasks: [{
 				id: "42D98275DFA55183"
 				item: { count: 1, id: "tiab:time_in_a_bottle" }
 				type: "item"
 			}]
-			x: 20.5d
-			y: 1.5d
+			x: 16.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["79D9F19908D0573D"]

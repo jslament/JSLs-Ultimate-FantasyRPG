@@ -409,15 +409,18 @@
 			y: -1.75d
 		}
 		{
-			dependencies: ["6CC5370ACDCE1CD5"]
+			dependencies: [
+				"3996C5805550D55E"
+				"287C9203B04BDA33"
+			]
 			id: "559DE3BAB28A5442"
 			tasks: [{
 				id: "4F5BA5840AB00F07"
 				item: { count: 1, id: "endrem:lost_eye" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -3.5d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["6551BF6A37291504"]
@@ -442,15 +445,15 @@
 			y: -0.75d
 		}
 		{
-			dependencies: ["3996C5805550D55E"]
+			dependencies: ["6CC5370ACDCE1CD5"]
 			id: "15EA65CCD7EEC936"
 			tasks: [{
 				id: "32BE857C7E2C6C97"
 				item: { count: 1, id: "endrem:cursed_eye" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -2.5d
+			x: 1.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["3218D888DA96F77E"]

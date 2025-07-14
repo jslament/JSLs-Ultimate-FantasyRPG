@@ -10,6 +10,7 @@
 	chapter.6772A857951F324A.title: "&#A18CD1A&#AB92D4p&#B598D7o&#BF9EDAt&#C9A4DDh&#D3AADFe&#DDB0E2o&#E7B6E5s&#F1BCE8i&#FBC2EBs"
 	chapter_group.30DF2C7F5C08C1E7.title: "&#54F47F&lU&#54EA78&ll&#53DF70&lt&#53D569&li&#52CA62&lm&#52C05A&la&#51B553&lt&#51AB4C&le &#50963D&lF&#5B9F3E&la&#66A840&ln&#71B241&lt&#7CBB43&la&#87C444&ls&#92CD46&ly&#9DD747&lR&#A8E049&lP&#B3E94A&lG"
 	chapter_group.32FA6FC13196390B.title: "&#B267FC&lM&#BB7EFA&la&#C396F8&lg&#CCADF6&li&#D4C4F4&lc"
+	chapter_group.39D23E7480A1CDCF.title: "Work In Progress Chapters"
 	quest.005968F5262BA5A7.quest_desc: [
 		"The &l&eUniversal Sawmill&r&r lets you craft any wood-based block, including modded ones.  "
 		""
@@ -96,6 +97,7 @@
 	]
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
+	quest.160C85E77DEE17F6.quest_subtitle: "Power"
 	quest.17CC0742F818473F.quest_desc: ["images can have dependencies to be hidden"]
 	quest.1A0235535E1A8232.title: "&6Apotheosis:&r Adventure Module"
 	quest.1B005FBC082B9C81.quest_desc: [
@@ -448,6 +450,7 @@
 	task.6B3C22211A13B9DC.title: "Any #curios:charm"
 	task.6D47D5FBE6C5F03E.title: "Placeholder"
 	task.6FF158E7B2E0CCFB.title: "Any Apotheosis Gem"
+	task.77B12B6DE65AABB1.title: "Late Game Relics"
 	task.788889364D14D2DC.title: "Any #sleep_tight:hammocks"
 	task.7E9705156A20BA52.title: "Reputation"
 }

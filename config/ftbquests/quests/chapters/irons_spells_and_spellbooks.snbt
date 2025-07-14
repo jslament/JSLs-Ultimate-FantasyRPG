@@ -16,13 +16,21 @@
 		id: "hazennstuff:frieren_staff"
 	}
 	id: "0B5876BB85B24372"
-	order_index: 2
-	quest_links: [{
-		id: "563B4893C486F57E"
-		linked_quest: "6D5F67F00A36B7CC"
-		x: -0.5d
-		y: 0.5d
-	}]
+	order_index: 1
+	quest_links: [
+		{
+			id: "563B4893C486F57E"
+			linked_quest: "6D5F67F00A36B7CC"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "1193C88DF55BC05B"
+			linked_quest: "559DE3BAB28A5442"
+			x: 5.5d
+			y: 2.5d
+		}
+	]
 	quests: [
 		{
 			id: "1B05E2A7CA0709A4"
@@ -304,6 +312,28 @@
 				type: "item"
 			}]
 			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["30CA000B5B79010E"]
+			id: "4EDF991CD746D21C"
+			tasks: [{
+				id: "030661C4C87D9F1E"
+				item: { count: 1, id: "irons_spellbooks:blood_vial" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4EDF991CD746D21C"]
+			id: "287C9203B04BDA33"
+			tasks: [{
+				id: "7EFDC3A5A2D5822B"
+				item: { count: 1, id: "irons_spellbooks:bloody_vellum" }
+				type: "item"
+			}]
+			x: 4.5d
 			y: 2.5d
 		}
 	]
