@@ -19,11 +19,11 @@
       "operation": "ADD_MULTIPLIED_BASE",
       "values": {
         "cracked": 0.01,
-        "chipped": 0.02,
-        "flawed": 0.04,
-        "normal": 0.06,
-        "flawless": 0.08,
-        "perfect": 0.1
+        "chipped": 0.015,
+        "flawed": 0.02,
+        "normal": 0.025,
+        "flawless": 0.03,
+        "perfect": 0.04
       }
     },
     {

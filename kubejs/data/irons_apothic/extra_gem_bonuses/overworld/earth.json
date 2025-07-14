@@ -13,10 +13,8 @@
             },
             "mode": "existing", 
             "values": {
-                "flawed": 1, 
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "flawless": 1,
+                "perfect": 2
             }
         }
     ]

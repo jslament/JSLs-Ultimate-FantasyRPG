@@ -321,8 +321,8 @@
 				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -3.0d
+			x: -4.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["5D59CE7E4843D4C0"]
@@ -354,8 +354,8 @@
 				item: { count: 1, id: "apotheosis:sigil_of_enhancement" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -2.0d
+			x: -3.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5D59CE7E4843D4C0"]
@@ -377,7 +377,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: -4.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2FD06A3E16C9B164"]

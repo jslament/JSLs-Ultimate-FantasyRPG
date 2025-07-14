@@ -13,13 +13,13 @@
             },
             "operation": "add_value",
             "values": {
-                "cracked": 30.0,
-                "chipped": 60.0,
-                "flawed": 90.0,
-                "normal": 120.0,
-                "flawless": 150.0,
-                "perfect": 180.0
+                "cracked": 15.0,
+                "chipped": 30.0,
+                "flawed": 45.0,
+                "normal": 60.0,
+                "flawless": 75.0,
+                "perfect": 90.0
             }
         }
     ]
-} 
+}
