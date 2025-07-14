@@ -211,7 +211,7 @@
 			id: "1DD7F282420951B2"
 			tasks: [{
 				id: "17E99B6C39AE66C8"
-				item: { components: { "ftbquests:missing_item": "quest_items:desert_rose" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:desert_rose" }
 				type: "item"
 			}]
 			x: 12.5d

@@ -1,7 +1,7 @@
 {
 	chapter.0B5876BB85B24372.title: "&#832466I&#87266Ar&#8C286Do&#902A71n&#942D75'&#982F78s &#A13380S&#A53583p&#AA3787e&#AE398Al&#B23C8El&#B63E92s &#BF4299a&#BA4095n&#B63D91d &#AD3989S&#A83685p&#A33481e&#9F327El&#9A307Al&#952D76b&#912B72o&#8C296Eo&#88266Ak&#832466s"
 	chapter.208038361CAF40ED.title: "Exploration"
-	chapter.2BB52A3B5EAADE56.title: "&6&o&lThe Gate&r&r&r"
+	chapter.2BB52A3B5EAADE56.title: "&e&lThe Gate&r&r"
 	chapter.4ECD2DE8A7145508.title: "&l&eWelcome!&r&r"
 	chapter.51E73FE92B53158E.title: "&l&eGetting Started&r&r"
 	chapter.5CEAAF41969C32F0.title: "&#7448F3R&#7B4DF1e&#8253EEl&#8A58ECi&#915EE9c&#9863E7s"
@@ -209,7 +209,6 @@
 	]
 	quest.34E60712261DE6F3.quest_subtitle: "Chill"
 	quest.34E60712261DE6F3.title: "Hammocks"
-	quest.3996C5805550D55E.quest_desc: ["hi"]
 	quest.481AD9F0A4FB34DC.quest_desc: [
 		"Villagers &csee crime&r and will respond if they're close enough. Sneak, stay in the dark, or go invisible to avoid being noticed.  "
 		""
