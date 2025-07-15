@@ -14,5 +14,9 @@ You can download the modpack on Curseforge.
 
 - "Sturcture 1" by Papoy Core
 - "Agis" by Papoy Core
-  License: "Can be used in commercial and non-commercial projects. Modification allowed. Redistribution/resale is NOT allowed, except when packaged inside your own game."
-  Source: https://papoycore.itch.io/free-agis
+- License: "Can be used in commercial and non-commercial projects. Modification allowed. Redistribution/resale is NOT allowed, except when packaged inside your own game."
+- Source:
+  https://papoycore.itch.io/free-agis
+  https://papoycore.itch.io/structure-1
+
+
