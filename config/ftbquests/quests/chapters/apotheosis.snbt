@@ -3,7 +3,6 @@
 	default_quest_shape: "hexagon"
 	filename: "apotheosis"
 	group: "32FA6FC13196390B"
-	hide_quest_until_deps_complete: true
 	icon: {
 		id: "apothic_enchanting:infused_breath"
 	}
@@ -174,6 +173,9 @@
 			y: 0.0d
 		}
 		{
+			icon: {
+				id: "apothic_enchanting:infused_breath"
+			}
 			id: "5E43A6CBE171C6F2"
 			rewards: [{
 				id: "25E9BC8F7046114E"

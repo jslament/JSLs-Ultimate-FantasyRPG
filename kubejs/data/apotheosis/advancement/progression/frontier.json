@@ -1,0 +1,22 @@
+{
+    "parent": "apotheosis:progression/haven",
+    "criteria": {
+    "manual_trigger": {
+      "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "background": "apotheosis:textures/advancements/bg/apoth.png",
+        "description": {
+            "translate": "advancements.apotheosis.progression.frontier.desc"
+        },
+        "icon": {
+            "count": 1,
+            "id": "minecraft:iron_sword"
+        },
+        "title": {
+            "translate": "advancements.apotheosis.progression.frontier.title"
+        }
+    },
+    "sends_telemetry_event": true
+}

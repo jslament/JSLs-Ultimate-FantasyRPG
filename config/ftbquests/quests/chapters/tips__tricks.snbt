@@ -250,6 +250,7 @@
 		{
 			dependencies: ["1B05E2A7CA0709A4"]
 			id: "6D5F67F00A36B7CC"
+			size: 1.0d
 			tasks: [{
 				advancement: "irons_spellbooks:irons_spellbooks/root"
 				criterion: ""
