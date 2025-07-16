@@ -65,15 +65,15 @@
           "apotheosis:leggings"
         ]
       },
-      "attribute": "minecraft:generic.knockback_resistance",
+      "attribute": "hackersandslashers:parry_recharge_reduction",
       "operation": "ADD_VALUE",
       "values": {
-        "cracked": 0.05,
-        "chipped": 0.1,
-        "flawed": 0.15,
-        "normal": 0.2,
-        "flawless": 0.25,
-        "perfect": 0.3
+        "cracked": 10,
+        "chipped": 15,
+        "flawed": 20,
+        "normal": 25,
+        "flawless": 30,
+        "perfect": 35
       }
     },
     {

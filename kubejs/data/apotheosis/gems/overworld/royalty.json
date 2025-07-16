@@ -95,31 +95,16 @@
             }
         },
         {
-            "type": "apotheosis:multi_attribute",
-            "desc": "bonus.apotheosis:multi_attr.desc.and",
+            "type": "apotheosis:attribute",
+            "attribute": "hackersandslashers:headshot_power",
             "gem_class": "apotheosis:bow",
-            "modifiers": [
-                {
-                    "attribute": "apothic_attributes:prot_shred",
-                    "operation": "add_value",
-                    "values": {
-                        "flawed": 0.125,
-                        "normal": 0.15,
-                        "flawless": 0.175,
-                        "perfect": 0.2
-                    }
-                },
-                {
-                    "attribute": "apothic_attributes:draw_speed",
-                    "operation": "add_multiplied_total",
-                    "values": {
-                        "flawed": -0.175,
-                        "normal": -0.225,
-                        "flawless": -0.275,
-                        "perfect": -0.325
-                    }
-                }
-            ]
+            "operation": "add_multiplied_base",
+            "values": {
+                "flawed": 0.05,
+                "normal": 0.8,
+                "flawless": 0.11,
+                "perfect": 0.15
+            }
         },
         {
             "type": "apotheosis:multi_attribute",
