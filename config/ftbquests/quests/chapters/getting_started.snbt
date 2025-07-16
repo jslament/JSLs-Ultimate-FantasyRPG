@@ -411,5 +411,72 @@
 			x: 10.0d
 			y: -1.5d
 		}
+		{
+			dependencies: ["79D9F19908D0573D"]
+			id: "621D3A7A7F13A077"
+			tasks: [{
+				id: "7AFCA7BC18010BDC"
+				item: { count: 1, id: "crittersandcompanions:grappling_hook" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C0A90F5A5C631CD"]
+			id: "4113D7A41DEED7DE"
+			tasks: [{
+				id: "48A4B8788FFA310D"
+				item: { count: 1, id: "hazennstuff:deus_essence" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4C0A90F5A5C631CD"]
+			id: "117C68177BD213F2"
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "7DDEDB068E5FA0F3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 21.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4113D7A41DEED7DE"]
+			id: "27A5A03DB0B71D96"
+			tasks: [{
+				id: "43D0F5E50C56E038"
+				item: { count: 1, id: "apothic_enchanting:flimsy_ender_lead" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["27A5A03DB0B71D96"]
+			id: "655E85B314C0F404"
+			tasks: [{
+				id: "3CDAC61142607BCE"
+				item: { count: 1, id: "apothic_enchanting:ender_lead" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["655E85B314C0F404"]
+			id: "601C6738177BDE0E"
+			tasks: [{
+				id: "4E1B73D280DEECD6"
+				item: { count: 1, id: "apothic_enchanting:occult_ender_lead" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -5.5d
+		}
 	]
 }

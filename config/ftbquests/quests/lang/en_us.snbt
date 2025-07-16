@@ -1,5 +1,6 @@
 {
 	chapter.0B5876BB85B24372.title: "&#832466I&#87266Ar&#8C286Do&#902A71n&#942D75'&#982F78s &#A13380S&#A53583p&#AA3787e&#AE398Al&#B23C8El&#B63E92s &#BF4299a&#BA4095n&#B63D91d &#AD3989S&#A83685p&#A33481e&#9F327El&#9A307Al&#952D76b&#912B72o&#8C296Eo&#88266Ak&#832466s"
+	chapter.1D718FB837DD77F4.title: "placeholder"
 	chapter.208038361CAF40ED.title: "Exploration"
 	chapter.216366D557F87E7A.title: "&eThe Merchant&r"
 	chapter.2BB52A3B5EAADE56.title: "&eThe Gate&r"
@@ -75,6 +76,7 @@
 		"{image:handcrafted:item/hammer width:100 height:100 align:center}"
 	]
 	quest.0CE8BEFCF4DF7C8E.quest_subtitle: "Well Furnished"
+	quest.0D753DE0CB3CE614.quest_desc: ["i could add enchanting infusion recipes"]
 	quest.1030D1481BDBD3E4.quest_desc: [
 		"The &lMiniMap&r shows your surroundings, coordinates, and works even underground."
 		""
@@ -152,6 +154,7 @@
 	]
 	quest.202991E315A61EC2.quest_subtitle: "Eating is no longer just about filling your hunger bar"
 	quest.202991E315A61EC2.title: "The Spices of Life"
+	quest.206B7DD5020F2B45.quest_desc: ["useful boss drop for crafting"]
 	quest.23F286C5E7F000F6.quest_desc: [
 		"🔍 &lHow to use JEI:&r"
 		"- &nLeft click&r an item to see how to craft it  "
@@ -331,6 +334,7 @@
 	]
 	quest.5E43A6CBE171C6F2.quest_subtitle: "\"All things that should have been\""
 	quest.5E43A6CBE171C6F2.title: "&6Apotheosis&r"
+	quest.601C6738177BDE0E.quest_desc: ["Recipe to be added..."]
 	quest.609DBC33B5A748EB.quest_desc: [
 		"Craft a &ehay bale&r and an &6armor stand&r to make a &lTarget Dummy&r."
 		""

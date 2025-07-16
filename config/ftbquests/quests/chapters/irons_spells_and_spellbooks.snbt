@@ -105,28 +105,6 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["46109A40AB5C8072"]
-			id: "0F0CFBF7C68D139C"
-			tasks: [{
-				id: "736E8632FC497CD7"
-				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:familiar_spellbook" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["4D522EB6AE727042"]
-			id: "6B6E7A002709D763"
-			tasks: [{
-				id: "6D9EAC9C53C3C7FE"
-				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:sound_spell_book" }
-				type: "item"
-			}]
-			x: -7.0d
-			y: -4.0d
-		}
-		{
 			dependencies: ["38133C5F2292C5CD"]
 			id: "7E6B2A48C7CE6CCF"
 			tasks: [{

@@ -29,11 +29,6 @@
     "modId": "almanac",
     "version": "1.0.2"
   },
-  "alshanex_familiars-1.21.1_v2.0_HotFix2.jar": {
-    "jarName": "alshanex_familiars-1.21.1_v2.0_HotFix2.jar",
-    "modId": "alshanex_familiars",
-    "version": "1.21.1_v2.0_HotFix2"
-  },
   "alternate_current-mc1.21-1.9.0.jar": {
     "jarName": "alternate_current-mc1.21-1.9.0.jar",
     "modId": "alternate_current",
@@ -294,6 +289,11 @@
     "modId": "coroutil",
     "version": "1.21.0-1.3.8"
   },
+  "crabbersdelight-1.21.1-1.1.10.jar": {
+    "jarName": "crabbersdelight-1.21.1-1.1.10.jar",
+    "modId": "crabbersdelight",
+    "version": "1.1.10"
+  },
   "CrashAssistant-neoforge-1.20.6-1.21.4-1.9.11.jar": {
     "jarName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.9.11.jar",
     "modId": "crash_assistant",
@@ -308,6 +308,11 @@
     "jarName": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
     "modId": "creeperoverhaul",
     "version": "4.0.6"
+  },
+  "crittersandcompanions-neoforge-1.21.1-2.3.0.jar": {
+    "jarName": "crittersandcompanions-neoforge-1.21.1-2.3.0.jar",
+    "modId": "crittersandcompanions",
+    "version": "1.21.1-2.3.0"
   },
   "cupboard-1.21-2.9.jar": {
     "jarName": "cupboard-1.21-2.9.jar",
@@ -493,6 +498,11 @@
     "jarName": "flickerfix-1.21.0.jar",
     "modId": "flickerfix",
     "version": "4.0.1"
+  },
+  "friendsandfoes-neoforge-4.0.7+mc1.21.1.jar": {
+    "jarName": "friendsandfoes-neoforge-4.0.7+mc1.21.1.jar",
+    "modId": "friendsandfoes",
+    "version": "4.0.7"
   },
   "ftb-ez-crystals-21.1.0.jar": {
     "jarName": "ftb-ez-crystals-21.1.0.jar",
@@ -917,6 +927,11 @@
     "modId": "placebo",
     "version": "9.9.0"
   },
+  "platform-neoforge-1.21.1-1.2.10.2.jar": {
+    "jarName": "platform-neoforge-1.21.1-1.2.10.2.jar",
+    "modId": "platform",
+    "version": "1.2.10.2"
+  },
   "player-animation-lib-forge-2.0.1+1.21.1.jar": {
     "jarName": "player-animation-lib-forge-2.0.1+1.21.1.jar",
     "modId": "playeranimator",
@@ -1006,6 +1021,11 @@
     "jarName": "rhino-2101.2.7-build.74.jar",
     "modId": "rhino",
     "version": "2101.2.7-build.74"
+  },
+  "rottencreatures-neoforge-1.21.1-1.1.2.jar": {
+    "jarName": "rottencreatures-neoforge-1.21.1-1.1.2.jar",
+    "modId": "rottencreatures",
+    "version": "1.1.2"
   },
   "sawmill-1.21-1.5.18-neoforge.jar": {
     "jarName": "sawmill-1.21-1.5.18-neoforge.jar",
@@ -1196,6 +1216,11 @@
     "jarName": "usefulluck-1.0.3.jar",
     "modId": "usefulluck",
     "version": "1.0.3"
+  },
+  "variantsandventures-neoforge-mc1.21.1-1.0.14.jar": {
+    "jarName": "variantsandventures-neoforge-mc1.21.1-1.0.14.jar",
+    "modId": "variantsandventures",
+    "version": "1.0.14"
   },
   "watut-neoforge-1.21.0-1.2.7.jar": {
     "jarName": "watut-neoforge-1.21.0-1.2.7.jar",

@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"cataclysm:altar_of_amethyst"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:alchemist_cauldron"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:salvaging_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -5,6 +5,19 @@
       "name": "bei2",
       "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
     },
+    "time": 1752675032537,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uAJ4BJ1OHF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
     "time": 1752506173363,
     "type": "Profiler (live)",
     "data": {
