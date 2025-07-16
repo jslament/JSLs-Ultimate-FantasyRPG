@@ -3,7 +3,7 @@
     "modifier": {
         "attribute": "minecraft:generic.luck",
         "operation": "add_multiplied_total",
-        "value": 0.5
+        "value": 1.0
     },
     "modifier_id": "apotheosis:summit/luck",
     "sort_index": 200,

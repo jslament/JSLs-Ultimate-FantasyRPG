@@ -5,6 +5,32 @@
       "name": "bei2",
       "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
     },
+    "time": 1752704792541,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0OXHIZ4php"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
+    "time": 1752703977948,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\beisu\\curseforge\\minecraft\\Instances\\JSLs Ultimate FantasyRPG\\config\\spark\\profile-2025-07-17_00.12.57.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bei2",
+      "uniqueId": "1ca46f1c-2db2-4b64-8d19-3b6d4b8a970d"
+    },
     "time": 1752675032537,
     "type": "Profiler",
     "data": {

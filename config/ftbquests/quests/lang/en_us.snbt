@@ -348,9 +348,9 @@
 	]
 	quest.6BAA2C5976B99534.title: "&6Apotheosis:&r Spawner Module"
 	quest.6D30C5E0A75DDB2F.quest_desc: [
-		"Before your adventure begins, pick your starting kit:  "
+		"Before your adventure begins, pick your &6starting kit&r"
 		""
-		"🧙 &lMage&r - Start with wandering robes, a staff and a basic spellbook with three imbued spells."
+		"🧙 &lMage&r&r - Start with wandering robes, a staff and a basic spellbook with three imbued spells."
 		""
 		"🪓 &lBerserker&r – Two enchanted golden axes and a helmet that deals more damage the less health you have."
 		""
