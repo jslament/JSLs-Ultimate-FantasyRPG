@@ -38,7 +38,7 @@
 			rotation: 0.0d
 			width: 10.08d
 			x: 3.0d
-			y: -3.0d
+			y: -4.0d
 		}
 	]
 	order_index: 1
@@ -131,8 +131,8 @@
 				item: { count: 1, id: "belts:belt" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.5d
+			x: 2.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["79D9F19908D0573D"]
@@ -153,7 +153,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(sleep_tight:hammocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.5d
 			y: -1.5d
 		}
 		{
@@ -197,7 +197,7 @@
 				item: { count: 1, id: "dummmmmmy:target_dummy" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.5d
 			y: -1.5d
 		}
 		{
@@ -208,7 +208,7 @@
 				type: "checkmark"
 			}]
 			x: 9.0d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["347BD2D96FB9FEEC"]
@@ -218,8 +218,8 @@
 				item: { count: 1, id: "pet_cemetery:pet_collar" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -1.5d
+			x: 3.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["2CCAC7673B3BE9FA"]
@@ -229,7 +229,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(armoreddoggo)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 14.5d
+			x: 15.0d
 			y: 1.5d
 		}
 		{
@@ -276,7 +276,7 @@
 				item: { count: 1, id: "sawmill:sawmill" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 10.0d
 			y: -2.5d
 		}
 		{
@@ -309,7 +309,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chimes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 7.5d
+			x: 8.5d
 			y: 3.5d
 		}
 		{
@@ -324,17 +324,6 @@
 			y: 2.5d
 		}
 		{
-			dependencies: ["2CCAC7673B3BE9FA"]
-			id: "62F26884FE3427B3"
-			tasks: [{
-				id: "5D4D9FB641F9361D"
-				item: { count: 1, id: "waystones:waystone" }
-				type: "item"
-			}]
-			x: 15.5d
-			y: 1.5d
-		}
-		{
 			dependencies: ["4BE47E12A8D320FF"]
 			id: "13ED878AC4BCD372"
 			tasks: [{
@@ -342,8 +331,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(arts_and_crafts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 3.5d
+			x: 9.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["79D9F19908D0573D"]
@@ -353,41 +342,33 @@
 				item: { count: 1, id: "exposure:camera" }
 				type: "item"
 			}]
-			x: 8.5d
+			x: 8.0d
 			y: -2.5d
 		}
 		{
-			dependencies: ["347BD2D96FB9FEEC"]
-			id: "51147A831F292A8E"
-			tasks: [{
-				id: "2E3330FC7034502C"
-				item: { count: 1, id: "goated:ram_block" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["347BD2D96FB9FEEC"]
+			dependencies: ["207438E861F8B0E4"]
 			id: "3478C30DC0C56A8B"
 			tasks: [{
 				id: "3B6B43BA2D549476"
 				item: { count: 1, id: "goated:ram_block" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 3.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
 			id: "1B42C830CDC0A5A4"
 			tasks: [{
+				icon: {
+					id: "supplementaries:globe"
+				}
 				id: "02DC8085180E90C5"
 				item: { components: { "ftbfiltersystem:filter": "mod(supplementaries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 3.5d
+			x: 9.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["7D887C31A4B07795"]
@@ -431,7 +412,7 @@
 				type: "item"
 			}]
 			x: 21.0d
-			y: -2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4C0A90F5A5C631CD"]
@@ -454,7 +435,7 @@
 				type: "item"
 			}]
 			x: 20.0d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["27A5A03DB0B71D96"]
@@ -465,7 +446,7 @@
 				type: "item"
 			}]
 			x: 20.0d
-			y: -4.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["655E85B314C0F404"]
@@ -476,7 +457,150 @@
 				type: "item"
 			}]
 			x: 20.0d
-			y: -5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4113D7A41DEED7DE"]
+			id: "4DB9FE2925A9D3E2"
+			tasks: [{
+				id: "4A3BE150CB579457"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:waystones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1B42C830CDC0A5A4"]
+			id: "20FF080F60F420BD"
+			tasks: [{
+				id: "6607EB0857E3EB66"
+				item: { count: 1, id: "supplementaries:lunch_basket" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["79D9F19908D0573D"]
+			id: "2105CE9A2EC1C002"
+			tasks: [{
+				id: "5051AAC79C1262C5"
+				item: { count: 1, id: "solonion:lunchbag" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2105CE9A2EC1C002"]
+			id: "4247252E3BBB697C"
+			tasks: [{
+				id: "7618688F0873644E"
+				item: { count: 1, id: "solonion:lunchbox" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4247252E3BBB697C"]
+			id: "3084482E76157C4E"
+			tasks: [{
+				id: "5D27787EEFF76EE1"
+				item: { count: 1, id: "solonion:golden_lunchbox" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1B42C830CDC0A5A4"]
+			id: "671D5A52BFC0C269"
+			tasks: [{
+				id: "42D8D03DEB5DCE44"
+				item: { count: 1, id: "supplementaries:rope_arrow" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1B42C830CDC0A5A4"]
+			id: "21EEB34B3F1EC19D"
+			tasks: [{
+				id: "587179502186F066"
+				item: { count: 1, id: "supplementaries:cannon" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1B42C830CDC0A5A4"]
+			id: "35EA3651B2B6D308"
+			tasks: [{
+				id: "765BAEE31D30DB6A"
+				item: { count: 1, id: "supplementaries:quiver" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1B42C830CDC0A5A4"]
+			id: "55BBB25CC06DEF08"
+			tasks: [{
+				id: "6864B41A39F8D3DA"
+				item: { count: 1, id: "supplementaries:slingshot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1B42C830CDC0A5A4"]
+			id: "7D33F9FDF9534A69"
+			tasks: [{
+				id: "381105B22FA7E2DC"
+				item: { count: 1, id: "supplementaries:flute" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["207438E861F8B0E4"]
+			id: "10CB0CCF4FB41C4F"
+			tasks: [{
+				id: "5D15608F26A9CC32"
+				item: { count: 1, id: "horseman:copper_horn" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["347BD2D96FB9FEEC"]
+			id: "207438E861F8B0E4"
+			tasks: [{
+				id: "0748B3697B64B800"
+				item: { components: { "minecraft:instrument": "minecraft:ponder_goat_horn" }, count: 1, id: "minecraft:goat_horn" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["207438E861F8B0E4"]
+			id: "1100A453350F3167"
+			tasks: [{
+				id: "7E450820E8366F1E"
+				item: { count: 1, id: "goated:barbaric_helmet" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
 		}
 	]
 }

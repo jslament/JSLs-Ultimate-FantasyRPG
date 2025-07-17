@@ -14,7 +14,7 @@
 	chapter_group.32FA6FC13196390B.title: "&#B267FC&lM&#BB7EFA&la&#C396F8&lg&#CCADF6&li&#D4C4F4&lc"
 	chapter_group.39D23E7480A1CDCF.title: "Work In Progress Chapters"
 	quest.005968F5262BA5A7.quest_desc: [
-		"The &l&eUniversal Sawmill&r&r lets you craft any wood-based block, including modded ones.  "
+		"The &6&lUniversal Sawmill&r&r lets you craft any wood-based block, including modded ones.  "
 		""
 		"Just place it down and start sawing."
 		""
@@ -166,7 +166,10 @@
 	]
 	quest.23F286C5E7F000F6.quest_subtitle: "All the recipes you need"
 	quest.23F286C5E7F000F6.title: "Just Enough Items (JEI)"
+	quest.26C4B8DDBCA5F001.quest_desc: ["Recipe to be added..."]
 	quest.26C4B8DDBCA5F001.title: "Dog Armor"
+	quest.27A5A03DB0B71D96.quest_desc: ["A &5Flimsy Ender Lead&r&r can capture and move animals."]
+	quest.27A5A03DB0B71D96.quest_subtitle: "No more boats"
 	quest.27D1BF920FCB569C.quest_desc: [
 		"This section is WIP."
 		""
@@ -209,6 +212,13 @@
 	]
 	quest.34E60712261DE6F3.quest_subtitle: "Chill"
 	quest.34E60712261DE6F3.title: "Hammocks"
+	quest.4113D7A41DEED7DE.quest_desc: [
+		"The &5&lDeus Essence&r&r is an ancient magical material.  "
+		"It is used to craft powerful weapons and unique items."
+		""
+		"It can be found rarely in chests or by smelting certain boss drops in a blast furnace."
+	]
+	quest.4113D7A41DEED7DE.quest_subtitle: "Divine"
 	quest.481AD9F0A4FB34DC.quest_desc: [
 		"Villagers &csee crime&r and will respond if they're close enough. Sneak, stay in the dark, or go invisible to avoid being noticed.  "
 		""
@@ -265,8 +275,16 @@
 	quest.4C0A90F5A5C631CD.quest_subtitle: "Read in Jack Black's voice"
 	quest.4C0A90F5A5C631CD.title: "THE NETHER!!"
 	quest.4DA6B655E2F7E4FB.quest_desc: ["&5K’thalkes&r"]
+	quest.4DB9FE2925A9D3E2.quest_desc: [
+		"The &6&lWaystones&r&r allow for fast travel across the world.  "
+		"Activate a Waystone to register it, then return to it at any time."
+		""
+		"Use a &dWarp Scroll&r, a rechargeable &dWarp Stone&r, or hop between waystones by interacting with one you've already discovered."
+	]
+	quest.4DB9FE2925A9D3E2.quest_subtitle: "Lazy travel"
+	quest.4DB9FE2925A9D3E2.title: "Waystones"
 	quest.4F7915251AD276F9.quest_desc: [
-		"Use a &l&eChipped Table&r&r to turn vanilla blocks into detailed variants.  "
+		"Use a &6&lChipped Table&r&r to turn vanilla blocks into detailed variants.  "
 		""
 		"The mod adds over &l&b11,000&r&r decorative blocks - from sandstone and concrete to prismarine and blackstone.  "
 		""
@@ -341,10 +359,20 @@
 		"It shows your &cdamage&r and &cDPS&r when hit."
 	]
 	quest.609DBC33B5A748EB.quest_subtitle: "MmmMmmMmmMmm"
+	quest.621D3A7A7F13A077.quest_desc: [
+		"The &6&lGrappling Hook&r&r lets you swing around."
+		""
+		"Right click to shoot a strand of silk. Right click again to pull yourself toward the surface."
+	]
+	quest.621D3A7A7F13A077.quest_subtitle: "Be wary of fall damage"
+	quest.655E85B314C0F404.quest_desc: ["The &5Ender Lead&r&r works on most entities!"]
+	quest.655E85B314C0F404.quest_subtitle: "Pretty OP"
 	quest.6BAA2C5976B99534.quest_desc: [
 		"This section is WIP."
 		""
 		"Read the Chronicles of Shadows if you're stuck."
+		""
+		"FYI: \"Capturing\" enchantment has been removed for now. It may be added in the future."
 	]
 	quest.6BAA2C5976B99534.title: "&6Apotheosis:&r Spawner Module"
 	quest.6D30C5E0A75DDB2F.quest_desc: [
@@ -356,7 +384,7 @@
 		""
 		"🏹 &lArcher&r – Bow, arrows, and a trusty knife. Leather armor included."
 	]
-	quest.6D30C5E0A75DDB2F.quest_subtitle: "A little headstart"
+	quest.6D30C5E0A75DDB2F.quest_subtitle: "A little headstart can't hurt, right?"
 	quest.6D30C5E0A75DDB2F.title: "Starting Kit"
 	quest.6D5F67F00A36B7CC.quest_desc: [
 		"Tired of fumbling through your spell wheel in the heat of battle?  "
@@ -395,7 +423,7 @@
 	]
 	quest.75242A4F0B6475F3.quest_subtitle: "Diagnosing Lag with Spark"
 	quest.7529731319EFF3D7.quest_desc: [
-		"Missing your usual zoom key? It's right here!"
+		"Missing your usual &6zoom&r key? It's right here!"
 		""
 		"Press &lZ&r (default keybind) to activate your &lSpyglass&r without needing to hold it, as long as it's either in your &linventory&r or &lbelt slot&r"
 	]
@@ -408,6 +436,7 @@
 	quest.79D9F19908D0573D.quest_subtitle: "Yearn for the caves!"
 	quest.79D9F19908D0573D.title: "Iron Age"
 	quest.7A392AAA7BB25F48.quest_subtitle: "I-Frames included"
+	quest.7D33F9FDF9534A69.quest_desc: ["Less range than copper horn"]
 	reward.49D213F4B9A59BDD.title: "You got a shield"
 	reward_table.517DD53B18E575B7.title: "Starter Item"
 	task.02DC8085180E90C5.title: "Supplementaries"
@@ -439,6 +468,7 @@
 	task.469CE1F4072CAE77.title: "Moon Phases"
 	task.47B02B85F90F731C.title: "Enchanting"
 	task.482FB7CB92F675F7.title: "Find Me"
+	task.4A3BE150CB579457.title: "Any Waystone"
 	task.4D51AEA80AB8FCA0.title: "Sooty Chimneys"
 	task.538BDF52A0B1A948.title: "Decorative Mods"
 	task.55CD698B74CBDCB8.title: "Resource Packs \\& Shaders"
@@ -454,6 +484,6 @@
 	task.6E723D05931C6A1D.title: "Spellbooks"
 	task.6FF158E7B2E0CCFB.title: "Any Apotheosis Gem"
 	task.77B12B6DE65AABB1.title: "Late Game Relics"
-	task.788889364D14D2DC.title: "Any #sleep_tight:hammocks"
+	task.788889364D14D2DC.title: "Any Hammock"
 	task.7E9705156A20BA52.title: "Reputation"
 }

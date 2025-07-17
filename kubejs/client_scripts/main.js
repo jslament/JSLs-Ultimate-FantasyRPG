@@ -1,3 +1,5 @@
-// Visit the wiki for more info - https://kubejs.com/
-console.info('Hello, World! (Loaded client example script)')
+RecipeViewerEvents.removeCategories(event => {
+  event.remove('ftbquests:loot_crate')
+  event.remove('ftbquests:quest')
+})
 
