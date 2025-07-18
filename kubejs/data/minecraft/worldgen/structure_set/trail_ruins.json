@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 83469867,
+    "separation": 8,
+    "spacing": 34,
+    "exclusion_zone": {
+      "chunk_count": 16,
+      "other_set": "irons_spellbooks:catacombs"
+    }
+  },
+  "structures": [
+    {
+      "structure": "minecraft:trail_ruins",
+      "weight": 1
+    }
+  ]
+}
