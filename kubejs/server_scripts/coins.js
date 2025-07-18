@@ -1,7 +1,7 @@
 LootJS.modifiers((event) => {
     // Common
     event
-        .addTableModifier(/(minecraft:chests.*|mowziesmobs:chests.*|nova_structures:chests.*|revampedvillages:.*|skyvillages:chests.*|trek.*|)/)
+        .addTableModifier(/(minecraft:chests.*|mowziesmobs:chests.*|nova_structures:chests.*|revampedvillages:.*|skyvillages:chests.*|)/)
         .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([3, 7]).randomChance(0.15));
 
     // Uncommon

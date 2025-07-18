@@ -2,5 +2,11 @@
   {
     "mob": "crabbersdelight:crab",
     "result": "deny"
+  },
+  {
+    "mob": ["minecraft:guardian","minecraft:elder_guardian"],
+    "when": "finalize",
+    "healthmultiply": 3,
+    "damagemultiply": 2
   }
 ]
