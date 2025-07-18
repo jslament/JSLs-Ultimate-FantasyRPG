@@ -188,6 +188,14 @@
 	]
 	quest.2CCAC7673B3BE9FA.quest_subtitle: "Woohoo! Diamonds!"
 	quest.2CCAC7673B3BE9FA.title: "Diamonds"
+	quest.3199E7EC9B7637B8.quest_desc: [
+		"The &5&lWither Eye&r&r is an coveted relic of dreadful power.  "
+		"Born from the Wither, it is said to see into realms beyond death."
+		""
+		"To obtain it, you'll need to face the &8wither skeletons&r found in Nether Fortresses."
+		"Defeat enough of them to gather what you need to &csummon the Wither&r."
+	]
+	quest.3199E7EC9B7637B8.quest_subtitle: "Grab some blaze rods while you're at it"
 	quest.3218D888DA96F77E.title: "&kWowTheEnderDragon"
 	quest.33133FDD6E4C949B.quest_desc: [
 		"&l&6Conveyor Belts&r&r can move items automatically between machines and containers.  "
@@ -214,6 +222,7 @@
 	]
 	quest.34E60712261DE6F3.quest_subtitle: "Chill"
 	quest.34E60712261DE6F3.title: "Hammocks"
+	quest.3808513AD33B8B32.quest_desc: ["scylla drops + elder guardian drops probably"]
 	quest.4113D7A41DEED7DE.quest_desc: [
 		"The &5&lDeus Essence&r&r is an ancient magical material.  "
 		"It is used to craft powerful weapons and unique items."
@@ -305,6 +314,7 @@
 		"&dUnlucky?&r Fret not. Once the Dead King is defeated, &lSkeleton Horses&r may rarely carry Undead Souls within them."
 	]
 	quest.50C58908831AED6C.quest_subtitle: "Those who live in death"
+	quest.50E4E3C3576F62A2.quest_desc: ["Enabling shaders may cause your screen to go black - Working on a fix."]
 	quest.50E4E3C3576F62A2.quest_subtitle: "Please submit your issues on Github"
 	quest.50E4E3C3576F62A2.title: "Known Issues"
 	quest.5194D0BA4C9EDDA7.quest_desc: [
@@ -316,6 +326,14 @@
 	]
 	quest.5194D0BA4C9EDDA7.quest_subtitle: "Made from love"
 	quest.5252260F8D9C29A8.title: "Gems"
+	quest.559DE3BAB28A5442.quest_desc: [
+		"The &4&lBlood Eye&r&r pulses with forbidden magic, an artificial eye strong enough to help open the End portal."
+		"Legends say it was first created by the most powerful blood mage."
+		""
+		"To craft it, soak an &dEye of Ender&r in &c1000mB of blood&r inside an &5Alchemist Cauldron&r.  "
+		"Only then will it awaken as the &4Blood Eye&r."
+	]
+	quest.559DE3BAB28A5442.quest_subtitle: "Sacrifice what's necessary"
 	quest.5E43A6CBE171C6F2.quest_desc: [
 		"&l&6Apotheosis&r&r adds a full &5RPG-like progression&r system - new attributes, enchantments, world tiers, and much more. It's split into several parts:  "
 		""

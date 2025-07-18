@@ -21,6 +21,7 @@
 		{
 			click: "https://github.com/jslament/JSLs-Ultimate-FantasyRPG"
 			height: 1.0d
+			hover: ["Github - Source Code and Issues"]
 			image: "moonlight:textures/gui/sprites/media/github.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -30,6 +31,7 @@
 		{
 			click: "https://www.google.com/search?client=opera-gx&hs=NHn&sca_esv=cbb6d4394e298965&sxsrf=AE3TifOGFVO-jLVgReoG1qiEnWiRw0ttsg:1752199561966&q=trollface&udm=2&fbs=AIIjpHw2KGh6wpocn18KLjPMw8n57XoVNo77u2wv3yhVkwnmKJcuHYbf7YNAsy_9nkGewzctNQCqkgW4WnkPOfpLmad4Y8YMTaIIDQrgEemyWwjP40UE4MUW4HD85bfxh8PL6TspxYQCMwBAUzD_s_dK8rlvo3-IfpobLGmCf9ugsxKI8uI-KWCltkHH6b1ojS7TLxlvAoGZ&sa=X&ved=2ahUKEwjXy92D3LOOAxVyhv0HHbWkEwQQtKgLKAF6BAgjEAE&biw=2516&bih=1286&dpr=1#vhid=UqjqwSykQNPVHM&vssid=mosaic"
 			height: 1.0d
+			hover: ["Main CurseForge Page"]
 			image: "moonlight:textures/gui/sprites/media/curseforge.png"
 			rotation: 0.0d
 			width: 1.0d

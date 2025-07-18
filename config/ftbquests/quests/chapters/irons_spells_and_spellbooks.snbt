@@ -20,8 +20,8 @@
 	quest_links: [{
 		id: "1193C88DF55BC05B"
 		linked_quest: "559DE3BAB28A5442"
-		x: 2.0d
-		y: 0.0d
+		x: 5.5d
+		y: -1.0d
 	}]
 	quests: [
 		{
@@ -149,8 +149,8 @@
 				item: { count: 1, id: "irons_spellbooks:alchemist_cauldron" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -3.0d
+			x: 4.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["36612B71B3BA2302"]
@@ -160,7 +160,7 @@
 				item: { count: 1, id: "irons_spellbooks:upgrade_orb" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 2.5d
 			y: -3.0d
 		}
 		{
@@ -287,7 +287,7 @@
 				item: { count: 1, id: "irons_spellbooks:blood_vial" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 5.0d
 			y: -2.0d
 		}
 		{
@@ -298,8 +298,8 @@
 				item: { count: 1, id: "irons_spellbooks:bloody_vellum" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -1.0d
+			x: 6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["1C5473CE8934AB3B"]
