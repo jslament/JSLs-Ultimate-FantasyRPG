@@ -293,6 +293,16 @@
 		"{image:chipped:block/carved_pumpkin/owo_carved_pumpkin width:100 height:100 align:center}"
 	]
 	quest.4F7915251AD276F9.quest_subtitle: "Bigger Palette"
+	quest.50C58908831AED6C.quest_desc: [
+		"The &5&lUndead Eye&r&r is the ultimate remnamt of the ghosts we've left behind."
+		""
+		"To craft it, you'll need a rare &7Undead Soul&r, bound in cold bone and lingering hatred."
+		""
+		"This soul can be found in one of the hidden chests within the &6Dead King's Throne Room&r."
+		""
+		"&dUnlucky?&r Fret not. Once the Dead King is defeated, &lSkeleton Horses&r may rarely carry Undead Souls within them."
+	]
+	quest.50C58908831AED6C.quest_subtitle: "Those who live in death"
 	quest.50E4E3C3576F62A2.quest_subtitle: "Please submit your issues on Github"
 	quest.50E4E3C3576F62A2.title: "Known Issues"
 	quest.5194D0BA4C9EDDA7.quest_desc: [

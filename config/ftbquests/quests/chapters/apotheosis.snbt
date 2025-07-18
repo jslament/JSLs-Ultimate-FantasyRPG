@@ -403,5 +403,16 @@
 			x: -2.5d
 			y: -0.5d
 		}
+		{
+			dependencies: ["6BAA2C5976B99534"]
+			id: "44FDE02234190855"
+			tasks: [{
+				id: "506EF76E90CB251C"
+				item: { count: 1, id: "endrem:witch_pupil" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
 	]
 }

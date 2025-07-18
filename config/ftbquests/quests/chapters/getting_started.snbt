@@ -42,7 +42,14 @@
 		}
 	]
 	order_index: 1
-	quest_links: [ ]
+	quest_links: [{
+		id: "49EACFA6BAA85D78"
+		linked_quest: "3199E7EC9B7637B8"
+		shape: "hexagon"
+		size: 1.5d
+		x: 23.0d
+		y: -1.5d
+	}]
 	quests: [
 		{
 			id: "6D30C5E0A75DDB2F"
@@ -231,16 +238,6 @@
 			}]
 			x: 15.0d
 			y: 1.5d
-		}
-		{
-			dependencies: ["4C0A90F5A5C631CD"]
-			id: "25AA5A710A595F8D"
-			tasks: [{
-				id: "2DB0BDA2F100B4A6"
-				type: "checkmark"
-			}]
-			x: 24.5d
-			y: 0.0d
 		}
 		{
 			dependencies: ["7D887C31A4B07795"]
