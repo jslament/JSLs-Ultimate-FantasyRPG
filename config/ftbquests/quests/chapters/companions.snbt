@@ -4,7 +4,7 @@
 	filename: "companions"
 	group: "39D23E7480A1CDCF"
 	id: "61CDFE234D648952"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

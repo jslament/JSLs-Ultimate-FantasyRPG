@@ -13,7 +13,12 @@
 		y: -5.0d
 	}]
 	order_index: 1
-	quest_links: [ ]
+	quest_links: [{
+		id: "0FCAE4DFCBFE020C"
+		linked_quest: "50C58908831AED6C"
+		x: -5.5d
+		y: 1.5d
+	}]
 	quests: [
 		{
 			dependencies: ["08AA2EB27233C486"]
@@ -169,6 +174,28 @@
 			}]
 			x: 11.0d
 			y: -3.0d
+		}
+		{
+			dependencies: ["5757C524E0E81DEB"]
+			id: "7251B27C2F21E14F"
+			tasks: [{
+				id: "54DB08A49C4DEA46"
+				item: { count: 1, id: "kubejs:undead_essence" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			id: "5757C524E0E81DEB"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				id: "3E68136F79CCF08B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -1.5d
 		}
 	]
 }
