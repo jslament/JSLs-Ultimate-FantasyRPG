@@ -68,110 +68,39 @@
       ]
     },
     {
-      "rolls": {
-        "min": 0,
-        "max": 2
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_boots"
         }
       ]
     },
@@ -207,10 +136,7 @@
       ]
     },
     {
-      "rolls": {
-        "min": 1,
-        "max": 3
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -220,22 +146,22 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 8
+                "min": 2,
+                "max": 4
               }
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
+          "weight": 5,
           "name": "minecraft:diamond",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6,
-                "max": 8
+                "min": 2,
+                "max": 4
               }
             }
           ]
@@ -248,8 +174,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 24
+                "min": 2,
+                "max": 12
               }
             }
           ]
@@ -262,8 +188,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 16,
-                "max": 48
+                "min": 8,
+                "max": 12
               }
             }
           ]

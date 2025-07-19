@@ -131,6 +131,7 @@
               "functions": [
                 {
                   "function": "minecraft:enchant_with_levels",
+              "options": "#minecraft:on_random_loot",
                   "levels": {
                     "min": 25,
                     "max": 39
@@ -149,6 +150,7 @@
               "functions": [
                 {
                   "function": "minecraft:enchant_with_levels",
+              "options": "#minecraft:on_random_loot",
                   "levels": {
                     "min": 25,
                     "max": 39
@@ -162,6 +164,7 @@
               "functions": [
                 {
                   "function": "minecraft:enchant_with_levels",
+              "options": "#minecraft:on_random_loot",
                   "levels": {
                     "min": 25,
                     "max": 39

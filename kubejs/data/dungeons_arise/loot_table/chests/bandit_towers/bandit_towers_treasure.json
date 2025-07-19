@@ -18,6 +18,7 @@
               "destination": "dungeons_arise:explorer_maps/foundry",
               "decoration": "target_x",
               "zoom": 2,
+              "search_radius": 100,
               "skip_existing_chunks": false
             }
           ]
@@ -80,126 +81,42 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_boots"
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 15,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 15,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 15,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 15,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_boots"
         },
         {
           "type": "minecraft:item",
@@ -239,28 +156,14 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 24,
-          "name": "minecraft:iron_ingot",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 16,
-                "max": 32
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "weight": 32,
           "name": "minecraft:gold_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 16
+                "min": 4,
+                "max": 8
               }
             }
           ]
@@ -274,7 +177,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 64
+                "max": 32
               }
             }
           ]
@@ -331,15 +234,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "minecraft:chests/village/village_desert_house"
-        },
-        {
-          "type": "minecraft:loot_table",
           "value": "minecraft:chests/village/village_weaponsmith"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "minecraft:chests/desert_pyramid"
         }
       ]
     }

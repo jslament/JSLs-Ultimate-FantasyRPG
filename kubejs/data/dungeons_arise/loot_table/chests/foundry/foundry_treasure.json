@@ -26,31 +26,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:book",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:netherite_scrap",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4,
-                "max": 12
-              }
-            }
-          ]
+          "name": "minecraft:book"
         },
         {
           "type": "minecraft:item",
@@ -60,7 +36,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 32
+                "max": 18
               }
             }
           ]
@@ -73,7 +49,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 48
+                "max": 20
               }
             }
           ]

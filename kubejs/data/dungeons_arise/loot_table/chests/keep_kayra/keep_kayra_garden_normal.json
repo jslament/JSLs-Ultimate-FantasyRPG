@@ -51,82 +51,27 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_sword"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 25
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:diamond_boots"
         },
         {
           "type": "minecraft:item",
@@ -145,7 +90,7 @@
       ]
     },
     {
-      "rolls": 3,
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",
@@ -155,8 +100,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 16
+                "min": 2,
+                "max": 6
               }
             }
           ]
@@ -169,8 +114,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6,
-                "max": 10
+                "min": 1,
+                "max": 8
               }
             }
           ]
@@ -178,16 +123,7 @@
         {
           "type": "minecraft:item",
           "weight": 15,
-          "name": "minecraft:diamond",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4,
-                "max": 5
-              }
-            }
-          ]
+          "name": "minecraft:diamond"
         }
       ]
     },

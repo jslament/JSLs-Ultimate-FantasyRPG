@@ -55,28 +55,11 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 3,
-          "name": "minecraft:ender_pearl",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
         }
       ]
     },
     {
-      "rolls": {
-        "min": 2,
-        "max": 3
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -86,22 +69,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 32,
-                "max": 64
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 16,
-          "name": "minecraft:gold_ingot",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 6
+                "min": 4,
+                "max": 24
               }
             }
           ]
@@ -115,21 +84,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 48
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 16,
-          "name": "minecraft:iron_ingot",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4,
-                "max": 12
+                "max": 16
               }
             }
           ]
@@ -188,12 +143,8 @@
           "value": "minecraft:chests/village/village_desert_house"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "minecraft:chests/village/village_weaponsmith"
-        },
-        {
           "type": "minecraft:empty",
-          "weight": 35
+          "weight": 100
         },
         {
           "type": "minecraft:loot_table",

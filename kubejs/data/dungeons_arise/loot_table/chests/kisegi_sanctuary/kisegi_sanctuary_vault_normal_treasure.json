@@ -115,10 +115,6 @@
           "type": "minecraft:item",
           "name": "minecraft:diamond_chestplate",
           "functions": []
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:netherite_scrap"
         }
       ]
     },

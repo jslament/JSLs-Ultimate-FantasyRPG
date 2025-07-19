@@ -2,17 +2,15 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": 1,
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:golden_apple",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:golden_carrot",
-          "weight": 40,
+          "weight": 4,
+          "name": "minecraft:cooked_mutton",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -25,66 +23,42 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:pumpkin_pie",
-          "weight": 80,
+          "weight": 4,
+          "name": "minecraft:cooked_rabbit",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:cooked_porkchop",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 12
+                "max": 8
               }
             }
           ]
         },
         {
           "type": "minecraft:item",
+          "weight": 2,
           "name": "minecraft:cooked_beef",
-          "weight": 100,
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 3,
-                "max": 6
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:cooked_chicken",
-          "weight": 100
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:potion",
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:item_name": "Tequila",
-                "minecraft:potion_contents": {
-                  "potion": "minecraft:water",
-                  "custom_color": 16744576,
-                  "custom_effects": [
-                    {
-                      "id": "minecraft:strength",
-                      "amplifier": 2,
-                      "duration": 1800
-                    },
-                    {
-                      "id": "minecraft:nausea",
-                      "amplifier": 1,
-                      "duration": 200
-                    },
-                    {
-                      "id": "minecraft:instant_damage",
-                      "amplifier": 0,
-                      "duration": 1
-                    }
-                  ]
-                }
+                "min": 4,
+                "max": 8
               }
             }
           ]
@@ -92,57 +66,24 @@
       ]
     },
     {
-      "rolls": {
-        "min": 1,
-        "max": 2
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_ingot",
-          "weight": 24,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4,
-                "max": 24
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:gold_ingot",
-          "weight": 32,
+          "name": "minecraft:blue_orchid",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 16
+                "max": 4
               }
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:gold_nugget",
-          "weight": 8,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 64
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:diamond",
-          "weight": 8,
+          "name": "minecraft:cobweb",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -161,6 +102,14 @@
         {
           "type": "minecraft:loot_table",
           "value": "minecraft:chests/village/village_desert_house"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "minecraft:chests/village/village_weaponsmith"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 100
         }
       ]
     }

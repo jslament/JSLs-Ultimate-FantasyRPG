@@ -57,76 +57,22 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 10,
-                "max": 15
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 10,
-                "max": 15
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 10,
-                "max": 15
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:diamond_helmet"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:diamond_boots"
+          "name": "minecraft:iron_boots"
         },
         {
           "type": "minecraft:item",
@@ -160,8 +106,8 @@
     },
     {
       "rolls": {
-        "min": 2,
-        "max": 3
+        "min": 1,
+        "max": 2
       },
       "entries": [
         {
@@ -172,8 +118,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 5,
-                "max": 16
+                "min": 1,
+                "max": 4
               }
             }
           ]
@@ -187,21 +133,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 10
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 12,
-          "name": "minecraft:diamond",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 3,
-                "max": 5
+                "max": 2
               }
             }
           ]

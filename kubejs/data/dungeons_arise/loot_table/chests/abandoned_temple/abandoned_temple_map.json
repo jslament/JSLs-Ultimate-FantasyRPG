@@ -50,10 +50,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:wither_rose"
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:iron_bars",
           "functions": [
             {
@@ -67,51 +63,15 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 1,
-              "conditions": [
-                {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.6
-                }
-              ]
-            }
-          ]
+          "name": "minecraft:iron_sword"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:bow",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 0,
-                "max": 4
-              },
-              "conditions": [
-                {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.4
-                }
-              ]
-            }
-          ]
+          "name": "minecraft:bow"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 1
-            }
-          ]
+          "name": "minecraft:iron_sword"
         }
       ]
     },
@@ -148,59 +108,19 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_boots"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 0,
-                "max": 4
-              }
-            }
-          ]
+          "name": "minecraft:chainmail_chestplate"
         },
         {
           "type": "minecraft:item",
@@ -244,7 +164,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 14
+                "max": 6
               }
             }
           ]
@@ -257,7 +177,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 16
+                "max": 4
               }
             }
           ]
@@ -298,7 +218,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 3,
-                "max": 16
+                "max": 8
               }
             }
           ]

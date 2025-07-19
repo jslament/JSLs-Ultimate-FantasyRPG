@@ -2,10 +2,7 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": {
-        "min": 1,
-        "max": 3
-      },
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
@@ -16,8 +13,8 @@
               "function": "minecraft:enchant_with_levels",
               "options": "#minecraft:on_random_loot",
               "levels": {
-                "min": 4,
-                "max": 16
+                "min": 2,
+                "max": 12
               }
             }
           ]
@@ -46,8 +43,8 @@
               "function": "minecraft:enchant_with_levels",
               "options": "#minecraft:on_random_loot",
               "levels": {
-                "min": 15,
-                "max": 30
+                "min": 5,
+                "max": 15
               },
               "treasure": true
             }
@@ -62,8 +59,8 @@
               "function": "minecraft:enchant_with_levels",
               "options": "#minecraft:on_random_loot",
               "levels": {
-                "min": 15,
-                "max": 30
+                "min": 5,
+                "max": 15
               },
               "treasure": true
             }
@@ -72,34 +69,12 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 15,
-                "max": 30
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": {
-                "min": 15,
-                "max": 30
-              },
-              "treasure": true
-            }
-          ]
+          "name": "minecraft:iron_boots"
         }
       ]
     },
@@ -112,13 +87,27 @@
         {
           "type": "minecraft:item",
           "weight": 10,
+          "name": "minecraft:emerald",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
           "name": "minecraft:iron_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 24
+                "min": 2,
+                "max": 12
               }
             }
           ]
@@ -131,8 +120,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 3,
-                "max": 4
+                "min": 1,
+                "max": 2
               }
             }
           ]
@@ -140,7 +129,7 @@
       ]
     },
     {
-      "rolls": 1,
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",

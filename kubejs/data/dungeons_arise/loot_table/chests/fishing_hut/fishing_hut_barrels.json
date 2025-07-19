@@ -6,23 +6,8 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:potion",
-          "weight": 100,
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:potion_contents": {
-                  "potion": "minecraft:luck"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:trident",
           "weight": 3,
+          "name": "minecraft:trident",
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -30,7 +15,8 @@
               "levels": {
                 "min": 0,
                 "max": 10
-              }
+              },
+              "treasure": false
             },
             {
               "function": "minecraft:set_damage",
@@ -43,8 +29,8 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:fishing_rod",
           "weight": 70,
+          "name": "minecraft:fishing_rod",
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -52,14 +38,15 @@
               "levels": {
                 "min": 15,
                 "max": 25
-              }
+              },
+              "treasure": true
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:book",
           "weight": 60,
+          "name": "minecraft:book",
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -67,14 +54,15 @@
               "levels": {
                 "min": 20,
                 "max": 30
-              }
+              },
+              "treasure": true
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:water_bucket",
-          "weight": 100
+          "weight": 100,
+          "name": "minecraft:water_bucket"
         }
       ]
     },
@@ -86,8 +74,8 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:tropical_fish",
           "weight": 50,
+          "name": "minecraft:tropical_fish",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -100,8 +88,8 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:salmon",
           "weight": 100,
+          "name": "minecraft:salmon",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -114,8 +102,8 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:cod",
           "weight": 100,
+          "name": "minecraft:cod",
           "functions": [
             {
               "function": "minecraft:set_count",

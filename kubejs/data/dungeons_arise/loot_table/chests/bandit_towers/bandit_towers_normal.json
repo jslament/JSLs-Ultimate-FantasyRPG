@@ -60,8 +60,8 @@
     },
     {
       "rolls": {
-        "min": 2,
-        "max": 3
+        "min": 1,
+        "max": 2
       },
       "entries": [
         {
@@ -72,8 +72,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 32,
-                "max": 64
+                "min": 12,
+                "max": 24
               }
             }
           ]
@@ -86,8 +86,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 6
+                "min": 1,
+                "max": 3
               }
             }
           ]
@@ -101,7 +101,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 48
+                "max": 24
               }
             }
           ]
@@ -114,8 +114,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 12
+                "min": 2,
+                "max": 6
               }
             }
           ]
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "rolls": 1,
+      "rolls": 2,
       "entries": [
         {
           "type": "minecraft:item",
@@ -174,12 +174,8 @@
           "value": "minecraft:chests/village/village_desert_house"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "minecraft:chests/village/village_weaponsmith"
-        },
-        {
           "type": "minecraft:empty",
-          "weight": 35
+          "weight": 100
         },
         {
           "type": "minecraft:loot_table",

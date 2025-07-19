@@ -9,18 +9,14 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:netherite_scrap"
-        },
-        {
-          "type": "minecraft:item",
           "weight": 60,
           "name": "minecraft:diamond",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 12
+                "min": 4,
+                "max": 6
               }
             }
           ]
@@ -61,8 +57,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 18,
-                "max": 26
+                "min": 8,
+                "max": 16
               }
             }
           ]
@@ -75,8 +71,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 18,
-                "max": 24
+                "min": 8,
+                "max": 16
               }
             }
           ]

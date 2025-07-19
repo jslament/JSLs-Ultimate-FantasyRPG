@@ -2,6 +2,19 @@
   "type": "minecraft:chest",
   "pools": [
     {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_hyphae"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_fungus"
+        }
+      ]
+    },
+    {
       "rolls": 1,
       "entries": [
         {
@@ -70,58 +83,23 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:diamond_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "weight": 75,
-          "name": "minecraft:chainmail_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ]
+          "name": "minecraft:chainmail_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 50,
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
           "weight": 25,
-          "name": "minecraft:diamond_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ]
+          "name": "minecraft:diamond_pickaxe"
         },
         {
           "type": "minecraft:item",
           "weight": 100,
-          "name": "minecraft:iron_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ]
+          "name": "minecraft:iron_pickaxe"
         }
       ]
     }

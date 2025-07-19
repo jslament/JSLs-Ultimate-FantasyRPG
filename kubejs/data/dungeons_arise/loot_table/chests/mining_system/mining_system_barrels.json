@@ -38,8 +38,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 12,
-                "max": 18
+                "min": 4,
+                "max": 12
               }
             }
           ]
@@ -76,7 +76,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 12
+                "max": 8
               }
             }
           ]
@@ -89,8 +89,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 3,
-                "max": 12
+                "min": 2,
+                "max": 3
               }
             }
           ]
@@ -103,8 +103,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 16
+                "min": 2,
+                "max": 3
               }
             }
           ]
@@ -112,7 +112,7 @@
         {
           "type": "minecraft:item",
           "weight": 8,
-          "name": "minecraft:iron_ingot",
+          "name": "minecraft:iron_nugget",
           "functions": [
             {
               "function": "minecraft:set_count",

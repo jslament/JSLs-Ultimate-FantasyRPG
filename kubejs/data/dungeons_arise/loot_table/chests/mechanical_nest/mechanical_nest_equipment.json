@@ -57,17 +57,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "options": "#minecraft:on_random_loot",
-              "levels": 30
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:iron_leggings",
           "functions": [
             {
@@ -206,17 +195,13 @@
           "type": "minecraft:item",
           "weight": 5,
           "name": "minecraft:iron_axe"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:netherite_hoe"
         }
       ]
     },
     {
       "rolls": {
-        "min": 2,
-        "max": 3
+        "min": 1,
+        "max": 2
       },
       "entries": [
         {
@@ -239,8 +224,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 12
+                "min": 3,
+                "max": 7
               }
             }
           ]
@@ -278,8 +263,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 26
+                "min": 8,
+                "max": 16
               }
             }
           ]
@@ -291,8 +276,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6,
-                "max": 24
+                "min": 3,
+                "max": 18
               }
             }
           ]
