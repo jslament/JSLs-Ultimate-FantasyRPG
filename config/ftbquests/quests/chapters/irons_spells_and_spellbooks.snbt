@@ -7,38 +7,28 @@
 		id: "irons_spellbooks:blood_staff"
 	}
 	id: "0B5876BB85B24372"
-	images: [
-		{
-			height: 16.0d
-			image: "jslultimatecore:textures/spellbook.png"
-			order: -1
-			rotation: 0.0d
-			width: 25.6d
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			height: 0.5d
-			image: "jslultimatecore:textures/star3.png"
-			rotation: 0.0d
-			width: 0.5d
-			x: 4.9d
-			y: -1.0d
-		}
-	]
+	images: [{
+		height: 16.0d
+		image: "jslultimatecore:textures/spellbook.png"
+		order: -1
+		rotation: 0.0d
+		width: 25.6d
+		x: 0.0d
+		y: 0.0d
+	}]
 	order_index: 1
 	quest_links: [
 		{
 			id: "1193C88DF55BC05B"
 			linked_quest: "559DE3BAB28A5442"
-			x: 5.5d
+			x: 4.5d
 			y: -1.0d
 		}
 		{
 			id: "6350B2222511D8FC"
 			linked_quest: "3996C5805550D55E"
-			x: 6.5d
-			y: -1.0d
+			x: 4.0d
+			y: 0.0d
 		}
 		{
 			id: "4F23FE4FFA0C3C59"

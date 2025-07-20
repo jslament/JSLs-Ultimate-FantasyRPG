@@ -26,13 +26,14 @@
 	quests: [
 		{
 			dependencies: ["5E43A6CBE171C6F2"]
+			hide_dependency_lines: true
 			id: "6BAA2C5976B99534"
 			tasks: [{
 				id: "0432D44DCA14A7BB"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 6.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E43A6CBE171C6F2"]
@@ -411,8 +412,8 @@
 				item: { count: 1, id: "endrem:witch_pupil" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 5.5d
+			y: 1.0d
 		}
 	]
 }

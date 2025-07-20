@@ -10,11 +10,11 @@
 	images: [
 		{
 			click: "#024D06717EE2A9B9"
-			height: 10.0d
+			height: 3.0d
 			hover: ["The Shop"]
-			image: "relics:textures/abilities/amphibian_boot/swimming.png"
+			image: "magic_coins:textures/gui/button_collect_coins.png"
 			rotation: 0.0d
-			width: 10.0d
+			width: 3.0d
 			x: 0.0d
 			y: -7.0d
 		}

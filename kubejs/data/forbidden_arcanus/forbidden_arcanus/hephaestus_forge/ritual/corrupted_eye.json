@@ -1,0 +1,46 @@
+{
+  "enhancers": "forbidden_arcanus:maledictus_pact",
+  "essences": {
+    "aureal": 500,
+    "blood": 3000,
+    "souls": 10
+  },
+  "forge_tier": 1,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "kubejs:corrupted_grail"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "kubejs:tribal_totem"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:corrupt_soul"
+      }
+    },
+    {
+      "amount": 3,
+      "ingredient": {
+        "item": "discerning_the_eldritch:corrupted_cloth"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "forbidden_arcanus:stellarite_block"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "endrem:corrupted_eye"
+    }
+  }
+}

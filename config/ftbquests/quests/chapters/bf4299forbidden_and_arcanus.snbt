@@ -79,5 +79,15 @@
 			x: 20.0d
 			y: 0.0d
 		}
+		{
+			id: "2F42333CE1D32CBC"
+			tasks: [{
+				id: "65CA6E35AEC3C87C"
+				item: { count: 1, id: "forbidden_arcanus:edelwood_ladder" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.5d
+		}
 	]
 }
