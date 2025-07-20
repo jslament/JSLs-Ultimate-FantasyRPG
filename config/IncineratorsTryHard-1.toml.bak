@@ -109,3 +109,17 @@
 
 	["Cataclysm's Weapon Config".Laser_Gatling]
 		"Whether Laser Gatling can ignite blocks when used by the player" = true
+
+	["Cataclysm's Weapon Config".Ceraunus]
+		# Default: 0.5
+		# Range: 0.05 ~ 10.0
+		"Ceraunus Charging Time (Seconds)" = 0.5
+		# Default: 4
+		# Range: 1 ~ 360
+		"Number Of Ceraunus Waves" = 4
+		# Default: 60
+		# Range: 1 ~ 3600
+		"Life Time (ticks) Of Ceraunus Waves" = 60
+		# Default: 2.5
+		# Range: 0.01 ~ 15.0
+		"Velocity of Thrown Ceraunus" = 2.5

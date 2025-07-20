@@ -109,6 +109,9 @@
 
 	["Cataclysm's Weapon Config".Laser_Gatling]
 		"Whether Laser Gatling can ignite blocks when used by the player" = true
+		# Default: 1.0
+		# Range: 0.01 ~ 100.0
+		"Laser Speed Multiplier" = 1.0
 
 	["Cataclysm's Weapon Config".Ceraunus]
 		# Default: 0.5
@@ -123,3 +126,14 @@
 		# Default: 2.5
 		# Range: 0.01 ~ 15.0
 		"Velocity of Thrown Ceraunus" = 2.5
+
+	["Cataclysm's Weapon Config".Astrape]
+		# Default: 0.5
+		# Range: 0.05 ~ 10.0
+		"Astrape Charging Time (Seconds)" = 0.5
+		# Default: 0.15
+		# Range: 0.01 ~ 114514.0
+		"Astrape Lightning Acceleration Power" = 0.15
+		# Default: 1.0
+		# Range: 0.0 ~ 256.0
+		"Astrape Lightning Area Radius" = 1.0

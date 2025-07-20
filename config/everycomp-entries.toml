@@ -43,6 +43,11 @@
 			willow = true
 			yellow_bioshroom = true
 
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			aurum = true
+			edelwood = true
+
 		[types.leaves_type.regions_unexplored]
 			bamboo = true
 			golden_larch = true
@@ -156,6 +161,10 @@
 
 		[types.leaves_type.hazennstuff]
 			wisewood = true
+
+		[types.leaves_type.forbidden_arcanus]
+			aurum = true
+			nuggety_aurum = true
 
 #Disables specific entries
 [entries]

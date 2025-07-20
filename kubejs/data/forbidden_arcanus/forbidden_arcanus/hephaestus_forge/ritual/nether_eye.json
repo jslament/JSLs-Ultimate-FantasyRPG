@@ -1,0 +1,46 @@
+{
+  "enhancers": "forbidden_arcanus:elementarium",
+  "essences": {
+    "aureal": 500,
+    "blood": 3000,
+    "souls": 10
+  },
+  "forge_tier": 1,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "kubejs:wildfire_essence"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "kubejs:molten_tablet"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "cataclysm:lava_power_cell"
+      }
+    },
+    {
+      "amount": 3,
+      "ingredient": {
+        "item": "minecraft:blaze_powder"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "bosses_of_mass_destruction:blazing_eye"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "endrem:nether_eye"
+    }
+  }
+}

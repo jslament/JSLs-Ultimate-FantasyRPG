@@ -1,13 +1,33 @@
 {
+	always_invisible: true
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "placeholder"
 	group: "39D23E7480A1CDCF"
 	id: "1D718FB837DD77F4"
+	images: [
+		{
+			height: 4.0d
+			image: "jslultimatecore:textures/bgbox1c.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			height: 0.9d
+			image: "jslultimatecore:textures/apotheosis.png"
+			rotation: 0.0d
+			width: 8.8d
+			x: -2.5d
+			y: -3.5d
+		}
+	]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "206B7DD5020F2B45"
 			tasks: [{
 				id: "6EDE14C41F4556FE"
@@ -18,6 +38,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "0D753DE0CB3CE614"
 			tasks: [{
 				id: "146DF7886201DD19"
@@ -28,6 +49,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "116998E5C4FD369F"
 			tasks: [{
 				id: "3489C73E5A02B52C"
@@ -38,6 +60,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "7FD21F4242732164"
 			tasks: [{
 				id: "336B74A5659A43D4"
@@ -48,6 +71,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "462EB013B7A26815"
 			tasks: [{
 				id: "13B1416727D49818"
@@ -58,6 +82,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "570B0159C0DC7527"
 			tasks: [{
 				id: "354A450011F73135"
@@ -68,6 +93,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "41BEFEC6BA8FE9B0"
 			tasks: [{
 				id: "065CEC99A636B6E7"
@@ -78,6 +104,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["112D9EBF8249B189"]
 			id: "78A2B15CF81D83BA"
 			tasks: [{
 				id: "724790DB3B06EE9D"
@@ -86,6 +113,36 @@
 			}]
 			x: -0.5d
 			y: 1.5d
+		}
+		{
+			id: "112D9EBF8249B189"
+			tasks: [{
+				id: "7B9E72704CED53EF"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			id: "72007E99E1C6360C"
+			tasks: [{
+				id: "79563171C5D502FA"
+				item: { count: 1, id: "forbidden_arcanus:stellarite_piece" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["72007E99E1C6360C"]
+			id: "051469430FDCB205"
+			tasks: [{
+				id: "7E72853152CCC6F3"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
 		}
 	]
 }

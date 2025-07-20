@@ -320,5 +320,8 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
 		[entries.leaves_type.regions_unexplored]
 			shrub = true

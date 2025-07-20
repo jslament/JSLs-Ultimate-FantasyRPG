@@ -7,22 +7,46 @@
 		id: "irons_spellbooks:blood_staff"
 	}
 	id: "0B5876BB85B24372"
-	images: [{
-		height: 16.0d
-		image: "kubejs:textures/spellbook.png"
-		order: -1
-		rotation: 0.0d
-		width: 25.6d
-		x: 0.0d
-		y: 0.0d
-	}]
+	images: [
+		{
+			height: 16.0d
+			image: "jslultimatecore:textures/spellbook.png"
+			order: -1
+			rotation: 0.0d
+			width: 25.6d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 0.5d
+			image: "jslultimatecore:textures/star3.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.9d
+			y: -1.0d
+		}
+	]
 	order_index: 1
-	quest_links: [{
-		id: "1193C88DF55BC05B"
-		linked_quest: "559DE3BAB28A5442"
-		x: 5.5d
-		y: -1.0d
-	}]
+	quest_links: [
+		{
+			id: "1193C88DF55BC05B"
+			linked_quest: "559DE3BAB28A5442"
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			id: "6350B2222511D8FC"
+			linked_quest: "3996C5805550D55E"
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			id: "4F23FE4FFA0C3C59"
+			linked_quest: "6CC5370ACDCE1CD5"
+			x: 3.5d
+			y: 1.0d
+		}
+	]
 	quests: [
 		{
 			icon: {
@@ -302,47 +326,37 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["1C5473CE8934AB3B"]
+			dependencies: ["6376618231A79152"]
 			id: "4947E63B82BAD008"
 			tasks: [{
 				id: "5C995E23A69D149E"
 				item: { count: 1, id: "irons_spellbooks:eldritch_manuscript" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 3.0d
+			x: 6.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["342967E9475AF337"]
+			dependencies: ["6CC5370ACDCE1CD5"]
 			id: "631A249127DB5880"
 			tasks: [{
 				id: "3B45E64CFF652A2D"
 				item: { count: 1, id: "irons_spellbooks:pyrium_ingot" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 2.0d
+			x: 2.5d
+			y: 1.0d
 		}
 		{
-			dependencies: ["1C5473CE8934AB3B"]
+			dependencies: ["6376618231A79152"]
 			id: "342967E9475AF337"
 			tasks: [{
 				id: "39CFDBCDE0CDE5D3"
 				item: { components: { "irons_spellbooks:furled_map_data": { descriptionOverride: { translate: "item.irons_spellbooks.citadel_map" }, destination: "irons_spellbooks:citadel", dimension: "minecraft:the_nether" }, "minecraft:lore": ["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.citadel_map\"}]}"] }, count: 1, id: "irons_spellbooks:furled_map_ancient" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 2.0d
-		}
-		{
-			id: "1C5473CE8934AB3B"
-			tasks: [{
-				id: "41C2D5C2E2DF06E0"
-				item: { count: 1, id: "irons_spellbooks:ancient_knowledge_fragment" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: 2.0d
+			x: 5.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["1B05E2A7CA0709A4"]
@@ -353,6 +367,50 @@
 			}]
 			x: -1.5d
 			y: -5.0d
+		}
+		{
+			dependencies: ["048F51C0124DC604"]
+			id: "272C20F5B92F2466"
+			tasks: [{
+				id: "22C46FE9A29F0E39"
+				item: { count: 1, id: "irons_spellbooks:wayward_compass" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49BFAA11F5B70E4C"]
+			hide_dependency_lines: true
+			id: "048F51C0124DC604"
+			tasks: [{
+				id: "153D074390AA850D"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["048F51C0124DC604"]
+			id: "6376618231A79152"
+			tasks: [{
+				id: "2E5D92AE73038ECD"
+				item: { count: 1, id: "irons_spellbooks:ancient_knowledge_fragment" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["342967E9475AF337"]
+			id: "4C0ABE85BDD72E41"
+			tasks: [{
+				id: "189D4E2645D7389A"
+				item: { count: 1, id: "irons_spellbooks:cinderous_soulcaller" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
 		}
 	]
 }

@@ -474,6 +474,11 @@
     "modId": "flickerfix",
     "version": "4.0.1"
   },
+  "forbidden_arcanus-1.21.1-2.5.17.jar": {
+    "jarName": "forbidden_arcanus-1.21.1-2.5.17.jar",
+    "modId": "forbidden_arcanus",
+    "version": "2.5.17"
+  },
   "friendsandfoes-neoforge-4.0.7+mc1.21.1.jar": {
     "jarName": "friendsandfoes-neoforge-4.0.7+mc1.21.1.jar",
     "modId": "friendsandfoes",
@@ -614,10 +619,10 @@
     "modId": "immersiveui",
     "version": "0.3.0"
   },
-  "IncineratorsTryHard-NeoForge-1.21.1-1.0.8.jar": {
-    "jarName": "IncineratorsTryHard-NeoForge-1.21.1-1.0.8.jar",
+  "IncineratorsTryHard-NeoForge-1.21.1-1.1.0.jar": {
+    "jarName": "IncineratorsTryHard-NeoForge-1.21.1-1.1.0.jar",
     "modId": "incineratorstryhard",
-    "version": "1.21.1-1.0.8"
+    "version": "1.21.1-1.1.0"
   },
   "incontrol-1.21-10.1.3.jar": {
     "jarName": "incontrol-1.21-10.1.3.jar",
@@ -684,6 +689,11 @@
     "modId": "jinxedlib",
     "version": "1.0.4"
   },
+  "jslultimatecore-1.0.0.jar": {
+    "jarName": "jslultimatecore-1.0.0.jar",
+    "modId": "jslultimatecore",
+    "version": "1.0.0"
+  },
   "jumpboat-1.21.0-1.0.5.jar": {
     "jarName": "jumpboat-1.21.0-1.0.5.jar",
     "modId": "jumpboat",
@@ -722,10 +732,10 @@
     "modId": "kubejs",
     "version": "2101.7.1-build.181"
   },
-  "L_Ender\u0027s Cataclysm 1.21.1-3.08.jar": {
-    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.08.jar",
+  "L_Ender\u0027s Cataclysm 1.21.1-3.09.jar": {
+    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.09.jar",
     "modId": "cataclysm",
-    "version": "3.08"
+    "version": "3.09"
   },
   "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
     "jarName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
@@ -1191,6 +1201,11 @@
     "jarName": "usefulluck-1.0.3.jar",
     "modId": "usefulluck",
     "version": "1.0.3"
+  },
+  "valhelsia_core-neoforge-1.21.1-1.1.5.jar": {
+    "jarName": "valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+    "modId": "valhelsia_core",
+    "version": "1.1.5"
   },
   "watut-neoforge-1.21.0-1.2.7.jar": {
     "jarName": "watut-neoforge-1.21.0-1.2.7.jar",

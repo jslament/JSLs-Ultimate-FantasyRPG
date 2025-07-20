@@ -16,7 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "crabbersdelight:crab_bucket", "crabbersdelight:crab_claw", "endrem:black_eye", "endrem:old_eye", "endrem:rogue_eye", "endrem:witch_eye"
+    "crabbersdelight:crab_bucket", "crabbersdelight:crab_claw", "endrem:black_eye", "endrem:evil_eye", "endrem:rogue_eye", "endrem:witch_eye"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

@@ -40,6 +40,14 @@
 			x: 3.0d
 			y: -4.0d
 		}
+		{
+			height: 0.5d
+			image: "jslultimatecore:textures/star3.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 23.0d
+			y: -2.5d
+		}
 	]
 	order_index: 1
 	quest_links: [{
@@ -266,15 +274,15 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["79D9F19908D0573D"]
+			dependencies: ["4BE47E12A8D320FF"]
 			id: "005968F5262BA5A7"
 			tasks: [{
 				id: "3535FB10024FC472"
 				item: { count: 1, id: "sawmill:sawmill" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -2.5d
+			x: 7.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -284,7 +292,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chipped)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: 2.5d
 		}
 		{
@@ -295,7 +303,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(handcrafted)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 8.0d
 			y: 3.5d
 		}
 		{
@@ -306,7 +314,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(chimes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.5d
+			x: 7.0d
 			y: 3.5d
 		}
 		{
@@ -317,8 +325,8 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(sootychimneys)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 2.5d
+			x: 8.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4BE47E12A8D320FF"]
@@ -328,7 +336,7 @@
 				item: { components: { "ftbfiltersystem:filter": "mod(arts_and_crafts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.0d
 			y: 2.5d
 		}
 		{
@@ -365,7 +373,7 @@
 				type: "item"
 			}]
 			x: 9.0d
-			y: 6.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7D887C31A4B07795"]
@@ -475,8 +483,8 @@
 				item: { count: 1, id: "supplementaries:lunch_basket" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 6.5d
+			x: 11.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["79D9F19908D0573D"]
@@ -491,25 +499,21 @@
 		}
 		{
 			dependencies: ["2105CE9A2EC1C002"]
-			id: "4247252E3BBB697C"
-			tasks: [{
-				id: "7618688F0873644E"
-				item: { count: 1, id: "solonion:lunchbox" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["4247252E3BBB697C"]
 			id: "3084482E76157C4E"
-			tasks: [{
-				id: "5D27787EEFF76EE1"
-				item: { count: 1, id: "solonion:golden_lunchbox" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: -4.5d
+			tasks: [
+				{
+					id: "513EE24A22198BBB"
+					item: { count: 1, id: "solonion:lunchbox" }
+					type: "item"
+				}
+				{
+					id: "5D27787EEFF76EE1"
+					item: { count: 1, id: "solonion:golden_lunchbox" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["1B42C830CDC0A5A4"]
@@ -520,7 +524,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 7.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1B42C830CDC0A5A4"]
@@ -530,8 +534,8 @@
 				item: { count: 1, id: "supplementaries:cannon" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 7.5d
+			x: 11.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["1B42C830CDC0A5A4"]
@@ -541,8 +545,8 @@
 				item: { count: 1, id: "supplementaries:quiver" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 6.5d
+			x: 10.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["1B42C830CDC0A5A4"]
@@ -552,8 +556,8 @@
 				item: { count: 1, id: "supplementaries:slingshot" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 7.5d
+			x: 10.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["1B42C830CDC0A5A4"]
@@ -563,8 +567,8 @@
 				item: { count: 1, id: "supplementaries:flute" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 5.5d
+			x: 11.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["207438E861F8B0E4"]

@@ -1,0 +1,83 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bf4299forbidden_and_arcanus"
+	group: "32FA6FC13196390B"
+	id: "7B6C19A6EC8E6D07"
+	images: [{
+		height: 5.0d
+		image: "jslultimatecore:textures/bgbox3a.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: 0.0d
+		y: -4.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7FB74FC9183FB43A"
+			shape: "woodtier"
+			size: 2.0d
+			tasks: [{
+				id: "7EE0B1B6EE64E425"
+				item: { count: 1, id: "forbidden_arcanus:hephaestus_forge_tier_1" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FB74FC9183FB43A"]
+			id: "03E05D34D37795A1"
+			shape: "irontier"
+			size: 2.0d
+			tasks: [{
+				id: "15BFC39A0906B959"
+				item: { count: 1, id: "forbidden_arcanus:hephaestus_forge_tier_2" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03E05D34D37795A1"]
+			id: "63C91DEE80DF29C6"
+			shape: "goldtier"
+			size: 2.0d
+			tasks: [{
+				id: "3704873C543AF079"
+				item: { count: 1, id: "forbidden_arcanus:hephaestus_forge_tier_3" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63C91DEE80DF29C6"]
+			id: "2FDE9012A1B03A73"
+			shape: "diamondtier"
+			size: 2.0d
+			tasks: [{
+				id: "2DF67343831925C3"
+				item: { count: 1, id: "forbidden_arcanus:hephaestus_forge_tier_4" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2FDE9012A1B03A73"]
+			id: "3CE637B2770E89F4"
+			shape: "netheritetier"
+			size: 2.0d
+			tasks: [{
+				id: "7454A1DF1F9FEB27"
+				item: { count: 1, id: "forbidden_arcanus:hephaestus_forge_tier_5" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+	]
+}

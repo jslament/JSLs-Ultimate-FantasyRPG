@@ -9,7 +9,7 @@
 	id: "6772A857951F324A"
 	images: [{
 		height: 16.0d
-		image: "kubejs:textures/spellbook.png"
+		image: "jslultimatecore:textures/spellbook.png"
 		order: -1
 		rotation: 0.0d
 		width: 25.6d
