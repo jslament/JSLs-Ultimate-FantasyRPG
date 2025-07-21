@@ -1,0 +1,39 @@
+{
+  "essences": {
+    "aureal": 2000,
+    "experience": 200,
+    "souls": 5
+  },
+  "forge_tier": 3,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "apotheosis:mythic_material"
+      }
+    },
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "forbidden_arcanus:rune"
+      }
+    },
+    {
+      "amount": 3,
+      "ingredient": {
+        "item": "hazennstuff:raw_zenalite"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "irons_spellbooks:divine_soulshard"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "hazennstuff:divine_mold"
+    }
+  }
+}

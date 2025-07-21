@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TPT",
+    "D#D",
+    "DZD"
+  ],
+  "key": {
+    "#": {
+      "item": "hazennstuff:divine_mold"
+    },
+    "Z": {
+      "item": "hazennstuff:starkissed_zenalite"
+    },
+    "T": {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    "D": {
+      "item": "forbidden_arcanus:obsidiansteel_ingot"
+    },
+    "P": {
+      "item": "forbidden_arcanus:deorum_nugget"
+    }
+  },
+  "result": {
+    "id": "hazennstuff:divine_mold",
+    "count": 2
+  }
+}

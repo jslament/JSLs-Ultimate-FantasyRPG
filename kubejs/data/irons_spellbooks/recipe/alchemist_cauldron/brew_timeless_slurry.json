@@ -5,7 +5,7 @@
     "components": {
       "irons_spellbooks:potion_bottle_type": "regular",
       "minecraft:potion_contents": {
-        "potion": "minecraft:mundane"
+        "potion": "apothic_attributes:knowledge"
       }
     },
     "id": "irons_spellbooks:potion"

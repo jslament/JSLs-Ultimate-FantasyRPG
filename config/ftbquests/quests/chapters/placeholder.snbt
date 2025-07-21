@@ -156,5 +156,49 @@
 			x: 2.5d
 			y: 0.5d
 		}
+		{
+			dependencies: ["112D9EBF8249B189"]
+			id: "027CF0B96A3DB335"
+			tasks: [{
+				id: "26CA2892640CEF11"
+				item: { count: 1, id: "irons_spellbooks:timeless_slurry" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["112D9EBF8249B189"]
+			id: "58F5A33F7C27E325"
+			tasks: [{
+				id: "7C40D2D1E54A781C"
+				item: { components: { "minecraft:potion_contents": { potion: "apothic_attributes:flying" } }, count: 1, id: "minecraft:potion" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["112D9EBF8249B189"]
+			id: "74A750512B13CD71"
+			tasks: [{
+				id: "19E046438365C060"
+				item: { count: 1, id: "forbidden_arcanus:ferrognetic_mixture" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["112D9EBF8249B189"]
+			id: "42F277067D3983CA"
+			tasks: [{
+				id: "56B70E5AD5A512C9"
+				item: { count: 1, id: "forbidden_arcanus:dark_matter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
 	]
 }

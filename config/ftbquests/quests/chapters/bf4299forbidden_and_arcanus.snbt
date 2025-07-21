@@ -89,5 +89,27 @@
 			x: -2.5d
 			y: -5.5d
 		}
+		{
+			dependencies: ["63C91DEE80DF29C6"]
+			id: "0F972E4D8780606A"
+			tasks: [{
+				id: "1385A066C12E6CBD"
+				item: { count: 1, id: "hazennstuff:divine_mold" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0F972E4D8780606A"]
+			id: "34ED21D0E90F545F"
+			tasks: [{
+				id: "202CF724C4B3973B"
+				item: { count: 1, id: "forbidden_arcanus:divine_pact" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.5d
+		}
 	]
 }
