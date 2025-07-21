@@ -4,6 +4,7 @@ LootJS.lootTables(event => {
     event.getLootTable("irons_spellbooks:chests/catacombs/crypt_loot").firstPool().addEntry(LootEntry.of("endrem:undead_soul").withWeight(5))
     event.getLootTable("irons_spellbooks:chests/citadel/citadel_vault").firstPool().addEntry("kubejs:molten_tablet")
     event.getLootTable("irons_spellbooks:entities/fire_boss").firstPool().addEntry("kubejs:molten_tablet")
+    event.getLootTable("mowziesmobs:entities/umvuthi").firstPool().addEntry(LootEntry.of("kubejs:tribal_totem").withWeight(2))
 })
 
     // Undead Eye
@@ -19,3 +20,5 @@ AStages.addRestrictionForLoot('astages/citadel_keeper_restrict', 'citadel_keeper
     .restrictForEntities('irons_spellbooks:citadel_keeper')
     .restrictItems('kubejs:molten_tablet')
     .setEntityFilter('partial')
+
+    // Corrupted Eye
