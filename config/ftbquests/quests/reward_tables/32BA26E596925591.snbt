@@ -1,0 +1,17 @@
+{
+	id: "32BA26E596925591"
+	loot_crate: {
+		color: 14169599
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Epic Lucky Crate"
+		string_id: "tier_4_lucky_crate"
+	}
+	loot_size: 1
+	order_index: 3
+	rewards: [{ id: "56B48A8D4897F265", item: { components: { "ftbquests:loot_crate": "tier_5_lucky_crate" }, count: 1, id: "ftbquests:lootcrate" } }]
+}

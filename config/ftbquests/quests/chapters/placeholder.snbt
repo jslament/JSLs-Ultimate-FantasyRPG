@@ -124,25 +124,37 @@
 			y: 0.5d
 		}
 		{
-			id: "72007E99E1C6360C"
+			dependencies: ["112D9EBF8249B189"]
+			id: "36AB4269C85E8BDF"
 			tasks: [{
-				id: "79563171C5D502FA"
-				item: { count: 1, id: "forbidden_arcanus:stellarite_piece" }
+				id: "1D826859C71D3FB2"
+				item: { count: 1, id: "cataclysm:void_core" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 3.0d
+			x: 0.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["72007E99E1C6360C"]
-			id: "051469430FDCB205"
+			dependencies: ["112D9EBF8249B189"]
+			id: "4D7F58C9A57D4F1B"
 			tasks: [{
-				id: "7E72853152CCC6F3"
-				item: { count: 1, id: "endrem:corrupted_eye" }
+				id: "41965E8480F5007E"
+				item: { count: 1, id: "cataclysm:burning_ashes" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 3.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["112D9EBF8249B189"]
+			id: "2FC1BE85A57D12BD"
+			tasks: [{
+				id: "7CE5694BF2CA9B3A"
+				item: { count: 1, id: "eternal_starlight:ether_bucket" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
 		}
 	]
 }

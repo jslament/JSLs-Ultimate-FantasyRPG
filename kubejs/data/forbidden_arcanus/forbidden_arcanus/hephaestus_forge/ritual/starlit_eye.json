@@ -1,0 +1,58 @@
+{
+  "enhancers": "forbidden_arcanus:crescent_moon",
+  "essences": {
+    "aureal": 500,
+    "blood": 3000,
+    "souls": 10
+  },
+  "forge_tier": 1,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "eternal_starlight:trapped_soul"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "eternal_starlight:tangled_skull"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "eternal_starlight:aethersent_ingot"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "eternal_starlight:thermal_springstone_ingot"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "eternal_starlight:swamp_silver_ingot"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "eternal_starlight:amaramber_ingot"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "eternal_starlight:orb_of_prophecy"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "endrem:magical_eye"
+    }
+  }
+}

@@ -47,5 +47,26 @@
 			x: 0.0d
 			y: -1.5d
 		}
+		{
+			id: "0907D1BC79C62554"
+			tasks: [{
+				id: "096C4DD02BC283F1"
+				item: { count: 1, id: "eternal_starlight:moonring_greatsword" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0907D1BC79C62554"]
+			id: "6FEE9AA96CED2CF2"
+			tasks: [{
+				id: "6C6A8AD4911B5796"
+				item: { count: 1, id: "forbidden_arcanus:crescent_moon" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
 	]
 }

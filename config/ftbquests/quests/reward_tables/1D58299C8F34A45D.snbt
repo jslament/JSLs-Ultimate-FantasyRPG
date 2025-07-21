@@ -1,0 +1,418 @@
+{
+	id: "1D58299C8F34A45D"
+	loot_crate: {
+		color: 5635925
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Uncommon Lucky Crate"
+		string_id: "tier_2_lucky_crate"
+	}
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "039CA55087DE91EE"
+			item: {
+				components: {
+					"ftbquests:loot_crate": "tier_3_lucky_crate"
+				}
+				count: 1
+				id: "ftbquests:lootcrate"
+			}
+			weight: 10.765f
+		}
+		{
+			count: 16
+			id: "5C5D04030094A16D"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 16
+			id: "739B1F5D8B381EF8"
+			item: {
+				count: 1
+				id: "minecraft:spruce_log"
+			}
+		}
+		{
+			count: 16
+			id: "68993D3F65EC6567"
+			item: {
+				count: 1
+				id: "minecraft:birch_log"
+			}
+		}
+		{
+			count: 16
+			id: "2CA62A79AF288636"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{
+			count: 16
+			id: "09A9ABCC1436829B"
+			item: {
+				count: 1
+				id: "minecraft:acacia_log"
+			}
+		}
+		{
+			count: 16
+			id: "1EC2D2145533FF69"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_log"
+			}
+		}
+		{
+			count: 16
+			id: "7C59473066407B4C"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_log"
+			}
+		}
+		{
+			count: 16
+			id: "1A3C79597964D33A"
+			item: {
+				count: 1
+				id: "minecraft:cherry_log"
+			}
+		}
+		{
+			count: 4
+			id: "73FAA94ED4F213B7"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{
+			count: 4
+			id: "6A24C41747A04E11"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{ id: "2FFD8FCA526D0C9A", item: { count: 1, id: "hominid:gasoline_tank" } }
+		{
+			count: 4
+			id: "547FD0C6281CEFFB"
+			item: {
+				count: 1
+				id: "apotheosis:uncommon_material"
+			}
+		}
+		{ id: "530DAB33ECB68FEB", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 4
+			id: "6F3FC0836B5DAAAD"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "16A403F9BD726002"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "4D8EF7B7ABC6F5FA"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 4
+			id: "5DF734D224E28194"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 4
+			id: "48A40706A0DC0FF0"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{ id: "650FAFFD60DB08B5", item: { count: 1, id: "endermanoverhaul:corrupted_pearl" } }
+		{ id: "4BBA1AD7C62BB6D1", item: { count: 1, id: "endermanoverhaul:bubble_pearl" } }
+		{ id: "72BF99792952AB68", item: { count: 1, id: "endermanoverhaul:icy_pearl" } }
+		{ id: "3FEF527AE5A827D9", item: { count: 1, id: "endermanoverhaul:summoner_pearl" } }
+		{ id: "115DD6A55B854BD3", item: { count: 1, id: "sophisticatedstorage:basic_to_gold_tier_upgrade" } }
+		{
+			count: 2
+			id: "05BD25275F6A7B6F"
+			item: {
+				count: 1
+				id: "sophisticatedstorage:basic_to_iron_tier_upgrade"
+			}
+		}
+		{
+			count: 8
+			id: "68F838A26F565373"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:arcane_bone_meal"
+			}
+		}
+		{
+			count: 8
+			id: "1DA110B5CF4B2BB1"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:cooked_tentacle"
+			}
+		}
+		{
+			count: 4
+			id: "6E2E44987934D4C0"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:mundabitur_dust"
+			}
+		}
+		{
+			count: 4
+			id: "5DEE2EF59187088C"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:arcane_crystal"
+			}
+		}
+		{
+			count: 4
+			id: "60A3481703966B82"
+			item: {
+				count: 1
+				id: "sophisticatedstorage:upgrade_base"
+			}
+		}
+		{
+			count: 4
+			id: "4E6E48E9B7D34DF1"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+		}
+		{
+			count: 2
+			id: "03CA7C91D92492F4"
+			item: {
+				count: 1
+				id: "irons_spellbooks:uncommon_ink"
+			}
+		}
+		{
+			count: 16
+			id: "1F778A1DD4A32538"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+		}
+		{
+			count: 4
+			id: "56E1E23F6F9E30B7"
+			item: {
+				count: 1
+				id: "irons_spellbooks:divine_pearl"
+			}
+		}
+		{
+			count: 2
+			id: "39A7DD275F900A6F"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "08151D2D7FE4E952"
+			item: {
+				count: 1
+				id: "irons_spellbooks:lightning_bottle"
+			}
+		}
+		{
+			count: 4
+			id: "46E8E84806F672A4"
+			item: {
+				count: 1
+				id: "irons_spellbooks:magic_cloth"
+			}
+		}
+		{ id: "1A740219176FA20C", item: { count: 1, id: "waystones:warp_scroll" } }
+		{
+			count: 8
+			id: "5B4F85319E3ABFEE"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+		}
+		{
+			count: 4
+			id: "7355B0F18C4AD5A4"
+			item: {
+				count: 1
+				id: "minecraft:golden_carrot"
+			}
+		}
+		{
+			count: 4
+			id: "16F94E573F256F8E"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 4
+			id: "14663319DD8E9BAA"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+		}
+		{
+			count: 4
+			id: "4D2A070FDF8F9996"
+			item: {
+				count: 1
+				id: "minecraft:chorus_fruit"
+			}
+		}
+		{ id: "30527F105A39F242", item: { count: 1, id: "minecraft:golden_apple" } }
+		{
+			count: 4
+			id: "0EF8D469D4EF3304"
+			item: {
+				count: 1
+				id: "minecraft:wind_charge"
+			}
+		}
+		{ id: "1FE210C0E9EB5A17", item: { count: 1, id: "supplementaries:bomb_blue" } }
+		{
+			count: 4
+			id: "1B206EE1611E376A"
+			item: {
+				count: 1
+				id: "supplementaries:bomb"
+			}
+		}
+		{ id: "65E382CFC932ECF5", item: { count: 1, id: "apotheosis:sigil_of_socketing" } }
+		{ id: "2BB77B1F3833CCD7", item: { count: 1, id: "apotheosis:sigil_of_withdrawal" } }
+		{
+			count: 4
+			id: "23BA019DF39EE833"
+			item: {
+				count: 1
+				id: "apothic_enchanting:helmet_tome"
+			}
+		}
+		{
+			count: 4
+			id: "22244188CA41BCDE"
+			item: {
+				count: 1
+				id: "apothic_enchanting:chestplate_tome"
+			}
+		}
+		{
+			count: 4
+			id: "395FF4455DFBAEEC"
+			item: {
+				count: 1
+				id: "apothic_enchanting:leggings_tome"
+			}
+		}
+		{
+			count: 4
+			id: "01D4044ECAA26DE5"
+			item: {
+				count: 1
+				id: "apothic_enchanting:boots_tome"
+			}
+		}
+		{
+			count: 4
+			id: "7C602A4805F43F79"
+			item: {
+				count: 1
+				id: "apothic_enchanting:weapon_tome"
+			}
+		}
+		{
+			count: 4
+			id: "5B6BAED22805B4A7"
+			item: {
+				count: 1
+				id: "apothic_enchanting:bow_tome"
+			}
+		}
+		{
+			count: 4
+			id: "0BDD1C02C608897A"
+			item: {
+				count: 1
+				id: "apothic_enchanting:pickaxe_tome"
+			}
+		}
+		{
+			count: 4
+			id: "2C7ACDAC089924D3"
+			item: {
+				count: 1
+				id: "crabbersdelight:squid_kebab"
+			}
+		}
+		{
+			count: 4
+			id: "37D1675392F340F3"
+			item: {
+				count: 1
+				id: "farmersdelight:cabbage_rolls"
+			}
+		}
+		{
+			count: 4
+			id: "3E485E443474B346"
+			item: {
+				count: 1
+				id: "farmersdelight:mutton_wrap"
+			}
+		}
+		{
+			count: 4
+			id: "78672F5AC75472E1"
+			item: {
+				count: 1
+				id: "farmersdelight:kelp_roll_slice"
+			}
+		}
+		{ id: "1AC92C4607F67566", item: { count: 1, id: "farmersdelight:roast_chicken_block" } }
+		{ id: "48B29E5B93D2EAE6", item: { count: 1, id: "crittersandcompanions:gold_dragonfly_armor" } }
+	]
+}

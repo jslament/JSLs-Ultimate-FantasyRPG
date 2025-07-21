@@ -33,13 +33,13 @@
 		"- Completing quests  "
 		"- Defeating bosses  "
 		""
-		"Right-click to store coins in your pouch. "
+		"Click on the pouch to store all coins, or right-click while holding coins to store them."
 		"To retrieve coins, click one of the &63 coin icons&r in your inventory screen.  "
 		""
 		"&l&6Coin values&r&r"
 		"- &7Silver Coin&r = 1  "
-		"- &6Gold Coin&r = 25  "
-		"- &bCrystal Coin&r = 1500 "
+		"- &6Gold Coin&r = 50  "
+		"- &bCrystal Coin&r = 2500 "
 	]
 	quest.024D06717EE2A9B9.quest_subtitle: "Go earn some"
 	quest.024D06717EE2A9B9.title: "Coins"
@@ -332,6 +332,9 @@
 		"11. July 2025"
 		"https://github.com/ZsoltMolnarrr/Quest-Items"
 		"&oGNU GENERAL PUBLIC LICENSE&r"
+		""
+		""
+		"Iron's Skill Tree"
 	]
 	quest.5194D0BA4C9EDDA7.quest_subtitle: "Made from love"
 	quest.5252260F8D9C29A8.title: "Gems"
@@ -455,6 +458,8 @@
 		"{image:chimes:item/chimes_bamboo width:100 height:100 align:center}"
 	]
 	quest.6FB2BDBD32E5F0FE.quest_subtitle: "Sound of the Wind"
+	quest.6FEE9AA96CED2CF2.quest_desc: ["Drops only if killed with the Moonring Greatsword"]
+	quest.74673D9B8056DC8F.title: "Stack Upgrade Omega Tier"
 	quest.75242A4F0B6475F3.quest_desc: [
 		"Although meant for developers, Spark can still be helpful for anyone."
 		""
@@ -478,7 +483,13 @@
 	quest.7D33F9FDF9534A69.quest_desc: ["Less range than copper horn"]
 	quest.7E9828DCB86A8F7B.quest_desc: ["stellarite and do something so gate it whether that be ore stages or a boss fight or something"]
 	reward.49D213F4B9A59BDD.title: "You got a shield"
+	reward.61D002C383ACA7B1.title: "Cool reward!!"
+	reward_table.1D58299C8F34A45D.title: "Tier 2 Lucky Crate"
+	reward_table.281DF783DB391024.title: "Tier 1 Lucky Crate"
+	reward_table.32BA26E596925591.title: "Tier 4 Lucky Crate"
+	reward_table.4FCFE2A6228FE000.title: "Tier 3 Lucky Crate"
 	reward_table.517DD53B18E575B7.title: "Starter Item"
+	reward_table.568CB9206ECBFFD4.title: "Tier 5 Lucky Crate"
 	task.02DC8085180E90C5.title: "Supplementaries"
 	task.038757A4119895CB.title: "Pick a starting kit"
 	task.038EA7BFD270AC97.title: "Chipped"

@@ -1,0 +1,16 @@
+{
+	id: "4FCFE2A6228FE000"
+	loot_crate: {
+		color: 6929151
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Rare Lucky Crate"
+		string_id: "tier_3_lucky_crate"
+	}
+	loot_size: 1
+	order_index: 4
+	rewards: [{ id: "59714651737CA5E0", item: { components: { "ftbquests:loot_crate": "tier_4_lucky_crate" }, count: 1, id: "ftbquests:lootcrate" } }]
+}

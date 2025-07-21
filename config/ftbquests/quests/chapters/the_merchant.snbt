@@ -1,0 +1,215 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_repeatable_quest: true
+	filename: "the_merchant"
+	group: "08E9120539AA085B"
+	icon: {
+		id: "magic_coins:gold_coin"
+	}
+	id: "216366D557F87E7A"
+	images: [
+		{
+			click: "#024D06717EE2A9B9"
+			height: 3.0d
+			hover: ["The Shop"]
+			image: "magic_coins:textures/gui/button_collect_coins.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 17.0d
+			hover: ["Kthalkes, The Corded Merchant"]
+			image: "jslultimatecore:block/guy"
+			order: -2
+			rotation: 0.0d
+			width: 17.0d
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "024D06717EE2A9B9"
+			invisible: true
+			tasks: [{
+				id: "297AEC6B9F15B7FA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			id: "4DA6B655E2F7E4FB"
+			tasks: [{
+				id: "6A22BE255E8B8891"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "sophisticatedstorage:stack_upgrade_omega_tier"
+			}
+			id: "74673D9B8056DC8F"
+			rewards: [{
+				id: "54760D07ECE9D367"
+				item: {
+					count: 1
+					id: "sophisticatedstorage:stack_upgrade_omega_tier"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 10L
+				id: "31A401F698473355"
+				item: { count: 1, id: "magic_coins:crystal_coin" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -1.0d
+		}
+		{
+			id: "3EAA47490C097F99"
+			rewards: [{
+				id: "6F4B5483CBDC3191"
+				item: {
+					count: 1
+					id: "sophisticatedbackpacks:stack_upgrade_omega_tier"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 30L
+				id: "451568B0C24A8ED6"
+				item: { count: 1, id: "magic_coins:crystal_coin" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.0d
+		}
+		{
+			id: "471DD59B65580AEC"
+			rewards: [{
+				count: 6
+				id: "2A792E2C6FC977A7"
+				item: {
+					count: 1
+					id: "apotheosis:sigil_of_unnaming"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 20L
+				id: "40AFF1C288A9DB03"
+				item: { count: 1, id: "magic_coins:silver_coin" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: 2.0d
+		}
+		{
+			id: "5CBE05E51DA27F9B"
+			rewards: [{
+				count: 6
+				id: "0BCB5416B88F963B"
+				item: {
+					count: 1
+					id: "apotheosis:sigil_of_rebirth"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 30L
+				id: "029E6CC1B5A6A6F9"
+				item: { count: 1, id: "magic_coins:silver_coin" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 2.0d
+		}
+		{
+			id: "7484E0062E247DDA"
+			rewards: [{
+				count: 3
+				id: "2FC79E9A7751F77A"
+				item: {
+					count: 1
+					id: "apotheosis:sigil_of_socketing"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 40L
+				id: "241F82EBDA83EFCD"
+				item: { count: 1, id: "magic_coins:silver_coin" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 2.0d
+		}
+		{
+			id: "7100F787F4B904CB"
+			rewards: [{
+				id: "788BD3473B0D45A0"
+				item: {
+					count: 1
+					id: "apotheosis:sigil_of_withdrawal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "00D6CB066AD49D9F"
+				item: { count: 1, id: "magic_coins:gold_coin" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 2.0d
+		}
+		{
+			id: "4DD19A47CD215DD9"
+			rewards: [{
+				count: 6
+				id: "532FB38A269AF9D6"
+				item: {
+					count: 1
+					id: "apotheosis:sigil_of_enhancement"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "10CAA6C545445102"
+				item: { count: 1, id: "magic_coins:gold_coin" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 2.0d
+		}
+		{
+			id: "293E60E9F167E6C5"
+			rewards: [{
+				id: "1ECDA03DE99C66DE"
+				item: {
+					count: 1
+					id: "apotheosis:sigil_of_malice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "74A253CEFD22EC44"
+				item: { count: 1, id: "magic_coins:gold_coin" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+	]
+}

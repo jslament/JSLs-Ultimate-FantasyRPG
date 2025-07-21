@@ -1,0 +1,255 @@
+{
+	id: "281DF783DB391024"
+	loot_crate: {
+		color: 11184810
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Common Lucky Crate"
+		string_id: "tier_1_lucky_crate"
+	}
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "039CA55087DE91EE"
+			item: {
+				components: {
+					"ftbquests:loot_crate": "tier_2_lucky_crate"
+				}
+				count: 1
+				id: "ftbquests:lootcrate"
+			}
+			weight: 5.47f
+		}
+		{
+			count: 4
+			id: "1A13B9BFCF7D7492"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 4
+			id: "7EC895EABC671622"
+			item: {
+				count: 1
+				id: "minecraft:spruce_log"
+			}
+		}
+		{
+			count: 4
+			id: "4A6253AA814C5939"
+			item: {
+				count: 1
+				id: "minecraft:birch_log"
+			}
+		}
+		{
+			count: 4
+			id: "7E4A4C0F3D9DF9A3"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{
+			count: 4
+			id: "03F188228A05D567"
+			item: {
+				count: 1
+				id: "minecraft:acacia_log"
+			}
+		}
+		{
+			count: 4
+			id: "4B0042A53502E044"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_log"
+			}
+		}
+		{
+			count: 4
+			id: "746E0DF9DE8CF30E"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_log"
+			}
+		}
+		{
+			count: 4
+			id: "2100C5D806249CCE"
+			item: {
+				count: 1
+				id: "minecraft:cherry_log"
+			}
+		}
+		{
+			count: 4
+			id: "19792E2E30C36F10"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 4
+			id: "6A0D91EF5A0260D3"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+		}
+		{ id: "7E9B5E64AAB4D995", item: { count: 1, id: "supplementaries:soap" } }
+		{
+			count: 4
+			id: "6B5F6FA0D2EE0A93"
+			item: {
+				count: 1
+				id: "minecraft:flint"
+			}
+		}
+		{
+			count: 16
+			id: "4A9BD97932D46C4A"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+		}
+		{
+			count: 4
+			id: "49B01919159B7F22"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "5FD7B4009C5F9E02"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+		}
+		{
+			count: 4
+			id: "3F49B9091ED0C217"
+			item: {
+				count: 1
+				id: "minecraft:melon_slice"
+			}
+		}
+		{
+			count: 4
+			id: "41E49FB8ACA1E1C0"
+			item: {
+				count: 1
+				id: "minecraft:sweet_berries"
+			}
+		}
+		{
+			count: 4
+			id: "61F941A35B72F210"
+			item: {
+				count: 1
+				id: "minecraft:glow_berries"
+			}
+		}
+		{
+			count: 4
+			id: "45A94058060A37C0"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+		}
+		{
+			count: 4
+			id: "176AC1499005FBEA"
+			item: {
+				count: 1
+				id: "minecraft:potato"
+			}
+		}
+		{
+			count: 4
+			id: "3C4B481A4285B97C"
+			item: {
+				count: 1
+				id: "farmersdelight:fried_egg"
+			}
+		}
+		{
+			count: 4
+			id: "2BE89F77E3BFD007"
+			item: {
+				count: 1
+				id: "minecraft:ink_sac"
+			}
+		}
+		{
+			count: 2
+			id: "7E9E079004DD04D4"
+			item: {
+				count: 1
+				id: "apotheosis:common_material"
+			}
+		}
+		{ id: "5E07EC5C2A497512", item: { count: 1, id: "exposure:black_and_white_film" } }
+		{
+			count: 4
+			id: "7E4C14615C160076"
+			item: {
+				count: 1
+				id: "belts:belt"
+			}
+		}
+		{
+			count: 4
+			id: "46ABA46CAB5A8B87"
+			item: {
+				count: 1
+				id: "mowziesmobs:glowing_jelly"
+			}
+		}
+		{
+			count: 2
+			id: "527C200D631A2F8B"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+		}
+		{
+			count: 4
+			id: "5EA2EBC49964EA39"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+		}
+		{
+			count: 4
+			id: "6FCB24619D9F1F23"
+			item: {
+				count: 1
+				id: "irons_spellbooks:frozen_bone"
+			}
+		}
+		{ id: "437EFBDBEAF3AC42", item: { count: 1, id: "waystones:blank_scroll" } }
+		{
+			count: 4
+			id: "579D48DEDC3A3E61"
+			item: {
+				count: 1
+				id: "minecraft:bone_meal"
+			}
+		}
+	]
+}

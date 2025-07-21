@@ -1,0 +1,17 @@
+{
+	id: "568CB9206ECBFFD4"
+	loot_crate: {
+		color: 16755200
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Legendary Lucky Crate"
+		string_id: "tier_5_lucky_crate"
+	}
+	loot_size: 1
+	order_index: 5
+	rewards: [ ]
+}
