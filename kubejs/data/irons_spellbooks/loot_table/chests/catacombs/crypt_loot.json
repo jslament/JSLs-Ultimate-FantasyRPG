@@ -132,6 +132,16 @@
           ]
         }
       ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "endrem:undead_soul"
+        }
+      ],
+      "rolls": 1.0
     }
   ]
 }

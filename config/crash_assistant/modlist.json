@@ -124,10 +124,10 @@
     "modId": "baguettelib",
     "version": "1.0.0"
   },
-  "balm-neoforge-1.21.1-21.0.46.jar": {
-    "jarName": "balm-neoforge-1.21.1-21.0.46.jar",
+  "balm-neoforge-1.21.1-21.0.48.jar": {
+    "jarName": "balm-neoforge-1.21.1-21.0.48.jar",
     "modId": "balm",
-    "version": "21.0.46"
+    "version": "21.0.48"
   },
   "bcc-21.1.3+mc1.21.1.jar": {
     "jarName": "bcc-21.1.3+mc1.21.1.jar",
@@ -219,10 +219,10 @@
     "modId": "clickadv",
     "version": "3.8"
   },
-  "clienttweaks-neoforge-1.21.1-21.1.7.jar": {
-    "jarName": "clienttweaks-neoforge-1.21.1-21.1.7.jar",
+  "clienttweaks-neoforge-1.21.1-21.1.8.jar": {
+    "jarName": "clienttweaks-neoforge-1.21.1-21.1.8.jar",
     "modId": "clienttweaks",
-    "version": "21.1.7"
+    "version": "21.1.8"
   },
   "cloth-config-15.0.140-neoforge.jar": {
     "jarName": "cloth-config-15.0.140-neoforge.jar",
@@ -309,10 +309,10 @@
     "modId": "dataanchor",
     "version": "2.0.0.12"
   },
-  "defaultoptions-neoforge-1.21.1-21.1.2.jar": {
-    "jarName": "defaultoptions-neoforge-1.21.1-21.1.2.jar",
+  "defaultoptions-neoforge-1.21.1-21.1.3.jar": {
+    "jarName": "defaultoptions-neoforge-1.21.1-21.1.3.jar",
     "modId": "defaultoptions",
-    "version": "21.1.2"
+    "version": "21.1.3"
   },
   "discerning_the_eldritch-1.2.1-1.21.jar": {
     "jarName": "discerning_the_eldritch-1.2.1-1.21.jar",
@@ -399,10 +399,10 @@
     "modId": "entity_texture_features",
     "version": "6.2.9"
   },
-  "eternalstarlight-0.4.3+1.21.1+neoforge.jar": {
-    "jarName": "eternalstarlight-0.4.3+1.21.1+neoforge.jar",
+  "eternalstarlight-0.5.1+1.21.1+neoforge.jar": {
+    "jarName": "eternalstarlight-0.5.1+1.21.1+neoforge.jar",
     "modId": "eternal_starlight",
-    "version": "0.4.3+1.21.1+neoforge"
+    "version": "0.5.1+1.21.1+neoforge"
   },
   "everycomp-1.21-2.10.14-neoforge.jar": {
     "jarName": "everycomp-1.21-2.10.14-neoforge.jar",
@@ -419,10 +419,10 @@
     "modId": "exposure",
     "version": "1.9.10"
   },
-  "fancymenu_neoforge_3.6.2_MC_1.21.1.jar": {
-    "jarName": "fancymenu_neoforge_3.6.2_MC_1.21.1.jar",
+  "fancymenu_neoforge_3.6.4_MC_1.21.1.jar": {
+    "jarName": "fancymenu_neoforge_3.6.4_MC_1.21.1.jar",
     "modId": "fancymenu",
-    "version": "3.6.2"
+    "version": "3.6.4"
   },
   "FarmersDelight-1.21.1-1.2.8.jar": {
     "jarName": "FarmersDelight-1.21.1-1.2.8.jar",
@@ -494,10 +494,10 @@
     "modId": "ftbfiltersystem",
     "version": "21.1.2"
   },
-  "ftb-library-neoforge-2101.1.16.jar": {
-    "jarName": "ftb-library-neoforge-2101.1.16.jar",
+  "ftb-library-neoforge-2101.1.17.jar": {
+    "jarName": "ftb-library-neoforge-2101.1.17.jar",
     "modId": "ftblibrary",
-    "version": "2101.1.16"
+    "version": "2101.1.17"
   },
   "ftb-quests-neoforge-2101.1.12.jar": {
     "jarName": "ftb-quests-neoforge-2101.1.12.jar",
@@ -714,10 +714,10 @@
     "modId": "kiwi",
     "version": "15.6.1+neoforge"
   },
-  "kleeslabs-neoforge-1.21.1-21.1.5.jar": {
-    "jarName": "kleeslabs-neoforge-1.21.1-21.1.5.jar",
+  "kleeslabs-neoforge-1.21.1-21.1.6.jar": {
+    "jarName": "kleeslabs-neoforge-1.21.1-21.1.6.jar",
     "modId": "kleeslabs",
-    "version": "21.1.5"
+    "version": "21.1.6"
   },
   "konkrete_neoforge_1.9.9_MC_1.21.jar": {
     "jarName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
@@ -767,10 +767,10 @@
     "modId": "loot_journal",
     "version": "4.0.1"
   },
-  "lootjs-neoforge-1.21.1-3.4.0.jar": {
-    "jarName": "lootjs-neoforge-1.21.1-3.4.0.jar",
+  "lootjs-neoforge-1.21.1-3.4.2.jar": {
+    "jarName": "lootjs-neoforge-1.21.1-3.4.2.jar",
     "modId": "lootjs",
-    "version": "1.21.1-3.4.0"
+    "version": "1.21.1-3.4.2"
   },
   "lootr-neoforge-1.21-1.10.35.91.jar": {
     "jarName": "lootr-neoforge-1.21-1.10.35.91.jar",
@@ -817,10 +817,10 @@
     "modId": "monobank",
     "version": "1.2.0"
   },
-  "moonlight-1.21-2.19.5-neoforge.jar": {
-    "jarName": "moonlight-1.21-2.19.5-neoforge.jar",
+  "moonlight-1.21-2.20.2-neoforge.jar": {
+    "jarName": "moonlight-1.21-2.20.2-neoforge.jar",
     "modId": "moonlight",
-    "version": "1.21-2.19.5"
+    "version": "1.21-2.20.2"
   },
   "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
     "jarName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -922,10 +922,10 @@
     "modId": "playeranimator",
     "version": "2.0.1+1.21.1"
   },
-  "polymorph-neoforge-1.0.10+1.21.1.jar": {
-    "jarName": "polymorph-neoforge-1.0.10+1.21.1.jar",
+  "polymorph-neoforge-1.1.0+1.21.1.jar": {
+    "jarName": "polymorph-neoforge-1.1.0+1.21.1.jar",
     "modId": "polymorph",
-    "version": "1.0.10+1.21.1"
+    "version": "1.1.0+1.21.1"
   },
   "prickle-neoforge-1.21.1-21.1.8.jar": {
     "jarName": "prickle-neoforge-1.21.1-21.1.8.jar",
@@ -947,10 +947,10 @@
     "modId": "pufferfish_unofficial_additions",
     "version": "2.2.6"
   },
-  "puffish_skills-0.16.3-1.21-neoforge.jar": {
-    "jarName": "puffish_skills-0.16.3-1.21-neoforge.jar",
+  "puffish_skills-0.16.4-1.21-neoforge.jar": {
+    "jarName": "puffish_skills-0.16.4-1.21-neoforge.jar",
     "modId": "puffish_skills",
-    "version": "0.16.3"
+    "version": "0.16.4"
   },
   "PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar": {
     "jarName": "PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
@@ -1077,8 +1077,8 @@
     "modId": "sootychimneys",
     "version": "1.3.3"
   },
-  "sophisticatedbackpacks-1.21.1-3.24.18.1280.jar": {
-    "jarName": "sophisticatedbackpacks-1.21.1-3.24.18.1280.jar",
+  "sophisticatedbackpacks-1.21.1-3.24.18.1284.jar": {
+    "jarName": "sophisticatedbackpacks-1.21.1-3.24.18.1284.jar",
     "modId": "sophisticatedbackpacks",
     "version": "3.24.18"
   },
@@ -1232,15 +1232,15 @@
     "modId": "wwoo",
     "version": "2.3.4"
   },
-  "Xaeros_Minimap_25.2.6_NeoForge_1.21.jar": {
-    "jarName": "Xaeros_Minimap_25.2.6_NeoForge_1.21.jar",
+  "Xaeros_Minimap_25.2.10_NeoForge_1.21.jar": {
+    "jarName": "Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
     "modId": "xaerominimap",
-    "version": "25.2.6"
+    "version": "25.2.10"
   },
-  "XaerosWorldMap_1.39.9_NeoForge_1.21.jar": {
-    "jarName": "XaerosWorldMap_1.39.9_NeoForge_1.21.jar",
+  "XaerosWorldMap_1.39.12_NeoForge_1.21.jar": {
+    "jarName": "XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
     "modId": "xaeroworldmap",
-    "version": "1.39.9"
+    "version": "1.39.12"
   },
   "yeetusexperimentus-neoforge-87.0.0.jar": {
     "jarName": "yeetusexperimentus-neoforge-87.0.0.jar",

@@ -74,6 +74,17 @@
 				id: "minecraft:dragon_head"
 			}
 			id: "3218D888DA96F77E"
+			rewards: [{
+				id: "3885B7674403CBA8"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_5_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "netheritetier"
 			size: 2.5d
 			tasks: [{
@@ -90,11 +101,28 @@
 		}
 		{
 			dependencies: ["6551BF6A37291504"]
+			icon: {
+				id: "fdbosses:eye_of_chesed"
+			}
 			id: "7EE83E5B59706436"
+			rewards: [{
+				id: "0F30A905B4FB6B42"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_4_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "diamondtier"
 			size: 2.0d
 			tasks: [{
 				entity: "fdbosses:chesed"
+				icon: {
+					id: "fdbosses:chesed_trophy"
+				}
 				id: "4583EF8241708C01"
 				type: "kill"
 				value: 1L
@@ -105,6 +133,17 @@
 		{
 			dependencies: ["3218D888DA96F77E"]
 			id: "69819DD6BAA56991"
+			rewards: [{
+				id: "10518EA2D30A832A"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_5_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "netheritetier"
 			size: 2.0d
 			tasks: [{
@@ -119,10 +158,24 @@
 		{
 			dependencies: ["6CC5370ACDCE1CD5"]
 			id: "6551BF6A37291504"
+			rewards: [{
+				id: "05B5175EDAC2CE5E"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_4_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "irontier"
 			size: 2.0d
 			tasks: [{
 				entity: "cataclysm:scylla"
+				icon: {
+					id: "cataclysm:astrape"
+				}
 				id: "3AA62C185867BF05"
 				type: "kill"
 				value: 1L
@@ -136,10 +189,37 @@
 				"3996C5805550D55E"
 			]
 			id: "6CC5370ACDCE1CD5"
+			rewards: [{
+				id: "15D471C5F79C310C"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_3_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "goldtier"
 			size: 2.0d
 			tasks: [{
 				entity: "irons_spellbooks:fire_boss"
+				icon: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "irons_spellbooks:raise_hell"
+								index: 0
+								level: 3
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 1b
+						}
+					}
+					id: "irons_spellbooks:hellrazor"
+				}
 				id: "5743B3C881B5CBAC"
 				type: "kill"
 				value: 1L
@@ -153,6 +233,17 @@
 				"272C20F5B92F2466"
 			]
 			id: "3996C5805550D55E"
+			rewards: [{
+				id: "6BDC9502CDFD1015"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_3_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "woodtier"
 			size: 2.0d
 			tasks: [{
@@ -170,6 +261,17 @@
 		{
 			dependencies: ["3218D888DA96F77E"]
 			id: "4CC3016D712672E8"
+			rewards: [{
+				id: "0459C9987ED7F073"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_5_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "netheritetier"
 			size: 2.0d
 			tasks: [{
@@ -187,6 +289,17 @@
 				"7251B27C2F21E14F"
 			]
 			id: "50C58908831AED6C"
+			rewards: [{
+				id: "76A823C8938D1545"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2D7634FA94C35A2B"
 				item: { count: 1, id: "endrem:undead_eye" }
@@ -201,6 +314,17 @@
 				"117C68177BD213F2"
 			]
 			id: "3199E7EC9B7637B8"
+			rewards: [{
+				id: "567CE417DC402602"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			size: 1.0d
 			tasks: [{
 				id: "1E4E0F255A8CA3E0"
@@ -213,6 +337,17 @@
 		{
 			dependencies: ["6CC5370ACDCE1CD5"]
 			id: "2A23F571EC6661A1"
+			rewards: [{
+				id: "376D3B1B82555F80"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "29467A99825C8D6E"
 				item: { count: 1, id: "endrem:nether_eye" }
@@ -227,6 +362,17 @@
 				id: "endrem:corrupted_eye"
 			}
 			id: "7E9828DCB86A8F7B"
+			rewards: [{
+				id: "7B73370ABAAFDBF2"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5650AC6CC408DAED"
 				item: { count: 1, id: "endrem:corrupted_eye" }
@@ -238,6 +384,17 @@
 		{
 			dependencies: ["6551BF6A37291504"]
 			id: "3F8A849C6AABBE94"
+			rewards: [{
+				id: "0129DA5C09E150F2"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "11535EFD264E0C70"
 				item: { count: 1, id: "endrem:exotic_eye" }
@@ -249,6 +406,17 @@
 		{
 			dependencies: ["7EE83E5B59706436"]
 			id: "3928CEAC1A13F050"
+			rewards: [{
+				id: "7749E065A0E70E8B"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D4B81C9D98D2A2C"
 				item: { count: 1, id: "endrem:old_eye" }
@@ -260,6 +428,17 @@
 		{
 			dependencies: ["6551BF6A37291504"]
 			id: "6EC4856FA418F233"
+			rewards: [{
+				id: "773D23D1D8F09A6D"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "36A212FDEB5996DC"
 				item: { count: 1, id: "endrem:cold_eye" }
@@ -271,6 +450,17 @@
 		{
 			dependencies: ["7EE83E5B59706436"]
 			id: "47DDE39917C71514"
+			rewards: [{
+				id: "1701F7E46FBB5BC4"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "136D637368971EB6"
 				item: { count: 1, id: "endrem:cryptic_eye" }
@@ -285,6 +475,17 @@
 				"3996C5805550D55E"
 			]
 			id: "559DE3BAB28A5442"
+			rewards: [{
+				id: "6E6E76C98363A69C"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F5BA5840AB00F07"
 				item: { count: 1, id: "endrem:lost_eye" }
@@ -296,6 +497,17 @@
 		{
 			dependencies: ["6551BF6A37291504"]
 			id: "3808513AD33B8B32"
+			rewards: [{
+				id: "700EB16A67C1442F"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "20CE958A944215B5"
 				item: { count: 1, id: "endrem:guardian_eye" }
@@ -307,6 +519,17 @@
 		{
 			dependencies: ["6CC5370ACDCE1CD5"]
 			id: "15CDA349E420B6F4"
+			rewards: [{
+				id: "03CC0C1F46588C7D"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "28E375ECE3957388"
 				item: { count: 1, id: "endrem:magical_eye" }
@@ -318,6 +541,17 @@
 		{
 			dependencies: ["7EE83E5B59706436"]
 			id: "15EA65CCD7EEC936"
+			rewards: [{
+				id: "3E5C30775C80F7DF"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_2_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "32BE857C7E2C6C97"
 				item: { count: 1, id: "endrem:cursed_eye" }
@@ -329,6 +563,17 @@
 		{
 			dependencies: ["3218D888DA96F77E"]
 			id: "4FAE2F8490E29197"
+			rewards: [{
+				id: "12416D0BC691EE17"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_5_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			shape: "netheritetier"
 			size: 2.0d
 			tasks: [{

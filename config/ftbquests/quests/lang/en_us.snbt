@@ -99,7 +99,22 @@
 	]
 	quest.13ED878AC4BCD372.quest_subtitle: "Super Colorful Blocks"
 	quest.141CFE6C7FF7CDA2.quest_desc: ["&9&ber&r&r"]
-	quest.14B0DDB84D959142.quest_subtitle: "Hackers 'n Slashers and Better Combat"
+	quest.14B0DDB84D959142.quest_desc: [
+		"Combat has been &6completely reworked&r for a more fantasy-like experience."
+		""
+		"Every weapon type has unique animations, attributes, and combos."
+		""
+		"{image:hackersandslashers:textures/gui/icons/crit.png width:50 height:50 align:center}"
+		"{@pagebreak}"
+		"⚔ &l&6Critical&r&r hits now rely on conditions like Sneaky Attacks, Ripostes, and Headshots and can even stack into a single massive multiplier."
+		""
+		"🕵 &l&6Stealth&r&r lets you sneak behind mobs undetected, using the enviroment, low armor weight, taking cover in brushes and more. When you've been spotted, mobs will more often than not try to search for you."
+		""
+		"🪓 &l&6Parry&r&r at the right time to reduce damage and possibly stun attackers based on their missing health."
+		""
+		"🛡 &l&6Bash&r&r enemies with your shield by attacking while blocking. Time it right to knock them back and slow them down. The tankier you are, the more damage you'll deal."
+	]
+	quest.14B0DDB84D959142.quest_subtitle: "Brought to you by Hackers 'n Slashers and Better Combat"
 	quest.14B0DDB84D959142.title: "Reworked Combat"
 	quest.15CDA349E420B6F4.quest_desc: [
 		"The &b&lStarlit Eye&r&r was once the eye of a legendary sorcerer who lived in a realm of endless night and eternal stars. "
@@ -114,21 +129,25 @@
 	quest.160962902F685752.quest_desc: [
 		"Sleeping now comes with &ldeeper mechanics&r that are both &obeneficial&r and &4dangerous&r."
 		"{@pagebreak}"
+		"🛏 &6&lSleep Cooldowns&r&r"
+		"You can't spam sleep anymore. Sleep has a cooldown.  "
 		""
-		"🛏 &6&lSleep Cooldowns&r&r: You can't spam sleep anymore. Sleep has a cooldown.  "
+		"🏠 &6&lHome Beds&r&r"
+		"Sleep in the same bed to build familiarity. After 6 nights, it becomes your &aHome Bed&r, granting the &eInvigorated&r effect (boosted XP from mobs and ores).  "
 		""
-		"🏠 &6&lHome Beds&r&r: Sleep in the same bed to build familiarity. After 6 nights, it becomes your &aHome Bed&r, granting the &eInvigorated&r effect (boosted XP from mobs and ores).  "
-		""
-		"🛌 &6&lSleep Bags \\& Hammocks&r&r:"
+		"🛌 &6&lSleep Bags \\& Hammocks&r&r"
 		"• Sleep Bags: Crafted with phantom membrane and echo shards. Use them anywhere, but they won't set spawn.  "
 		"• Hammocks: Let you rest and swing during the day.  "
 		""
-		"👾 &6&lBedbugs&r&r: Rare mob that can infest beds after sleeping. Use a harming potion to cleanse them.  "
+		"👾 &6&lBedbugs&r&r"
+		"Rare mob that can infest beds after sleeping. Use a harming potion to cleanse them.  "
 		""
-		"🌒 &6&lNightmares&r&r: Sleep too often and you risk being woken up with a long cooldown.  "
+		"🌒 &6&lNightmares&r&r"
+		"Sleep too often and you risk being woken up with a long cooldown.  "
 		"Place &bDreamer Essence&r nearby to prevent nightmares (beware: phantoms will target it).  "
 		""
-		"☠ &6&lSleep Encounters&r&r: Sleep near dark areas and mobs can &owake you up&r."
+		"☠ &6&lSleep Encounters&r&r"
+		"Sleep near dark areas and mobs can &owake you up&r."
 		""
 		"Check your sleep cooldown and Home Bed status when laying in bed."
 	]
@@ -340,23 +359,30 @@
 		""
 		"This soul can be found in one of the hidden chests within the &6Dead King's Throne Room&r"
 		""
-		"&dUnlucky?&r Fret not. Once the Dead King is defeated, &lSkeleton Horses&r may rarely carry Undead Souls within them."
+		"&dCan't find it?&r Fret not. Once the Dead King is defeated, &lSkeleton Horses&r may rarely carry Undead Souls within them."
 	]
 	quest.50C58908831AED6C.quest_subtitle: "Those who live in death"
-	quest.50E4E3C3576F62A2.quest_desc: ["Enabling shaders may cause your screen to go black - Working on a fix."]
+	quest.50E4E3C3576F62A2.quest_desc: [
+		"Enabling shaders may cause your screen to go black. Unsure if this is fixed as more testing is needed."
+		""
+		"Hanging Prismarite from Regions Unexplored causes a visual glitch."
+	]
 	quest.50E4E3C3576F62A2.quest_subtitle: "Please submit your issues on Github"
 	quest.50E4E3C3576F62A2.title: "Known Issues"
 	quest.5194D0BA4C9EDDA7.quest_desc: [
-		"&lAssets&r from Quest Items."
-		"By daedelus_dev."
-		"11. July 2025"
+		"&lAssets&r from &6Quest Items&r"
+		"By &6daedelus_dev&r"
+		"First used 10. July 2025"
 		"https://github.com/ZsoltMolnarrr/Quest-Items"
 		"&oGNU GENERAL PUBLIC LICENSE&r"
 		""
-		""
-		"Iron's Skill Tree"
+		"&lData&r from &6Iron's Spells 'n Spellbooks Dynamic Skill Trees&r"
+		"By &6RaiRaimu&r"
+		"First used 6. July 2025"
+		"https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks-dynamic-skill-trees"
+		"&oMIT License&r"
 	]
-	quest.5194D0BA4C9EDDA7.quest_subtitle: "Made from love"
+	quest.5194D0BA4C9EDDA7.quest_subtitle: "Made with love"
 	quest.5252260F8D9C29A8.title: "Gems"
 	quest.559DE3BAB28A5442.quest_desc: [
 		"The &4&lBlood Eye&r&r pulses with forbidden magic, an artificial eye strong enough to help open the End portal."
@@ -428,6 +454,16 @@
 		"Right click to shoot a strand of silk. Right click again to pull yourself toward the surface."
 	]
 	quest.621D3A7A7F13A077.quest_subtitle: "Be wary of fall damage"
+	quest.641BE3661AC8715D.quest_desc: [
+		"The &a&lLuck Stat&r&r is actually useful now!  "
+		""
+		"Instead of barely affecting loot, each level of Luck now gives you &aan extra item roll&r from loot tables."
+		""
+		"This means &amore loot, more often&r whether you're opening chests or slaying monsters/bosses."
+		""
+		"Time to stack that Luck and reap the rewards!"
+	]
+	quest.641BE3661AC8715D.quest_subtitle: "Most loot tables neglect the stat to begin with"
 	quest.655E85B314C0F404.quest_desc: ["The &5Ender Lead&r&r works on most entities!"]
 	quest.655E85B314C0F404.quest_subtitle: "Pretty OP"
 	quest.6BAA2C5976B99534.quest_desc: [
@@ -468,7 +504,7 @@
 		"Go to the modpack folder → config → paxi → resourcepacks  "
 		"Delete any you don't want.   "
 	]
-	quest.6E6457793C55F75E.quest_subtitle: "Pretty"
+	quest.6E6457793C55F75E.quest_subtitle: "FYI: Shaders may cause visual glitches"
 	quest.6FB2BDBD32E5F0FE.quest_desc: [
 		"Hang a &l&6Wind Chime&r&r to bring ambient sound and keep &5Phantoms&r away.  "
 		""
@@ -500,6 +536,13 @@
 	]
 	quest.79D9F19908D0573D.quest_subtitle: "Yearn for the caves!"
 	quest.79D9F19908D0573D.title: "Iron Age"
+	quest.7A392AAA7BB25F48.quest_desc: [
+		"The &6&lCombat Roll&r&r lets you dodge attacks or dash short distances."
+		""
+		"Press &eR&r to roll (or rebind it in your controls). You'll be invulnerable for a split second!"
+		""
+		"There are &6enchantments&r to extend roll length, reduce cooldowns, or grant extra rolls. Perfect for dodging deadly blows during boss fights."
+	]
 	quest.7A392AAA7BB25F48.quest_subtitle: "I-Frames included"
 	quest.7D33F9FDF9534A69.quest_desc: ["Less range than copper horn"]
 	quest.7E9828DCB86A8F7B.quest_desc: [
@@ -543,9 +586,11 @@
 	task.38897D9EECE0D10E.title: "familiars"
 	task.38902D196D8634F0.title: "Any #minecraft:dyeable"
 	task.3A3C42A29167184D.title: "Gatekeepers"
+	task.3AA62C185867BF05.title: "Defeat Scylla"
 	task.3F973D7D170E0705.title: "dd"
 	task.4089E5786E245A13.title: "Join our discord!"
 	task.43393EB25C7BE4C9.title: "hamsters"
+	task.4583EF8241708C01.title: "Defeat Chesed"
 	task.469CE1F4072CAE77.title: "Moon Phases"
 	task.47B02B85F90F731C.title: "Enchanting"
 	task.482FB7CB92F675F7.title: "Find Me"
@@ -553,6 +598,7 @@
 	task.4D51AEA80AB8FCA0.title: "Sooty Chimneys"
 	task.538BDF52A0B1A948.title: "Decorative Mods"
 	task.55CD698B74CBDCB8.title: "Resource Packs \\& Shaders"
+	task.5743B3C881B5CBAC.title: "Defeat Tyros, The Flamebearer"
 	task.5CA05D043742690D.title: "note to self"
 	task.640752103495DEED.title: "Ink"
 	task.64187DC7B36EC83E.title: "Any #minecraft:stone_tool_materials"

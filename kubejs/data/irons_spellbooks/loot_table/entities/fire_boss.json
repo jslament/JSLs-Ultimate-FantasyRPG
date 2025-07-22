@@ -94,6 +94,16 @@
         }
       ],
       "rolls": 1
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kubejs:molten_tablet"
+        }
+      ],
+      "rolls": 1.0
     }
   ]
 }

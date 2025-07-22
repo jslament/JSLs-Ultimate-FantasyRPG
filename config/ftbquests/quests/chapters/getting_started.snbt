@@ -53,12 +53,31 @@
 	quests: [
 		{
 			id: "6D30C5E0A75DDB2F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1F0E7D238FFD25F7"
-				table_id: 5872083938958472631L
-				type: "choice"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F0E7D238FFD25F7"
+					table_id: 5872083938958472631L
+					type: "choice"
+				}
+				{
+					advancement: "apotheosis:progression/haven"
+					criterion: ""
+					id: "544A722E9EF6A023"
+					type: "advancement"
+				}
+				{
+					id: "7B0A677A8C104F4B"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "tier_1_lucky_crate"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "038757A4119895CB"
 				type: "checkmark"

@@ -72,6 +72,17 @@
 				id: "minecraft:potion"
 			}
 			id: "641BE3661AC8715D"
+			rewards: [{
+				id: "03C74F99C437F50F"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A4979301EBF5EEC"
 				type: "checkmark"
@@ -84,6 +95,17 @@
 				id: "minecraft:command_block"
 			}
 			id: "75242A4F0B6475F3"
+			rewards: [{
+				id: "59C3D73B1B48AF59"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3745862D5214429F"
 				type: "checkmark"
@@ -96,6 +118,17 @@
 				id: "minecraft:diamond_sword"
 			}
 			id: "14B0DDB84D959142"
+			rewards: [{
+				id: "0EE7A3E53089EF8C"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "664211AA7147F310"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:swords)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -146,6 +179,17 @@
 				id: "relics:roller_skates"
 			}
 			id: "7A392AAA7BB25F48"
+			rewards: [{
+				id: "1F62B51299804DB5"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2BA2933DD0E7E928"
 				type: "checkmark"
@@ -155,6 +199,17 @@
 		}
 		{
 			id: "160962902F685752"
+			rewards: [{
+				id: "1054866D8A3416A2"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				advancement: "minecraft:adventure/sleep_in_bed"
 				criterion: ""
@@ -169,6 +224,17 @@
 				id: "supplementaries:globe"
 			}
 			id: "1B005FBC082B9C81"
+			rewards: [{
+				id: "3804D89858F48BEA"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "26BD1F01767D8521"
 				type: "checkmark"
@@ -190,6 +256,17 @@
 		{
 			id: "5194D0BA4C9EDDA7"
 			invisible: true
+			rewards: [{
+				id: "1B850AD7ED0A30FD"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1E49219680A29FF8"
 				type: "checkmark"
@@ -210,6 +287,17 @@
 				id: "irons_spellbooks:villager_spell_book"
 			}
 			id: "481AD9F0A4FB34DC"
+			rewards: [{
+				id: "3ABF1AFDB0295D7F"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E9705156A20BA52"
 				type: "checkmark"
@@ -222,6 +310,17 @@
 				id: "endrem:exotic_eye"
 			}
 			id: "6E6457793C55F75E"
+			rewards: [{
+				id: "7B823DB6CE7FDDD1"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "55CD698B74CBDCB8"
 				type: "checkmark"
@@ -234,6 +333,17 @@
 				id: "solcarrot:food_book"
 			}
 			id: "202991E315A61EC2"
+			rewards: [{
+				id: "32F21724A4AD5EF7"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "7D15824845A5C15D"
@@ -252,6 +362,17 @@
 		{
 			dependencies: ["1B05E2A7CA0709A4"]
 			id: "6D5F67F00A36B7CC"
+			rewards: [{
+				id: "582D592985809CA3"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			size: 1.0d
 			tasks: [{
 				advancement: "irons_spellbooks:irons_spellbooks/root"
@@ -267,6 +388,17 @@
 				id: "eternal_starlight:seeking_eye"
 			}
 			id: "23F286C5E7F000F6"
+			rewards: [{
+				id: "7DA141E62034A5BF"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D47D5FBE6C5F03E"
 				type: "checkmark"
@@ -289,6 +421,17 @@
 				id: "irons_spellbooks:furled_map"
 			}
 			id: "1030D1481BDBD3E4"
+			rewards: [{
+				id: "42686A223700FE3B"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0B391800E86626CB"
 				type: "checkmark"
