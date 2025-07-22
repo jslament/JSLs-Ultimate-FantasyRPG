@@ -4,7 +4,7 @@
 	filename: "tips__tricks"
 	group: "08E9120539AA085B"
 	icon: {
-		id: "minecraft:oak_log"
+		id: "supplementaries:confetti_popper"
 	}
 	id: "4ECD2DE8A7145508"
 	images: [

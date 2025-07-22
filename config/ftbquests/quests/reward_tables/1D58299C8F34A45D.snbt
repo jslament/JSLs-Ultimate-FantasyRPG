@@ -113,7 +113,14 @@
 				id: "apotheosis:uncommon_material"
 			}
 		}
-		{ id: "530DAB33ECB68FEB", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 2
+			id: "530DAB33ECB68FEB"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
 		{
 			count: 4
 			id: "6F3FC0836B5DAAAD"

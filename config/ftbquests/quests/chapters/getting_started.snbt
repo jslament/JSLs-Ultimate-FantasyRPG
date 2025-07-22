@@ -4,7 +4,7 @@
 	filename: "getting_started"
 	group: "08E9120539AA085B"
 	icon: {
-		id: "minecraft:iron_sword"
+		id: "minecraft:iron_pickaxe"
 	}
 	id: "51E73FE92B53158E"
 	images: [
