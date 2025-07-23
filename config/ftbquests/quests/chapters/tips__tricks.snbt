@@ -48,16 +48,6 @@
 			x: 6.0d
 			y: -3.0d
 		}
-		{
-			click: "#5194D0BA4C9EDDA7"
-			height: 2.0d
-			hover: ["Credits"]
-			image: "relics:textures/gui/description/icons/completed.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 3.0d
-			y: 0.5d
-		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -254,8 +244,11 @@
 			y: -3.0d
 		}
 		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
 			id: "5194D0BA4C9EDDA7"
-			invisible: true
+			invisible_until_tasks: 1
 			rewards: [{
 				id: "1B850AD7ED0A30FD"
 				item: {
@@ -267,6 +260,7 @@
 				}
 				type: "item"
 			}]
+			size: 2.0d
 			tasks: [{
 				id: "1E49219680A29FF8"
 				type: "checkmark"
@@ -385,7 +379,7 @@
 		}
 		{
 			icon: {
-				id: "eternal_starlight:seeking_eye"
+				id: "minecraft:crafting_table"
 			}
 			id: "23F286C5E7F000F6"
 			rewards: [{
@@ -408,17 +402,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"irons_spellbooks:furled_map_data": {
-						descriptionOverride: {
-							translate: "item.irons_spellbooks.evoker_fort_battle_plans"
-						}
-						destination: "irons_spellbooks:evoker_fort"
-						dimension: "minecraft:overworld"
-					}
-					"minecraft:lore": ["{\"color\":\"gold\",\"translate\":\"item.irons_spellbooks.furled_map_descriptor_framing\",\"with\":[{\"translate\":\"item.irons_spellbooks.evoker_fort_battle_plans\"}]}"]
-				}
-				id: "irons_spellbooks:furled_map"
+				id: "minecraft:map"
 			}
 			id: "1030D1481BDBD3E4"
 			rewards: [{

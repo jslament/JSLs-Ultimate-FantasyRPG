@@ -204,8 +204,6 @@
 	quest.23F286C5E7F000F6.title: "Just Enough Items (JEI)"
 	quest.26C4B8DDBCA5F001.quest_desc: ["Recipe to be added..."]
 	quest.26C4B8DDBCA5F001.title: "Dog Armor"
-	quest.27A5A03DB0B71D96.quest_desc: ["A &5Flimsy Ender Lead&r&r can capture and move animals."]
-	quest.27A5A03DB0B71D96.quest_subtitle: "No more boats"
 	quest.27D1BF920FCB569C.quest_desc: [
 		"This section is WIP."
 		""
@@ -441,7 +439,6 @@
 	]
 	quest.5E43A6CBE171C6F2.quest_subtitle: "\"All things that should have been\""
 	quest.5E43A6CBE171C6F2.title: "&6Apotheosis&r"
-	quest.601C6738177BDE0E.quest_desc: ["Recipe to be added..."]
 	quest.609DBC33B5A748EB.quest_desc: [
 		"Craft a &ehay bale&r and an &6armor stand&r to make a &lTarget Dummy&r."
 		""
@@ -461,11 +458,9 @@
 		""
 		"This means &amore loot, more often&r whether you're opening chests or slaying monsters/bosses."
 		""
-		"Time to stack that Luck and reap the rewards!"
+		"&oTip: Harder world tiers grant you a huge boost in luck!&r"
 	]
-	quest.641BE3661AC8715D.quest_subtitle: "Most loot tables neglect the stat to begin with"
-	quest.655E85B314C0F404.quest_desc: ["The &5Ender Lead&r&r works on most entities!"]
-	quest.655E85B314C0F404.quest_subtitle: "Pretty OP"
+	quest.641BE3661AC8715D.quest_subtitle: "Even works with fortune!"
 	quest.6BAA2C5976B99534.quest_desc: [
 		"This section is WIP."
 		""

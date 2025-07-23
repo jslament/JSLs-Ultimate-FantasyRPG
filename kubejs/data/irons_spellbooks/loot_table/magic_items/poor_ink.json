@@ -5,18 +5,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 39,
+          "weight": 44,
           "name": "irons_spellbooks:common_ink"
         },
         {
           "type": "minecraft:item",
-          "weight": 10,
+          "weight": 5,
           "name": "irons_spellbooks:uncommon_ink"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "irons_spellbooks:rare_ink"
         }
       ]
     }

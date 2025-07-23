@@ -1,3 +1,4 @@
+// Coins
 LootJS.modifiers((event) => {
     // Common
     event
@@ -6,7 +7,7 @@ LootJS.modifiers((event) => {
 
     // Uncommon
     event
-        .addTableModifier(/(minecraft:chests\/(shipwreck|bastion).*|irons_spellbooks:chests.*|dungeons_arise:chests.*|adventuredungeons:chests.*|takesapillage:chests.*|eternal_starlight:chests.*|ati_structures:.*|bosses_of_mass_destruction:chests.*)/)
+        .addTableModifier(/(minecraft:chests\/(shipwreck|bastion).*|irons_spellbooks:chests.*|dungeons_arise:chests.*|takesapillage:chests.*|eternal_starlight:chests.*|ati_structures:.*|bosses_of_mass_destruction:chests.*)/)
         .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([4, 10]).randomChance(0.60));
 
     // Rare
@@ -19,3 +20,5 @@ LootJS.modifiers((event) => {
         .addTableModifier(/cataclysm:chests\/.*/)
         .addLoot(LootEntry.of("magic_coins:gold_coin").setCount([1, 3]));
 });
+
+// Iron's Spellbooks Compat with other loot tables

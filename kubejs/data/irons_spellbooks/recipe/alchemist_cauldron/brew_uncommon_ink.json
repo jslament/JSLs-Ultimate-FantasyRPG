@@ -5,7 +5,7 @@
     "id": "irons_spellbooks:common_ink"
   },
   "input": {
-    "tag": "c:ingots/copper"
+    "item": "apotheosis:uncommon_material"
   },
   "results": [
     {

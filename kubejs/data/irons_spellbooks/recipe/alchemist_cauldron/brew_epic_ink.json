@@ -5,7 +5,7 @@
     "id": "irons_spellbooks:rare_ink"
   },
   "input": {
-    "tag": "c:ingots/gold"
+    "item": "apotheosis:epic_material"
   },
   "results": [
     {

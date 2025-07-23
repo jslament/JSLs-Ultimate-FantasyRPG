@@ -444,39 +444,6 @@
 		}
 		{
 			dependencies: ["4113D7A41DEED7DE"]
-			id: "27A5A03DB0B71D96"
-			tasks: [{
-				id: "43D0F5E50C56E038"
-				item: { count: 1, id: "apothic_enchanting:flimsy_ender_lead" }
-				type: "item"
-			}]
-			x: 20.0d
-			y: -4.5d
-		}
-		{
-			dependencies: ["27A5A03DB0B71D96"]
-			id: "655E85B314C0F404"
-			tasks: [{
-				id: "3CDAC61142607BCE"
-				item: { count: 1, id: "apothic_enchanting:ender_lead" }
-				type: "item"
-			}]
-			x: 20.0d
-			y: -5.5d
-		}
-		{
-			dependencies: ["655E85B314C0F404"]
-			id: "601C6738177BDE0E"
-			tasks: [{
-				id: "4E1B73D280DEECD6"
-				item: { count: 1, id: "apothic_enchanting:occult_ender_lead" }
-				type: "item"
-			}]
-			x: 20.0d
-			y: -6.5d
-		}
-		{
-			dependencies: ["4113D7A41DEED7DE"]
 			id: "4DB9FE2925A9D3E2"
 			tasks: [{
 				id: "4A3BE150CB579457"

@@ -5,7 +5,7 @@
     "id": "irons_spellbooks:uncommon_ink"
   },
   "input": {
-    "tag": "c:ingots/iron"
+    "item": "apotheosis:rare_material"
   },
   "results": [
     {
