@@ -1,4 +1,5 @@
 [
   {"version":2},
-  {"ingredient":{"id":"chipped:mason_table"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"irons_spellbooks:copper_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":5,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -22,7 +22,7 @@
 				count: 1
 				id: "ftbquests:lootcrate"
 			}
-			weight: 5.47f
+			weight: 5.647f
 		}
 		{
 			count: 4
@@ -249,6 +249,14 @@
 			item: {
 				count: 1
 				id: "minecraft:bone_meal"
+			}
+		}
+		{
+			count: 2
+			id: "1980A7ED8BEB8CD5"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
 			}
 		}
 	]

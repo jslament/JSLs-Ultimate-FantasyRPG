@@ -237,6 +237,16 @@
           "value": "minecraft:chests/village/village_weaponsmith"
         }
       ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kubejs:corrupted_grail"
+        }
+      ],
+      "rolls": 1.0
     }
   ]
 }

@@ -16,11 +16,11 @@
   {
     "mob": ["minecraft:guardian","minecraft:elder_guardian","rottencreatures:dead_beard"],
     "when": "finalize",
-    "healthmultiply": 3,
+    "healthmultiply": 4,
     "damagemultiply": 2
   },
   {
-    "mob": ["rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:swampy","rottencreatures:zap","rottencreatures:mummy"],
+    "mob": ["minecraft:drowned","rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:swampy","rottencreatures:zap","rottencreatures:mummy"],
     "when": "finalize",
     "healthmultiply": 2,
     "damagemultiply": 2

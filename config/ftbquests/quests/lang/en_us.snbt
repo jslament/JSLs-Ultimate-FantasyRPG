@@ -73,13 +73,9 @@
 	]
 	quest.0AFE03CECF5E27F6.quest_subtitle: "Loss isn't the end"
 	quest.0CE8BEFCF4DF7C8E.quest_desc: [
-		"&6&lHandcrafted&r&r adds over &l&6250&r&r decorative furniture pieces - chairs, tables, benches, desks, and more.  "
+		"Add some life to your home with &6Another Furniture.&r "
 		""
-		"Great for &fvanilla&r, &dmedieval&r, or &6steampunk&r builds. "
-		" "
-		"Place any Handcrafted furniture to get started.  "
-		""
-		"{image:handcrafted:item/hammer width:100 height:100 align:center}"
+		"Chairs, tables, lamps, curtains, and more, all sized to match vanilla blocks and player height."
 	]
 	quest.0CE8BEFCF4DF7C8E.quest_subtitle: "Well Furnished"
 	quest.0D753DE0CB3CE614.quest_desc: ["i could add enchanting infusion recipes"]
@@ -127,7 +123,7 @@
 	quest.15CDA349E420B6F4.quest_subtitle: "Wish Upon a Sorcerer"
 	quest.15EA65CCD7EEC936.quest_desc: ["idk might swap out?"]
 	quest.160962902F685752.quest_desc: [
-		"Sleeping now comes with &ldeeper mechanics&r that are both &obeneficial&r and &4dangerous&r."
+		"Sleeping now comes with &ldeeper mechanics&r that are both &obeneficial&r and &4dangerous.&r"
 		"{@pagebreak}"
 		"🛏 &6&lSleep Cooldowns&r&r"
 		"You can't spam sleep anymore. Sleep has a cooldown.  "
@@ -269,7 +265,7 @@
 	quest.3808513AD33B8B32.quest_desc: ["scylla drops + elder guardian drops probably"]
 	quest.3928CEAC1A13F050.quest_desc: ["ancient remnant"]
 	quest.3CE637B2770E89F4.quest_desc: ["To be added..."]
-	quest.3F8A849C6AABBE94.quest_desc: ["leviathan"]
+	quest.3F8A849C6AABBE94.quest_desc: ["drops when baby leviathan kills a cindaria lol"]
 	quest.4113D7A41DEED7DE.quest_desc: [
 		"The &5&lDeus Essence&r&r is an ancient magical material.  "
 		"It is used to craft powerful weapons and unique items."
@@ -454,7 +450,7 @@
 	quest.641BE3661AC8715D.quest_desc: [
 		"The &a&lLuck Stat&r&r is actually useful now!  "
 		""
-		"Instead of barely affecting loot, each level of Luck now gives you &aan extra item roll&r from loot tables."
+		"Instead of barely affecting loot, each level of Luck now gives you &aan extra roll&r from loot tables."
 		""
 		"This means &amore loot, more often&r whether you're opening chests or slaying monsters/bosses."
 		""
@@ -500,6 +496,7 @@
 		"Delete any you don't want.   "
 	]
 	quest.6E6457793C55F75E.quest_subtitle: "FYI: Shaders may cause visual glitches"
+	quest.6EC4856FA418F233.quest_desc: ["kill frostmaw using skyscorher"]
 	quest.6FB2BDBD32E5F0FE.quest_desc: [
 		"Hang a &l&6Wind Chime&r&r to bring ambient sound and keep &5Phantoms&r away.  "
 		""
@@ -574,9 +571,9 @@
 	task.297AEC6B9F15B7FA.title: "Shop"
 	task.2A4979301EBF5EEC.title: "Useful Luck"
 	task.2BA2933DD0E7E928.title: "Combat Roll"
+	task.2BF285C1AD0B555C.title: "Another Furniture"
 	task.2DB0BDA2F100B4A6.title: "Main Story"
 	task.34752F7A3EADE168.title: "Another Furniture"
-	task.34CFCB398A158A86.title: "Handcrafted"
 	task.3745862D5214429F.title: "Server Performance"
 	task.38897D9EECE0D10E.title: "familiars"
 	task.38902D196D8634F0.title: "Any #minecraft:dyeable"

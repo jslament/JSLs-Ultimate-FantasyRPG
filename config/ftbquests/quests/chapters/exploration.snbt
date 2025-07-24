@@ -68,5 +68,26 @@
 			x: 1.5d
 			y: -4.5d
 		}
+		{
+			id: "18B252EF44580F6B"
+			tasks: [{
+				id: "26E67B6B811ED95E"
+				structure: "dungeons_arise:bandit_towers"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["18B252EF44580F6B"]
+			id: "71DF8BBD5C1B9669"
+			tasks: [{
+				id: "6E43895E057A09C0"
+				item: { count: 1, id: "kubejs:corrupted_grail" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
 	]
 }

@@ -22,7 +22,7 @@
 				count: 1
 				id: "ftbquests:lootcrate"
 			}
-			weight: 10.765f
+			weight: 10.937f
 		}
 		{
 			count: 16
@@ -421,5 +421,13 @@
 		}
 		{ id: "1AC92C4607F67566", item: { count: 1, id: "farmersdelight:roast_chicken_block" } }
 		{ id: "48B29E5B93D2EAE6", item: { count: 1, id: "crittersandcompanions:gold_dragonfly_armor" } }
+		{
+			count: 8
+			id: "7697FAEA1A735773"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
+			}
+		}
 	]
 }

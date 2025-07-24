@@ -30,6 +30,26 @@
         }
       ],
       "rolls": 1.0
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "endrem:exotic_eye",
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "attacker",
+              "predicate": {
+                "type": "cataclysm:the_baby_leviathan"
+              }
+            }
+          ]
+        }
+      ],
+      "functions": [],
+      "conditions": []
     }
   ],
   "random_sequence": "cataclysm:entities/cindaria"

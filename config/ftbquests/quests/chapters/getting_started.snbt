@@ -310,8 +310,8 @@
 			dependencies: ["4BE47E12A8D320FF"]
 			id: "0CE8BEFCF4DF7C8E"
 			tasks: [{
-				id: "34CFCB398A158A86"
-				item: { components: { "ftbfiltersystem:filter": "mod(handcrafted)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "2BF285C1AD0B555C"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(another_furniture))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 8.0d
