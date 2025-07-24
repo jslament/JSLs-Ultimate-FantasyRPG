@@ -3,7 +3,8 @@ LootJS.lootTables(event => {
     event.getLootTable('eternal_starlight:entities/lonestar_skeleton').firstPool().addEntry(LootEntry.of('forbidden_arcanus:crescent_moon').matchMainHand('eternal_starlight:moonring_greatsword'))
 
     // Cold Eye
-    event.getLootTable('mowziesmobs:entities/frostmaw').firstPool().addEntry(LootEntry.of('endrem:cold_eye').matchMainHand('hazennstuff:skyscorcher'))
+    event.getLootTable('mowziesmobs:entities/frostmaw').firstPool().addEntry(LootEntry.of('endrem:cold_eye').matchMainHand('hazennstuff:skyscorcher').withWeight(5))
+    event.getLootTable('mowziesmobs:entities/frostmaw').firstPool().addEntry(LootEntry.of('mowziesmobs:music_disc_petiole').matchMainHand('hazennstuff:skyscorcher'))
     
 })
 

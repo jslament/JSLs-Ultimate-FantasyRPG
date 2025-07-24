@@ -1,49 +1,43 @@
 {
   "pools": [
     {
-      "name": "frostmaw_has_crystal",
       "rolls": 1,
-      "conditions": [
-        {
-          "condition": "killed_by_player"
-        },
-        {
-          "condition": "mowziesmobs:has_crystal"
-        }
-      ],
       "entries": [
         {
-          "type": "item",
-          "name": "mowziesmobs:ice_crystal",
-          "weight": 1
+          "type": "minecraft:item",
+          "name": "mowziesmobs:ice_crystal"
         }
       ]
     },
     {
-      "name": "frostmaw_no_crystal",
-      "rolls": 1,
-      "conditions": [
-        {
-          "condition": "killed_by_player"
-        },
-        {
-          "condition": "minecraft:inverted",
-          "term": {
-            "condition": "mowziesmobs:has_crystal"
-          }
-        },
-        {
-          "condition": "minecraft:weather_check",
-          "raining": true
-        }
-      ],
+      "bonus_rolls": 0.0,
       "entries": [
         {
-          "type": "item",
-          "name": "mowziesmobs:music_disc_petiole",
-          "weight": 1
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 8.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:enchanted_count_increase",
+              "enchantment": "minecraft:looting"
+            }
+          ],
+          "name": "hazennstuff:permafrost_fragment"
         }
-      ]
+      ],
+      "rolls": 1.0
     }
   ]
 }

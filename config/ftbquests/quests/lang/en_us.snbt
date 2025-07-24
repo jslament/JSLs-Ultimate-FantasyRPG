@@ -187,6 +187,7 @@
 	quest.202991E315A61EC2.quest_subtitle: "Eating is no longer just about filling your hunger bar"
 	quest.202991E315A61EC2.title: "The Spices of Life"
 	quest.206B7DD5020F2B45.quest_desc: ["useful boss drop for crafting"]
+	quest.23D427A17FEE2FFF.quest_desc: ["can also gate using tiers of this forge"]
 	quest.23F286C5E7F000F6.quest_desc: [
 		"🔍 &lHow to use JEI:&r"
 		"- &6Left click&r an item to see how to craft it  "
@@ -262,7 +263,17 @@
 	quest.34E60712261DE6F3.quest_subtitle: "Chill"
 	quest.34E60712261DE6F3.title: "Hammocks"
 	quest.34ED21D0E90F545F.quest_desc: ["recipe to be added"]
-	quest.3808513AD33B8B32.quest_desc: ["scylla drops + elder guardian drops probably"]
+	quest.3808513AD33B8B32.quest_desc: [
+		"The &d&lGuardian Eye&r&r is an ancient relic that can only be brought back through manipulating time itself."
+		""
+		"Start by looting the &6treasure vault&r of an &bOcean Monument&r to find a &dMagnificent Clam Shell.&r"
+		"Then travel to the &6Sunken City&r and place it upon the &6Altar of Amethyst&r to bless it."
+		""
+		"Finally, brew &6250mB of Timeless Slurry&r in an &oAlchemist Cauldron&r and submerge the blessed shell."
+		""
+		"Only then will the &dGuardian Eye&r open once more."
+	]
+	quest.3808513AD33B8B32.quest_subtitle: "What the Sea Remembers"
 	quest.3928CEAC1A13F050.quest_desc: ["ancient remnant"]
 	quest.3CE637B2770E89F4.quest_desc: ["To be added..."]
 	quest.3F8A849C6AABBE94.quest_desc: ["drops when baby leviathan kills a cindaria lol"]
@@ -496,7 +507,17 @@
 		"Delete any you don't want.   "
 	]
 	quest.6E6457793C55F75E.quest_subtitle: "FYI: Shaders may cause visual glitches"
-	quest.6EC4856FA418F233.quest_desc: ["kill frostmaw using skyscorher"]
+	quest.6EC4856FA418F233.quest_desc: [
+		"The &b&lCold Eye&r&r is a remnant of a unstoppable force once sealed beneath the ice.  "
+		""
+		"It is said that it belonged to a creature born of both sea and storm and its hatred for the sun bound it forever to the frost."
+		""
+		"To obtain it, defeat &6Scylla&r to claim the &bDeep Sea Crystal.&r"
+		"Use this to forge the legendary weapon: &f&lSkyscorcher&r"
+		""
+		"With Skyscorcher in hand, face the savage &bFrostmaw&r and claim the eye from its frozen corpse."
+	]
+	quest.6EC4856FA418F233.quest_subtitle: "Ice Cream, Eye Scream"
 	quest.6FB2BDBD32E5F0FE.quest_desc: [
 		"Hang a &l&6Wind Chime&r&r to bring ambient sound and keep &5Phantoms&r away.  "
 		""

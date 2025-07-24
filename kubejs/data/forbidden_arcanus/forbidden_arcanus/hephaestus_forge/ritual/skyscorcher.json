@@ -1,0 +1,47 @@
+{
+  "enhancers": "forbidden_arcanus:elementarium",
+  "essences": {
+    "aureal": 1500,
+    "blood": 1000,
+    "experience": 1000,
+    "souls": 20
+  },
+  "forge_tier": 3,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "kubejs:deep_sea_crystal"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "hazennstuff:deus_essence"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "irons_spellbooks:energized_core"
+      }
+    },
+    {
+      "amount": 3,
+      "ingredient": {
+        "item": "cataclysm:lacrima"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "hazennstuff:beongae"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "hazennstuff:skyscorcher"
+    }
+  }
+}

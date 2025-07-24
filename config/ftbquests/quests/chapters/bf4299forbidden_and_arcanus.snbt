@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "bf4299forbidden_and_arcanus"
 	group: "32FA6FC13196390B"
+	icon: {
+		id: "forbidden_arcanus:hephaestus_forge_tier_3"
+	}
 	id: "7B6C19A6EC8E6D07"
 	images: [{
 		height: 5.0d

@@ -1,5 +1,5 @@
 [
   {"version":2},
-  {"ingredient":{"id":"kubejs:corrupted_grail"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"hazennstuff:skyscorcher","components":{"irons_spellbooks:spell_container":{"mustEquip":false,"data":[{"id":"irons_spellbooks:ascension","index":0,"level":10,"locked":true}],"maxSpells":1,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"hazennstuff:skyscorcher","components":{"irons_spellbooks:spell_container":{"mustEquip":false,"data":[{"id":"irons_spellbooks:ascension","index":0,"level":10,"locked":true}],"maxSpells":1,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hazennstuff:divine_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -1,0 +1,14 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 250,
+    "id": "irons_spellbooks:timeless_slurry"
+  },
+  "byproduct": {
+    "id": "endrem:guardian_eye"
+  },
+  "input": {
+    "item": "kubejs:blessed_magnificent_clam_shell"
+  },
+  "results": []
+}

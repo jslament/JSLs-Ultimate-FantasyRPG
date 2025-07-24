@@ -1,0 +1,10 @@
+{
+  "type": "cataclysm:amethyst_bless",
+  "ingredient": {
+    "item": "kubejs:magnificent_clam_shell"
+  },
+  "result": {
+    "id": "kubejs:blessed_magnificent_clam_shell"
+  },
+  "time": 120
+}

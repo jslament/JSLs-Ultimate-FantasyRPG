@@ -13,6 +13,7 @@ StartupEvents.registry('item', event => {
   event.create('frozen_skull').rarity('epic')
   event.create('golden_lantern').rarity('epic')
   event.create('magnificent_clam_shell').rarity('epic')
+  event.create('blessed_magnificent_clam_shell').rarity('epic').glow(true)
   event.create('molten_tablet').rarity('epic')
   event.create('mossy_tablet').rarity('epic')
   event.create('pharaohs_mask').rarity('epic')

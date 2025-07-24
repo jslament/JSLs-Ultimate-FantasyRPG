@@ -4,44 +4,7 @@
 	filename: "dark_fantasy"
 	group: "30DF2C7F5C08C1E7"
 	icon: {
-		components: {
-			"relics:data": {
-				abilities: {
-					abilities: {
-						glowing_scour: {
-							extender: {
-								cooldown: 0
-								cooldownCap: 0
-								ticking: 0b
-							}
-							lock: {
-								breaks: 5
-							}
-							points: 0
-							research: {
-								links: { }
-								researched: 0b
-							}
-							stats: {
-								cooldown: {
-									initialValue: 15.81547d
-								}
-								glowing_time: {
-									initialValue: 10.29297d
-								}
-							}
-						}
-					}
-				}
-				leveling: {
-					experience: 0
-					level: 0
-					luck: 0
-					points: 0
-				}
-			}
-		}
-		id: "reliquified_lenders_cataclysm:scouring_eye"
+		id: "forbidden_arcanus:divine_pact"
 	}
 	id: "2BB52A3B5EAADE56"
 	images: [{
