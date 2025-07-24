@@ -22,3 +22,6 @@ ServerEvents.recipes(event => {
 // Dimension Contorl
 AStages.addRestrictionForDimension("astages/nether_restrict", "nether", "minecraft:the_nether")
 AStages.addRestrictionForDimension("astages/starlight_restrict", "starlight", "eternal_starlight:starlight")
+
+// Structure Control
+AStages.addRestrictionForStructure("astages/acropolis_restrict", "acropolis", "cataclysm:acropolis")

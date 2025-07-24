@@ -216,6 +216,25 @@
 		"Only then will the &cNether Eye&r return."
 	]
 	quest.2A23F571EC6661A1.quest_subtitle: "Aether update confirmed?"
+	quest.2A33DE5A1E33961E.quest_desc: [
+		"&lWelcome&r"
+		""
+		"Thank you for downloading &6JSL's Ultimate FantasyRPG!&r"
+		""
+		"This is an exploration-focused modpack. You'll need to explore far and wide, defeat bosses, and collect rare relics to progress."
+		""
+		"This is your &6&lQuest Book&r&r  "
+		"If you're ever lost, just follow the quests. You'll earn rewards along the way, too."
+		""
+		"Note: This pack is still in Beta. You may encounter bugs or unfinished side quests, but the main story is fully playable."
+		""
+		"Now go out there. There are no rules, only adventure."
+		""
+		"Just have fun!"
+		""
+		"-&o JSL&r"
+	]
+	quest.2A33DE5A1E33961E.quest_subtitle: "Click me! Click me!"
 	quest.2CCAC7673B3BE9FA.quest_desc: [
 		"Find some &bDiamonds.&r"
 		""
@@ -275,8 +294,29 @@
 	]
 	quest.3808513AD33B8B32.quest_subtitle: "What the Sea Remembers"
 	quest.3928CEAC1A13F050.quest_desc: ["ancient remnant"]
+	quest.3996C5805550D55E.quest_desc: [
+		"Your first real challenge begins here. "
+		""
+		"Craft a &bWayward Compass&r to locate the &7Catacombs&r, a sprawling underground dungeon filled with deadly traps and monsters."
+		""
+		"Deep within lies the Throne Room."
+		"Wake the slumbering &4Dead King...&r if you dare."
+		""
+		"Defeat him, and the &cGates to the Nether&r will be opened."
+	]
+	quest.3996C5805550D55E.quest_subtitle: "He's dying to meet you"
 	quest.3CE637B2770E89F4.quest_desc: ["To be added..."]
-	quest.3F8A849C6AABBE94.quest_desc: ["drops when baby leviathan kills a cindaria lol"]
+	quest.3F8A849C6AABBE94.quest_desc: [
+		"The &b&lExotic Eye&r&r is an oceanic relic tied to the ancient city of Acropolis.  "
+		""
+		"Legends speak of its origin in the bloodline of a great leviathan."
+		""
+		"To obtain it, you must first defeat the &5Leviathan&r of the sunken city.  "
+		"Hatch its egg, raise the baby, and tame it with tropical fish.  "
+		""
+		"Then travel to &bAcropolis&r and let it slay a mighty Cindaria to claim the eye."
+	]
+	quest.3F8A849C6AABBE94.quest_subtitle: "Why does she have it in the first place?"
 	quest.4113D7A41DEED7DE.quest_desc: [
 		"The &5&lDeus Essence&r&r is an ancient magical material.  "
 		"It is used to craft powerful weapons and unique items."
@@ -476,8 +516,18 @@
 		"FYI: \"Capturing\" enchantment has been removed for now. It may be added in the future."
 	]
 	quest.6BAA2C5976B99534.title: "&6Apotheosis:&r Spawner Module"
+	quest.6CC5370ACDCE1CD5.quest_desc: [
+		"Obtain an &6Ancient Furled Map&r that leads to the &cCitadel.&r "
+		""
+		"Fight through the Citadel Keepers and locate the heart of the fortress.  "
+		""
+		"There, use a &6Cinderous Soulcaller&r on the Soul Rune to awaken &6The Echo of Tyros, The Flamebearer.&r"
+		""
+		"Defeat him, and something in the sea will begin to stir..."
+	]
+	quest.6CC5370ACDCE1CD5.quest_subtitle: "The Fire That Never Died"
 	quest.6D30C5E0A75DDB2F.quest_desc: [
-		"Before your adventure begins, pick your &6starting kit&r"
+		"Before your adventure begins, pick your &6starting kit.&r"
 		""
 		"🧙 &lMage&r&r - Start with wandering robes, a staff and a basic spellbook with three imbued spells."
 		""
@@ -606,6 +656,7 @@
 	task.4583EF8241708C01.title: "Defeat Chesed"
 	task.469CE1F4072CAE77.title: "Moon Phases"
 	task.47B02B85F90F731C.title: "Enchanting"
+	task.47BBA7232EAAF326.title: "Welcome"
 	task.482FB7CB92F675F7.title: "Find Me"
 	task.4A3BE150CB579457.title: "Any Waystone"
 	task.4D51AEA80AB8FCA0.title: "Sooty Chimneys"

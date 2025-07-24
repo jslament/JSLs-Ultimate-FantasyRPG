@@ -52,6 +52,7 @@
 	}]
 	quests: [
 		{
+			dependencies: ["2A33DE5A1E33961E"]
 			id: "6D30C5E0A75DDB2F"
 			rewards: [
 				{
@@ -580,6 +581,26 @@
 			}]
 			x: 4.0d
 			y: 2.5d
+		}
+		{
+			id: "2A33DE5A1E33961E"
+			rewards: [{
+				id: "007B0964EE680A36"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "tier_1_lucky_crate"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "47BBA7232EAAF326"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
 		}
 	]
 }
