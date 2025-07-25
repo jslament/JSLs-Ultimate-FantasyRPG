@@ -250,6 +250,7 @@
 			dependencies: [
 				"3996C5805550D55E"
 				"7251B27C2F21E14F"
+				"5D5E73B89EED3792"
 			]
 			id: "50C58908831AED6C"
 			rewards: [{
@@ -275,6 +276,7 @@
 			dependencies: [
 				"3996C5805550D55E"
 				"117C68177BD213F2"
+				"14AD568A671D7161"
 			]
 			id: "3199E7EC9B7637B8"
 			rewards: [{
@@ -298,7 +300,13 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["6CC5370ACDCE1CD5"]
+			dependencies: [
+				"6CC5370ACDCE1CD5"
+				"4334ABB1F5E8E41F"
+				"0F5C0E088E6E8156"
+				"2309A0213FA7DDF9"
+				"4BCEDD65C21E346D"
+			]
 			id: "2A23F571EC6661A1"
 			rewards: [{
 				id: "376D3B1B82555F80"
@@ -320,7 +328,12 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["6CC5370ACDCE1CD5"]
+			dependencies: [
+				"6CC5370ACDCE1CD5"
+				"6CEB3239BF98A123"
+				"68B649346B701285"
+				"5AAA361322D4C223"
+			]
 			icon: {
 				id: "endrem:corrupted_eye"
 			}
@@ -436,6 +449,7 @@
 			dependencies: [
 				"4EDF991CD746D21C"
 				"3996C5805550D55E"
+				"4C0A90F5A5C631CD"
 			]
 			id: "559DE3BAB28A5442"
 			rewards: [{
@@ -480,7 +494,11 @@
 			y: -3.25d
 		}
 		{
-			dependencies: ["6CC5370ACDCE1CD5"]
+			dependencies: [
+				"6CC5370ACDCE1CD5"
+				"2B1C57CB4A9151D2"
+				"1B410D9899EF2FDA"
+			]
 			id: "15CDA349E420B6F4"
 			rewards: [{
 				id: "03CC0C1F46588C7D"

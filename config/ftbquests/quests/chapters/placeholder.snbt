@@ -172,7 +172,7 @@
 			id: "58F5A33F7C27E325"
 			tasks: [{
 				id: "7C40D2D1E54A781C"
-				item: { components: { "minecraft:potion_contents": { potion: "apothic_attributes:flying" } }, count: 1, id: "minecraft:potion" }
+				item: { components: { "minecraft:max_stack_size": 4, "minecraft:potion_contents": { potion: "apothic_attributes:flying" } }, count: 1, id: "minecraft:potion" }
 				type: "item"
 			}]
 			x: -6.5d

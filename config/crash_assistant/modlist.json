@@ -4,6 +4,11 @@
     "modId": "neoforge",
     "version": "neoforge-21.1.187"
   },
+  "abridged-2.0.0-neoforge-1.21.1.jar": {
+    "jarName": "abridged-2.0.0-neoforge-1.21.1.jar",
+    "modId": "abridged",
+    "version": "2.0.0"
+  },
   "accelerated-decay-neoforge-21.0.0.jar": {
     "jarName": "accelerated-decay-neoforge-21.0.0.jar",
     "modId": "accelerateddecay",
@@ -544,6 +549,11 @@
     "modId": "gravestonecurioscompat",
     "version": "3.0.1"
   },
+  "guardvillagers-2.3.2-1.21.1.jar": {
+    "jarName": "guardvillagers-2.3.2-1.21.1.jar",
+    "modId": "guardvillagers",
+    "version": "2.3.2"
+  },
   "hackersandslashers-1.1.4-beta-6.1.jar": {
     "jarName": "hackersandslashers-1.1.4-beta-6.1.jar",
     "modId": "hackersandslashers",
@@ -731,6 +741,11 @@
     "jarName": "lionfishapi-2.6.jar",
     "modId": "lionfishapi",
     "version": "2.6"
+  },
+  "lithostitched-neoforge-1.21.1-1.4.11.jar": {
+    "jarName": "lithostitched-neoforge-1.21.1-1.4.11.jar",
+    "modId": "lithostitched",
+    "version": "1.4.11"
   },
   "lmft-1.0.4+1.21-neoforge.jar": {
     "jarName": "lmft-1.0.4+1.21-neoforge.jar",
@@ -1127,10 +1142,10 @@
     "modId": "terrablender",
     "version": "4.1.0.8"
   },
-  "thief-neoforge-1.21.1-1.1.1.jar": {
-    "jarName": "thief-neoforge-1.21.1-1.1.1.jar",
+  "thief-neoforge-1.21.1-1.2.0.jar": {
+    "jarName": "thief-neoforge-1.21.1-1.2.0.jar",
     "modId": "thief",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "tiab-neoforge-6.5.0.jar": {
     "jarName": "tiab-neoforge-6.5.0.jar",
@@ -1241,10 +1256,5 @@
     "jarName": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
     "modId": "betterfortresses",
     "version": "1.21.1-NeoForge-3.1.5"
-  },
-  "YungsBridges-1.21.1-NeoForge-5.1.1.jar": {
-    "jarName": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
-    "modId": "yungsbridges",
-    "version": "1.21.1-NeoForge-5.1.1"
   }
 }

@@ -125,6 +125,7 @@
 	quest.160962902F685752.quest_desc: [
 		"Sleeping now comes with &ldeeper mechanics&r that are both &obeneficial&r and &4dangerous.&r"
 		"{@pagebreak}"
+		""
 		"🛏 &6&lSleep Cooldowns&r&r"
 		"You can't spam sleep anymore. Sleep has a cooldown.  "
 		""
@@ -235,6 +236,7 @@
 		"-&o JSL&r"
 	]
 	quest.2A33DE5A1E33961E.quest_subtitle: "Click me! Click me!"
+	quest.2B1C57CB4A9151D2.title: "Crescent Moon"
 	quest.2CCAC7673B3BE9FA.quest_desc: [
 		"Find some &bDiamonds.&r"
 		""

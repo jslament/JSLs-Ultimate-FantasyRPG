@@ -55,6 +55,7 @@
 		{
 			icon: {
 				components: {
+					"minecraft:max_stack_size": 4
 					"minecraft:potion_contents": {
 						potion: "minecraft:luck"
 					}
