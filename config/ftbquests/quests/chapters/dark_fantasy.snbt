@@ -358,7 +358,10 @@
 			y: -3.25d
 		}
 		{
-			dependencies: ["6551BF6A37291504"]
+			dependencies: [
+				"6551BF6A37291504"
+				"24C5895449E1BBD0"
+			]
 			id: "3F8A849C6AABBE94"
 			rewards: [{
 				id: "0129DA5C09E150F2"
@@ -402,7 +405,10 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["6551BF6A37291504"]
+			dependencies: [
+				"6551BF6A37291504"
+				"06CAE66B2F474A5F"
+			]
 			id: "6EC4856FA418F233"
 			rewards: [{
 				id: "773D23D1D8F09A6D"
@@ -472,7 +478,11 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["6551BF6A37291504"]
+			dependencies: [
+				"6551BF6A37291504"
+				"2EA15312E5A45B16"
+				"4B7579AC3902E29E"
+			]
 			id: "3808513AD33B8B32"
 			rewards: [{
 				id: "700EB16A67C1442F"

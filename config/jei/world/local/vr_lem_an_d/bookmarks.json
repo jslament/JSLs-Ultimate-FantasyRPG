@@ -1,5 +1,7 @@
 [
   {"version":2},
   {"ingredient":{"id":"irons_spellbooks:copper_spell_book","components":{"irons_spellbooks:spell_container":{"mustEquip":true,"data":[],"maxSpells":5,"spellWheel":true}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"sophisticatedbackpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"sophisticatedstorage:basic_to_iron_tier_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:arcane_anvil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:magic_cloth"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

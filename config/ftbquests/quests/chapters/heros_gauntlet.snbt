@@ -513,12 +513,146 @@
 		{
 			id: "1BC534B2C174A837"
 			tasks: [{
+				icon: {
+					id: "irons_spellbooks:cinderous_soulcaller"
+				}
 				id: "509297A103150CC1"
 				structure: "cataclysm:ruined_citadel"
 				type: "structure"
 			}]
 			x: 8.5d
 			y: 2.5d
+		}
+		{
+			id: "4B7579AC3902E29E"
+			tasks: [{
+				id: "33831A6DDC3888A7"
+				item: { count: 1, id: "irons_spellbooks:timeless_slurry" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"50D4E38022792C36"
+				"2EDECD371FD85120"
+			]
+			id: "2EA15312E5A45B16"
+			tasks: [{
+				id: "050F9991514FB01C"
+				item: { count: 1, id: "kubejs:blessed_magnificent_clam_shell" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			id: "50D4E38022792C36"
+			tasks: [{
+				icon: {
+					id: "minecraft:prismarine"
+				}
+				id: "63763535A2BE3FEF"
+				structure: "minecraft:monument"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"2C6AA5BFEEDA39C7"
+				"0941181E5F37F828"
+				"5A26D313F7F707FD"
+			]
+			id: "7F2E42C7256740CA"
+			tasks: [{
+				id: "0DD8769928FA789A"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:ascension", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:skyscorcher" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F2E42C7256740CA"]
+			id: "06CAE66B2F474A5F"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				id: "30BD58B8AF1544BA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			id: "0941181E5F37F828"
+			tasks: [{
+				id: "70BA443F19A62C40"
+				item: { count: 1, id: "forbidden_arcanus:elementarium" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 13.0d
+		}
+		{
+			id: "2C6AA5BFEEDA39C7"
+			tasks: [{
+				id: "058BB4ABA5739926"
+				item: { count: 1, id: "kubejs:deep_sea_crystal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.0d
+		}
+		{
+			id: "5A26D313F7F707FD"
+			tasks: [{
+				id: "683EFC6913F0FC4F"
+				item: { count: 1, id: "irons_spellbooks:energized_core" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			id: "2EDECD371FD85120"
+			tasks: [{
+				icon: {
+					id: "cataclysm:altar_of_amethyst"
+				}
+				id: "4322510EB38988F5"
+				observe_type: 0
+				timer: 0L
+				to_observe: "cataclysm:altar_of_amethyst"
+				type: "observation"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			id: "2E06876FB5DE50F3"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "1BE68C15AC8A7F81"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2E06876FB5DE50F3"]
+			id: "24C5895449E1BBD0"
+			tasks: [{
+				id: "6474E78E36D76899"
+				item: { count: 1, id: "cataclysm:abyssal_egg" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 11.0d
 		}
 	]
 }
