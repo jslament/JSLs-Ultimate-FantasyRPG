@@ -510,6 +510,17 @@
 		"&oTip: Harder world tiers grant you a huge boost in luck!&r"
 	]
 	quest.641BE3661AC8715D.quest_subtitle: "Even works with fortune!"
+	quest.6551BF6A37291504.quest_desc: [
+		"After defeating Tyros, you'll gain access to &bAcropolis&r, a huge floating city in the ocean."
+		""
+		"Ascend to the top, where a massive anchor holds &l&bScylla&r&r in slumber.  "
+		"Unleash her wrath and brace for a battle of thunder and fury."
+		""
+		"While you're there, challenge the mighty miniboss &6Clawdian&r for extra spoils."
+		""
+		"When Scylla falls, a distant rumble echoes from beneath..."
+	]
+	quest.6551BF6A37291504.quest_subtitle: "Anchor of the Storm"
 	quest.6BAA2C5976B99534.quest_desc: [
 		"This section is WIP."
 		""
@@ -618,6 +629,15 @@
 		"To forge the &5Corrupted Eye&r, collect the scattered &8corrupt relics&r left behind in the ruins of his fallen empire."
 	]
 	quest.7E9828DCB86A8F7B.quest_subtitle: "Royally Screwed"
+	quest.7EE83E5B59706436.quest_desc: [
+		"Deep beneath the surface, you'll find a sculk-infested arena where &l&6Chesed&r&r stirs."
+		""
+		"Don't try to brute force your way through, Chesed cannot be harmed by direct attacks.  "
+		"Instead, master your &lcombat roll&r. You'll need it."
+		""
+		"Think fast, dodge often, and uncover the secret to bringing him down."
+	]
+	quest.7EE83E5B59706436.quest_subtitle: "Or just read his abilities"
 	reward.49D213F4B9A59BDD.title: "You got a shield"
 	reward.61D002C383ACA7B1.title: "Cool reward!!"
 	reward_table.1D58299C8F34A45D.title: "Tier 2 Lucky Crate"
