@@ -4,6 +4,7 @@
 	chapter.1D718FB837DD77F4.title: "placeholder"
 	chapter.208038361CAF40ED.title: "&6Exploration&r"
 	chapter.216366D557F87E7A.title: "&#54F47FThe Merchant"
+	chapter.2BB52A3B5EAADE56.chapter_subtitle: ["The Road to the End Begins"]
 	chapter.2BB52A3B5EAADE56.title: "&6The Gate&r"
 	chapter.4ECD2DE8A7145508.title: "&#54F47FInfo"
 	chapter.51E73FE92B53158E.title: "&#54F47FGetting Started"
@@ -11,6 +12,7 @@
 	chapter.61CDFE234D648952.title: "&#54F47FCompanions"
 	chapter.61D576C588C19262.title: "&#54F47FStorage Solutions"
 	chapter.6772A857951F324A.title: "&#BF4299Apotheosis"
+	chapter.69476E43768F7D1C.chapter_subtitle: ["More In-Depth Guide for all Bosses and Eyes"]
 	chapter.69476E43768F7D1C.title: "&6Hero's Gauntlet&r"
 	chapter.7B6C19A6EC8E6D07.title: "&#BF4299Forbidden and Arcanus"
 	chapter_group.08E9120539AA085B.title: "&#54F47F&lU&#54E877&ll&#53DD6F&lt&#53D166&li&#52C55E&lm&#52B956&la&#51AE4E&lt&#51A245&le &#5EA23F&lF&#6CAE41&la&#7ABA43&ln&#89C544&lt&#97D146&la&#A5DD48&ls&#B3E94A&ly"
@@ -150,6 +152,7 @@
 	]
 	quest.160962902F685752.quest_subtitle: "Still think skipping the night was that simple?   "
 	quest.160962902F685752.title: "Sleep Overhaul"
+	quest.160C85E77DEE17F6.quest_desc: ["These relics have not been implemented yet."]
 	quest.160C85E77DEE17F6.quest_subtitle: "Power"
 	quest.1A0235535E1A8232.title: "&6Apotheosis:&r Adventure Module"
 	quest.1B005FBC082B9C81.quest_desc: [
@@ -307,6 +310,7 @@
 		"Defeat him, and the &cGates to the Nether&r will be opened."
 	]
 	quest.3996C5805550D55E.quest_subtitle: "He's dying to meet you"
+	quest.3996C5805550D55E.title: "Defeat The Dead King"
 	quest.3CE637B2770E89F4.quest_desc: ["To be added..."]
 	quest.3F8A849C6AABBE94.quest_desc: [
 		"The &b&lExotic Eye&r&r is an oceanic relic tied to the ancient city of Acropolis.  "
@@ -381,7 +385,6 @@
 	]
 	quest.4C0A90F5A5C631CD.quest_subtitle: "Read in Jack Black's voice"
 	quest.4C0A90F5A5C631CD.title: "THE NETHER!!"
-	quest.4DA6B655E2F7E4FB.quest_desc: ["&5K’thalkes&r"]
 	quest.4DB9FE2925A9D3E2.quest_desc: [
 		"The &6&lWaystones&r&r allow for fast travel across the world.  "
 		"Activate a Waystone to register it, then return to it at any time."
@@ -615,7 +618,7 @@
 	quest.7A392AAA7BB25F48.quest_desc: [
 		"The &6&lCombat Roll&r&r lets you dodge attacks or dash short distances."
 		""
-		"Press &eR&r to roll (or rebind it in your controls). You'll be invulnerable for a split second!"
+		"Press &eLeft Alt&r to roll (or rebind it in your controls). You'll be invulnerable for a split second!"
 		""
 		"There are &6enchantments&r to extend roll length, reduce cooldowns, or grant extra rolls. Perfect for dodging deadly blows during boss fights."
 	]
@@ -638,6 +641,7 @@
 		"Think fast, dodge often, and uncover the secret to bringing him down."
 	]
 	quest.7EE83E5B59706436.quest_subtitle: "Or just read his abilities"
+	reward.0B063A00FAE754E9.title: "Unlock the Nether"
 	reward.49D213F4B9A59BDD.title: "You got a shield"
 	reward.61D002C383ACA7B1.title: "Cool reward!!"
 	reward_table.1D58299C8F34A45D.title: "Tier 2 Lucky Crate"
@@ -656,6 +660,7 @@
 	task.0AA78EB628BB1AB2.title: "Defeat The Dead King"
 	task.0B391800E86626CB.title: "Mini-Map \\& World Map"
 	task.153D074390AA850D.title: "Exploration"
+	task.1654DDE307DE285D.title: "Defeat Jean, The Ender Dragon"
 	task.187A6435FFDB3124.title: "Any #minecraft:logs"
 	task.18D69BBA42A0E101.title: "Iron's Spells and Spellbooks"
 	task.1C0D205F2083CA15.title: "Chimes"

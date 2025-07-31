@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "minecraft:ghast_tear"
+		"item": "endrem:witch_pupil"
 	},
 	"offhand": {
 		"item": "minecraft:quartz"

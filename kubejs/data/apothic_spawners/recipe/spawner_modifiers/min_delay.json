@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "minecraft:sugar"
+		"item": "irons_spellbooks:timeless_slurry"
 	},
 	"stat_changes": [{
 		"type": "apothic_spawners:min_delay",

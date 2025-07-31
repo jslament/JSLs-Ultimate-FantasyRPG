@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "minecraft:clock"
+		"item": "hazennstuff:deus_essence"
 	},
 	"stat_changes": [{
 		"type": "apothic_spawners:max_delay",

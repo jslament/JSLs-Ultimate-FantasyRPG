@@ -23,7 +23,7 @@
 			y: -3.5d
 		}
 	]
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -210,6 +210,17 @@
 			}]
 			x: -5.5d
 			y: -0.5d
+		}
+		{
+			dependencies: ["112D9EBF8249B189"]
+			id: "26F9BB8A6154D982"
+			tasks: [{
+				id: "25C608B1837BAAE2"
+				item: { count: 1, id: "forbidden_arcanus:aquatic_dragon_scale" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
 		}
 	]
 }

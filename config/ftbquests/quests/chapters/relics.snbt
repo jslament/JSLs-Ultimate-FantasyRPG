@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "relics"
-	group: "39D23E7480A1CDCF"
+	group: "32FA6FC13196390B"
 	icon: {
 		components: {
 			"relics:data": {
@@ -50,7 +50,16 @@
 		id: "reliquified_lenders_cataclysm:void_bubble"
 	}
 	id: "5CEAAF41969C32F0"
-	order_index: 4
+	images: [{
+		height: 3.1d
+		hover: ["This Questline is WIP"]
+		image: "relics:textures/abilities/missing.png"
+		rotation: 0.0d
+		width: 2.2d
+		x: 0.0d
+		y: -2.5d
+	}]
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{

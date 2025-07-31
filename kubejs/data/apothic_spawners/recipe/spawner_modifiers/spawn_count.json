@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "endrem:witch_pupil"
+		"item": "forbidden_arcanus:golden_dragon_scale"
 	},
 	"stat_changes": [{
 		"type": "apothic_spawners:spawn_count",

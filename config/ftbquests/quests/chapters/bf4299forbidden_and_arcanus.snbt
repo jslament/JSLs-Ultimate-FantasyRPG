@@ -7,14 +7,25 @@
 		id: "forbidden_arcanus:hephaestus_forge_tier_3"
 	}
 	id: "7B6C19A6EC8E6D07"
-	images: [{
-		height: 5.0d
-		image: "jslultimatecore:textures/bgbox3a.png"
-		rotation: 0.0d
-		width: 5.0d
-		x: 0.0d
-		y: -4.0d
-	}]
+	images: [
+		{
+			height: 5.0d
+			image: "jslultimatecore:textures/bgbox3a.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			height: 3.1d
+			hover: ["This Questline is WIP"]
+			image: "relics:textures/abilities/missing.png"
+			rotation: 0.0d
+			width: 2.2d
+			x: 10.0d
+			y: -8.5d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [

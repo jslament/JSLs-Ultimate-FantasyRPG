@@ -9,16 +9,26 @@
 		id: "magic_coins:gold_coin"
 	}
 	id: "216366D557F87E7A"
-	images: [{
-		height: 17.0d
-		hover: ["Kthalkes, The Corded Merchant"]
-		image: "jslultimatecore:block/guy"
-		order: -2
-		rotation: 0.0d
-		width: 17.0d
-		x: 0.0d
-		y: 4.0d
-	}]
+	images: [
+		{
+			height: 17.0d
+			hover: ["Kthalkes, The Corded Merchant"]
+			image: "jslultimatecore:block/guy"
+			order: -2
+			rotation: 0.0d
+			width: 17.0d
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			height: 10.0d
+			image: "kubejs:textures/the_merchant.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: -5.0d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -30,15 +40,6 @@
 			}]
 			x: 0.0d
 			y: -7.0d
-		}
-		{
-			id: "4DA6B655E2F7E4FB"
-			tasks: [{
-				id: "6A22BE255E8B8891"
-				type: "checkmark"
-			}]
-			x: 13.0d
-			y: 2.0d
 		}
 		{
 			icon: {

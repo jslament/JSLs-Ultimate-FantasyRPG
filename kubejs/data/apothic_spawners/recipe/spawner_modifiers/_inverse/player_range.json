@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "minecraft:prismarine_crystals"
+		"item": "forbidden_arcanus:silver_dragon_scale"
 	},
 	"offhand": {
 		"item": "minecraft:quartz"

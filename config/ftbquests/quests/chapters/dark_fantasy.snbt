@@ -13,7 +13,7 @@
 		rotation: 0.0d
 		width: 10.0d
 		x: 0.0d
-		y: -8.25d
+		y: -8.5d
 	}]
 	order_index: 0
 	quest_links: [ ]
@@ -51,7 +51,7 @@
 			shape: "netheritetier"
 			size: 2.5d
 			tasks: [{
-				entity: "minecraft:player"
+				entity: "minecraft:ender_dragon"
 				icon: {
 					id: "minecraft:dragon_head"
 				}
@@ -196,17 +196,28 @@
 				"272C20F5B92F2466"
 			]
 			id: "3996C5805550D55E"
-			rewards: [{
-				id: "6BDC9502CDFD1015"
-				item: {
-					components: {
-						"ftbquests:loot_crate": "tier_3_lucky_crate"
+			rewards: [
+				{
+					id: "6BDC9502CDFD1015"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "tier_3_lucky_crate"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
 					}
-					count: 1
-					id: "ftbquests:lootcrate"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					command: "/astages add @s nether true true"
+					icon: {
+						id: "minecraft:netherrack"
+					}
+					id: "0B063A00FAE754E9"
+					silent: true
+					type: "command"
+				}
+			]
 			shape: "woodtier"
 			size: 2.0d
 			tasks: [{
@@ -264,13 +275,14 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "2D7634FA94C35A2B"
 				item: { count: 1, id: "endrem:undead_eye" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 1.25d
+			x: -5.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -296,8 +308,8 @@
 				item: { count: 1, id: "endrem:wither_eye" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 0.0d
+			x: -4.75d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -319,6 +331,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "29467A99825C8D6E"
 				item: { count: 1, id: "endrem:nether_eye" }
@@ -349,6 +362,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "5650AC6CC408DAED"
 				item: { count: 1, id: "endrem:corrupted_eye" }
@@ -374,6 +388,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "11535EFD264E0C70"
 				item: { count: 1, id: "endrem:exotic_eye" }
@@ -396,6 +411,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "3D4B81C9D98D2A2C"
 				item: { count: 1, id: "endrem:old_eye" }
@@ -421,6 +437,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "36A212FDEB5996DC"
 				item: { count: 1, id: "endrem:cold_eye" }
@@ -443,6 +460,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "136D637368971EB6"
 				item: { count: 1, id: "endrem:cryptic_eye" }
@@ -469,13 +487,14 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "4F5BA5840AB00F07"
 				item: { count: 1, id: "endrem:lost_eye" }
 				type: "item"
 			}]
-			x: -4.75d
-			y: -1.0d
+			x: -6.0d
+			y: 1.25d
 		}
 		{
 			dependencies: [
@@ -495,6 +514,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "20CE958A944215B5"
 				item: { count: 1, id: "endrem:guardian_eye" }
@@ -521,6 +541,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "28E375ECE3957388"
 				item: { count: 1, id: "endrem:magical_eye" }
@@ -543,6 +564,7 @@
 				}
 				type: "item"
 			}]
+			size: 1.0d
 			tasks: [{
 				id: "32BE857C7E2C6C97"
 				item: { count: 1, id: "endrem:cursed_eye" }

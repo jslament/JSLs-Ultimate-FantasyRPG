@@ -7,15 +7,26 @@
 		id: "irons_spellbooks:blood_staff"
 	}
 	id: "0B5876BB85B24372"
-	images: [{
-		height: 16.0d
-		image: "jslultimatecore:textures/spellbook.png"
-		order: -1
-		rotation: 0.0d
-		width: 25.6d
-		x: 0.0d
-		y: 0.0d
-	}]
+	images: [
+		{
+			height: 16.0d
+			image: "jslultimatecore:textures/spellbook.png"
+			order: -1
+			rotation: 0.0d
+			width: 25.6d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 3.1d
+			hover: ["This Questline is WIP"]
+			image: "relics:textures/abilities/missing.png"
+			rotation: 0.0d
+			width: 2.2d
+			x: 0.0d
+			y: -9.5d
+		}
+	]
 	order_index: 1
 	quest_links: [
 		{

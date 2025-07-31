@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "minecraft:nether_star"
+		"item": "kubejs:pharaohs_mask"
 	},
 	"offhand": {
 		"item": "minecraft:quartz"

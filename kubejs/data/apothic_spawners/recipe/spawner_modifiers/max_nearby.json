@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "minecraft:ghast_tear"
+		"item": "endrem:witch_pupil"
 	},
 	"stat_changes": [{
 		"type": "apothic_spawners:max_nearby_entities",

@@ -2,7 +2,9 @@
 ServerEvents.recipes(event => {
     // Might use constants for item IDs in the future but for now, using strings directly
     event.blasting('hazennstuff:deus_essence', 'minecraft:nether_star')
-    event.blasting('5x hazennstuff:deus_essence', 'irons_spellbooks:divine_soulshard')
+    event.blasting('4x hazennstuff:deus_essence', 'irons_spellbooks:divine_soulshard')
+    event.blasting('4x hazennstuff:deus_essence', 'cataclysm:essence_of_the_storm')
+    event.blasting('6x hazennstuff:deus_essence', 'fdbosses:lightning_core')
     
     event.shaped(
         Item.of('kubejs:wildfire_essence', 1),
